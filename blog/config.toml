@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Madras Medley'
+theme = 'hugo-ink'
+paginate = 5
+copyright = "© Copyright notice"
+
+
+[params]
+   subtitle = "I have a lot of arbit thoughts. Some of them transpire into words."
+   mode = "auto"
+   avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
