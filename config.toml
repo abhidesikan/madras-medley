@@ -10,3 +10,31 @@ copyright = "© Copyright notice"
    subtitle = "I have a lot of arbit thoughts. Some of them transpire into words."
    mode = "auto"
    avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
+
+# Nav.
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
+
+[[menu.main]]
+name = "Divya Desams"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "Book Reviews"
+url = "/tags"
+weight = 2
+
+[[menu.main]]
+name = "Published Articles"
+url = "/tags"
+weight = 2
+
+
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/abhidesikan"
