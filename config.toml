@@ -7,31 +7,37 @@ copyright = "© Copyright notice"
 
 
 [params]
-   subtitle = "I have a lot of arbit thoughts. Some of them transpire into words."
+   subtitle = "धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization | "
    mode = "auto"
    avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
 
 # Nav.
 
 [[menu.main]]
+name = "Home"
+url = "/home"
+weight = 1
+
+
+[[menu.main]]
 name = "About"
 url = "/about"
-weight = 1
+weight = 2
 
 [[menu.main]]
 name = "Divya Desams"
-url = "/tags"
-weight = 2
+url = "/divya-desams"
+weight = 3
 
 [[menu.main]]
 name = "Book Reviews"
-url = "/tags"
-weight = 2
+url = "/book-reviews"
+weight = 4
 
 [[menu.main]]
 name = "Published Articles"
-url = "/tags"
-weight = 2
+url = "/published-articles"
+weight = 5
 
 
 [[params.social]]
