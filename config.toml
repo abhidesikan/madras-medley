@@ -14,7 +14,7 @@ copyright = "© Copyright notice"
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
 
-# Nav.
+# Nav.   
 
 [[menu.main]]
 name = "Home"

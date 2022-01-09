@@ -1,3 +1,6 @@
 [submodule "blog/themes/hugo-ink"]
 	path = blog/themes/hugo-ink
 	url = https://github.com/knadh/hugo-ink.git
+[submodule "hugo-ink"]
+	path = hugo-ink
+	url = https://github.com/knadh/hugo-ink.git
