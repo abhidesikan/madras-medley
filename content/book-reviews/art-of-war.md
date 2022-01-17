@@ -1,5 +1,5 @@
 ---
-title: "The Art of War"
+title: "The Art of War by Sun Tzu"
 date: 2016-12-22T19:04:22-08:00
 draft: false
 ---

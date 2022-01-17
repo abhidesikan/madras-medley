@@ -1,5 +1,5 @@
 ---
-title: "Public Policy : a citizen's guide"
+title: "Public Policy : a citizen's guide by Vision India Foundation"
 date: 2017-01-03T19:04:31-08:00
 draft: false
 ---

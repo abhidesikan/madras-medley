@@ -1,5 +1,5 @@
 ---
-title: "The Ocean of Churn: How the Indian Ocean Shaped Human History"
+title: "The Ocean of Churn: How the Indian Ocean Shaped Human History by Sanjeev Sanyal"
 date: 2017-10-23T19:04:55-08:00
 draft: false
 ---

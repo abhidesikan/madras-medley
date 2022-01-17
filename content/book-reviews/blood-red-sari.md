@@ -1,5 +1,5 @@
 ---
-title: "Blood Red Sari"
+title: "Blood Red Sari (Kali Rising #1) by Ashok Banker"
 date: 2017-12-30T19:06:11-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "The Bachelor of Arts"
+title: "The Bachelor of Arts by R.K. Narayan"
 date: 2017-10-28T19:05:32-08:00
 draft: false
 ---

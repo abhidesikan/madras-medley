@@ -1,5 +1,5 @@
 ---
-title: "My Days with Baasha"
+title: "My Days with Baasha by Suresh Krissna, Malathi Rangarajan"
 date: 2017-03-12T19:04:38-08:00
 draft: false
 ---

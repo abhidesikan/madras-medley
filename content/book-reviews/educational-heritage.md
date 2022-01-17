@@ -1,5 +1,5 @@
 ---
-title: "The Educational Heritage of Ancient India : How an Ecosystem of Learning Was Laid to Waste"
+title: "The Educational Heritage of Ancient India : How an Ecosystem of Learning Was Laid to Waste by Sahana Singh"
 date: 2017-08-07T19:05:03-08:00
 draft: false
 ---
