@@ -4,9 +4,9 @@ date: 2017-12-17T19:37:27-08:00
 draft: false
 ---
 
-### The Story 
+**The Story**
 
-This past October I was blessed to start my quest to visit all 108 (106 on Earth) Divya Desams by completing fifteen in a one day visit to Kanchipuram, a town in the Indian state of Tamil Nadu. This post is part one of what I hope will be an ongoing series of my visits to these temples. I intend this post to be a travel guide combined with some interesting tidbits and history of these temples.
+This past October I was blessed to start my quest to visit all 108 (106 on Earth) Divya Desams by completing fifteen in a one day visit to Kanchipuram, a town in the Indian state of Tamil Nadu. This post is part one of what I hope will be an ongoing series of my visits to these temples. I intend this post to be a travel guide combined with some interesting Factoids and history of these temples.
 
 **Divya what?**
 
@@ -34,7 +34,7 @@ It is quite a humbling experience to walk through these temples, which were buil
 
 We started off with Sri Vaikunda Perumal Temple. The distinct temple architecture struck me immediately. I had a quick darshan due to the lack of a crowd, and walked around absorbing the greenery around the premises.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Paramapatha Nathan 
 
@@ -49,7 +49,7 @@ Mentioned in Prabhandam by - Thirumangai azhwar.
 
 Probably the only "dual" Divya Desam. Both Pacha Vannar and Pavala Vannar constitute a single Divya Desam and they're right across each other. As you might have guessed, the names refer to Vishnu's color in various yugas -  Pavalm (emerald) & Paccha (green). I noticed that the temple kolam (tank) was in a pretty bad state, a sight which I encountered more than once in the temples I visited that day.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Pavala Vannar/ Sri Pacchai Vannar
 
@@ -65,7 +65,7 @@ Mentioned in Prabhandam by - Pei azhwar, Thirumazhisai azhwar & Thirumangai Azhw
 
 HUGE is what comes to your mind on visiting this shrine. One of the oldest temples in Kanchipuram, the sanctum sanctorum encompasses Krishna (an avatar of Vishnu) in his Vishwaroopam (universal form) in a sitting pose. You can read about the legend of this temple in the photo below.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Pandava Thoothar
 
@@ -84,7 +84,7 @@ The next four Divya Desams are all housed under one complex.
 
 Few sights make you feel as diminutive as looking at Narayana in his Vishwaroopam. In this shrine, we see the Vamana avatar (one of 10 avatars of lord Vishnu) in his universal form, with his left leg at a right angle and parallel to the ground, and the right on Mahabali's head, symbolic of his two steps to measure the two worlds and asking Mahabali where he should place the third. Hence the name "Ulagalantha" which means, one who measured the world.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Ulagalantha Perumal
 
@@ -97,7 +97,7 @@ Mentioned in Prabhandam by - Thirumazhisai Azhwar & Thirumangal Azhwar
 
 This and the other two shrines within this temple were most likely brought to the temple complex due to their own temples being destroyed or damaged due to natural circumstances. Karunakara perumal is representative of the clouds which bring rain and fertility to the earth.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Karunakara Perumal
 
@@ -110,7 +110,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 
 Continuing with the theme of clouds and rain, Thirukarvanam represents the life giving properties of water.
 
-*Tidbits* - 
+*Factoids* - 
 
 Main deity - Sri Kalvar Perumal
 
@@ -123,7 +123,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 
 Rounding up on the last of the water-trinity is Thiru Neeragam. Like the other three, it was relocated and placed around Thiru Ooragam.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Neeragathan
 
@@ -141,7 +141,7 @@ The uniqueness of this temple is that it is housed within a temple dedicated to 
 
 "Nila" means moon in Tamil, and the legend goes that Narayana appeared as a moon during Parvati's (Shiva's consort) penance. The temple itself is massive, with one of the tallest gopurams (gate tower) I've seen.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Nilathingal Thundathan  & Shiva
 
@@ -157,7 +157,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 
 I was looking forward to visiting this shrine as the deity was our "family deity". However, I struggled to locate Him, as the main presiding deity was dedicated to Goddess Kamakshi. After enquiring around, I learnt that He should be seen via a reflection in a mirror. A pleasant surprise indeed.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Adi Varaha Perumal & Kamakshi Amman
 
@@ -195,7 +195,7 @@ Temples are some of the best places to take rest. The cool stone thinnai's (porc
 
 The most handsome form of Vishnu I saw that day was at Thiruputkuzhi. He's said to have performed the last rites and granted moksha (liberation) for Jatayu. Boodevi and Sridevi (his consorts) are at a slanted angle, which the priest said was to protect Him from the heat.
 
-*Tidbits* - 
+*Factoids* - 
 
 Main deity - Sri Vijayaraghava Perumal
 
@@ -213,7 +213,7 @@ The highlight of the day was of course the Varadaraja Perumal temple, the most f
 
 Sri Varadaraja Perumal was a magnificent sight to behold and  the golden and silver lizards situated on a panel at the roof of the temple, added to the allure of the temple.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Varadaraja Perumal
 
@@ -231,7 +231,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar, Boodathazhwar & Pei Azhwar
 
 Also known as "Sonna Vannam Seitha perumal" , one who does what was asked of him, it was the first time I saw Narayana lying on Adisesha (giant snake) in the opposite direction (right to left). The temple premises were beautiful as well, with the processions going on adding to its charm. The temple is also known to be the birthplace of Poigai Azhwar, born in a pond nearby.
 
-*Tidbits* - 
+*Factoids* - 
 
 Main deity - Sri Yathothakaari Perumal
 
@@ -247,7 +247,7 @@ Mentioned in Prabhandam by - Thirumazhisai Azhwar, Thirumangai Azhwar, Poigai Az
 
 Located very near Sri Yathothakaari Perumal temple, the Lord here has 8 hands, holding different weapons in each of them.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Aadikesava Perumal
 
@@ -263,7 +263,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar & Pei Azhwar
 
 It was getting dark by now. After stopping by for a quick sip of tea, we continued to Thiru Velukkai. Here He is in his Nrsimha avatar, as Yoga Nrisimar.
 
-*Tidbits* - 
+*Factoids* - 
 
 Main deity - Sri Azhagiya Singar Perumal
 
@@ -281,7 +281,7 @@ The last stop of the day was at Thiruthanka. "Deepa" means light and in this tem
 
 This temple is said to be the birthplace of one of the greatest polymaths of India, Vedanta Desika. He was an ardent devotee of Sri Deepa Prakasar, and a shrine is dedicated to him in this temple.
 
-*Tidbits* -
+*Factoids* -
 
 Main deity - Sri Deepa Prakasar Perumal
 
