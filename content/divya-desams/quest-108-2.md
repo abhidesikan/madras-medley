@@ -12,7 +12,7 @@ In 2017 I set out to visit all the Divya Desams and document my visits to these 
 
 Do you've no clue what the above sentence means? Well, here's a refresher to [part 1](https://madrasmedley.com/divya-desams/quest-108-1/) of my journey.
 
-Assuming you're now sufficiently informed, I will dive right in. Next on my list was Sirkāzhi-Thirnangur, two small and bustling towns in the district of Nagapattinam in Tamil Nadu. Out of 13 Divya Desam temples in the area, I managed to visit 11 and by a happy coincidence, I visited another in Chidambaram as well when I was there for my friend's wedding reception. That now brings my tally to 27, and I think Nārāyana wants me to visit Sirkāzhi again for the remaining 2. (Note - an accented "ā" sounds like "aa")
+Assuming you're now sufficiently informed, I will dive right in. Next on my list was Sirkāzhi-Thirnangur, two small and bustling towns in the district of Nagapattinam in Tamil Nadu. Out of 13 Divya Desam temples in the area, I managed to visit 11 and by a happy coincidence, I visited another in Chidambaram as well when I was there for my friend's wedding reception. I visited these temples betwen late October and early November 2018. That now brings my tally to 27, and I think Nārāyana wants me to visit Sirkāzhi again for the remaining 2. (Note - an accented "ā" sounds like "aa")
 
 **That's right! We asked you for a vlog this time, remember?**
 

@@ -4,7 +4,7 @@ date: 2020-01-10T18:15:41-08:00
 draft: false
 ---
 
-The Story
+**The Story**
 
 We are back to our exploration of Divya Desams in Bhārat. Although I visited these temples last July, I got time to pen down the experience only now, so I apologize if I missed out on some details. For those who aren't familiar with this series, I highly recommend you read [part 1](https://madrasmedley.com/divya-desams/quest-108-1/) and [part 2](https://madrasmedley.com/divya-desams/quest-108-2/) to get an idea.
 
