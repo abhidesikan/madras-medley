@@ -288,3 +288,7 @@ Safe to say that there are always new and unique experiences in these temple vis
 
 ![journey](/journey_1.jpg "Unreserved journey game face on.")
 ![journey](/journey_2.jpg "Hey, still better than standing for 6 hours!")
+
+&nbsp;&nbsp;
+
+*Originally published [here](https://madrasmedley.blogspot.com/2019/02/quest-for-108-part-2-sirkazhi.html).*

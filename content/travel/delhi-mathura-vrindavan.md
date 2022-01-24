@@ -256,3 +256,8 @@ After consuming some hot samosas at Cafe Coffee Day, we headed to Akshardham to 
 ![delhi](/delhi_37.JPG "Dinner with Prachi and her bro.")   
 
 Finally, it was time to depart for our early morning flight. We bid goodbye, got our luggage from Shangri-la, and took the Delhi express metro to the Airport. I was super impressed with the WiFi connectivity within the metro. After a tiring wait, we boarded the flight back to the US. Truly one of the most memorable trips I've had. 
+
+
+&nbsp;&nbsp;
+
+*Originally published [here](https://madrasmedley.blogspot.com/2020/05/exploring-northern-india-my-trip-to.html).*

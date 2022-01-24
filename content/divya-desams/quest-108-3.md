@@ -68,3 +68,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār
 
 I will soon post about a couple of Divya Desam's I visited in the north of India.
 
+
+&nbsp;&nbsp;
+
+*Originally published [here](https://madrasmedley.blogspot.com/2020/01/quest-for-108-part-3-chennaithiruvallur.html).*
