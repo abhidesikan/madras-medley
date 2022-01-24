@@ -9,7 +9,7 @@ copyright = "© Copyright notice"
 [params]
    subtitle = "धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization"
    mode = "auto"
-   avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
+   #avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
    mainSections = ['posts']
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
