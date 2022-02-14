@@ -1,6 +1,6 @@
 ---
 title: "The English Medium Myth by Sankrant Sanu"
-date: 2022-02-14T13:51:45-08:00
+date: 2022-02-13T13:51:45-08:00
 draft: false
 ---
 
@@ -24,4 +24,4 @@ This book serves only as a starting point to understand the enormous implication
 
 &nbsp;&nbsp;
 
-*Also published [here](https://www.goodreads.com/review/show/1939465191).*
+*Also published [here](https://www.goodreads.com/review/show/4500973114).*
