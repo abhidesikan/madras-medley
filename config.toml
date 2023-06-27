@@ -10,14 +10,14 @@ copyright = "© Copyright notice"
    subtitle = "धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization"
    mode = "auto"
    #avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
-   mainSections = ['posts']
+   mainSections = ['posts', 'book-reviews', 'analysis', 'travel', 'published-articles' ]
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
 
 # Nav.   
 
 [[menu.main]]
-name = "Home"
+name = "Recent Posts"
 url = "/"
 weight = 1
 
@@ -38,8 +38,8 @@ url = "/divya-desams"
 weight = 5
 
 [[menu.main]]
-name = "Mahabharata"
-url = "/mahabharata"
+name = "Analysis"
+url = "/analysis"
 weight = 6
 
 [[menu.main]]
