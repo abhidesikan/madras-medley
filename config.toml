@@ -10,7 +10,7 @@ copyright = "© Copyright notice"
    subtitle = "धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization"
    mode = "auto"
    #avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
-   mainSections = ['posts', 'book-reviews', 'analysis', 'travel', 'published-articles' ]
+   mainSections = ['posts', 'book-reviews', 'thoughts', 'travel', 'published-articles' ]
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
 
 
@@ -38,8 +38,8 @@ url = "/divya-desams"
 weight = 5
 
 [[menu.main]]
-name = "Analysis"
-url = "/analysis"
+name = "Thoughts"
+url = "/thoughts"
 weight = 6
 
 [[menu.main]]
