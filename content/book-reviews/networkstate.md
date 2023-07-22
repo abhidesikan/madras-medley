@@ -1,5 +1,5 @@
 ---
-title: "Networkstate"
+title: "The Network State: How To Start a New Country"
 date: 2023-07-22T11:31:12-07:00
 draft: false
 ---
