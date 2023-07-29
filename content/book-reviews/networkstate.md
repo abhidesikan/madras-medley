@@ -28,4 +28,4 @@ While the ideas in this book may be considered wild, there's enough data, explor
 
 &nbsp;&nbsp;
 
-*Allso published [here](https://www.goodreads.com/review/show/5592567085).*
+*Also published [here](https://www.goodreads.com/review/show/5592567085).*
