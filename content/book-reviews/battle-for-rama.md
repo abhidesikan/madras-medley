@@ -1,6 +1,6 @@
 ---
 title: "The Battle for Rama : Case of the Temple at Ayodhya"
-date: 2023-10-01T08:30:56-07:00
+date: 2023-09-30T08:30:56-07:00
 draft: false
 ---
 
