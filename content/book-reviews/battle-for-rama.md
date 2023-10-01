@@ -1,8 +1,8 @@
-——- 
-title: “The Battle for Rama - Case of the Temple at Ayodhya”
-date: 2023-10-01T08:00:57-08:00
+---
+title: "The Battle for Rama : Case of the Temple at Ayodhya"
+date: 2023-10-01T08:04:38-08:00
 draft: false
-——-
+---
 
 The Battle for Rama is a concise reference book on one of the most critical and controversial issues in Bharāt- the birthplace of Lord Sri Rama at Ramjanmabhumi at Ayodhya. The book details the entire history of the place, the continued worship and faith of millions at the site, and the various conflicts due to the construction of the Babri Masjid by Babur and its subsequent demolition.
 
