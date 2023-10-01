@@ -14,6 +14,7 @@ Today, we know the outcome of the Supreme Court verdict, but at the time of this
 
 On the eve of the Ram Mandir inauguration at Ayodhya next year, this book is an essential reminder of the endless struggles Hindus went through to reclaim their rightful claim to build a temple and worship Lord Rama at his birthplace.
 
+&nbsp;&nbsp;
 
 ![rama](/rama.jpg)
 
