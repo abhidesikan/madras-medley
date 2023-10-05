@@ -1,21 +1,25 @@
 ---
-title: "Let's Talk Money 2"
-date: 2023-08-25T17:30:56-07:00
+title: "Hindus In Hindu Rashtra"
+date: 2023-10-05T08:30:56-07:00
 draft: false
 ---
 
-Let's Talk Money by Monika Halan is one of those books I'd recommend as a must-read for everyone, regardless of whether they're a novice or an expert at managing their finances. I was impressed with how the book was structured, and it provides a step-by-step approach to making one's money work for them in different life situations.
+Reading a book rarely makes you feel anger, despair, anxiety, hopelessness, and resignation. Strangely, these are the only emotions one experiences while reading Dr. Anand Ranganathan's latest book - Hindus in Hindu Rashtra: Eighth-Class Citizens and Victims of state-sanctioned apartheid.
 
-Most people lack structure in organizing their finances, don't have good advisors, and tend to make financial decisions out of emotion rather than logic. The author does a fantastic job of walking us through the jargon, different life situations we might be in, and how best we can plan to have a stress-free financial life. The concept of a money box, with separate compartments addressing various aspects of our lives, from savings, emergency funds, medical insurance, equity, retirement, and death, made it relatable and easy to follow.
+If the title of this book isn't sobering enough for a practicing Hindu, reading through it only makes it worse with every turn of the page. In his characteristic style, self-proclaimed "Darwinian-Atheist" Dr. Anand makes a searing indictment of the judiciary, legislature, and the Indian state itself as he rips apart the "secular fabric" narrative peddled in our country and lays bare harsh truths and the reality of the pathetic nature of existence of Hindus in India, mockingly asking us after every chapter - Is this what you call a Hindu Rashtra? 
 
-The author also addresses myths and taboos associated with making wills, our obsession with gold and real estate, and demystifies them with data and many first-hand accounts from her friends and colleagues. 
+The book is short and delivers knockout punch after punch, from the State control of temples, ethnic cleansing of Kashmiri Hindus, The Waqf Act, The RTE Act, the hypocrisy of the judiciary in reforming only Hinduism and appeasing non-Hindus, the Places of Worship Act, and the ultimate debasement of Hindus by continually extolling mass murderers and converters whose atrocious acts continue to live in collective memory to this day. Despite all this, we still patiently went the judicial route, not the anarchic way to reclaim the Ram Janmabhumi, a mere 500-year wait to heal our civilizational trauma. 
 
-While the book is tailored to an Indian lifestyle, most key learnings apply worldwide. The author repeatedly emphasizes that this book isn't a get-rich overnight recipe but one that points you in the right direction to ensure a healthy financial outlook for yourself and your near and dear ones. The hard work still needs to be done by us to reap the dividends, but this book can act as an excellent reference guide for making critical decisions. 
+As Anand rightly mentions, most Hindus of India aren't even aware of how they're subject to legal and constitutional subjugation. That an atheist has done a fantastic job elucidating the plight of Hindus in this country makes one hang their head in shame. 
+
+This book is an eye-opener and a must-read. Our ancestors fought for millennia to keep Hinduism alive, which is being eradicated in independent India under our noses. Wake up, ye Hindus, from your slumber before it is too late. 
+
+
 
 &nbsp;&nbsp;
 
-![money](/money.jpg)
+![hindurashtra](/hindurashtra.jpg)
 
 &nbsp;&nbsp;
 
-*Also published [here](https://www.goodreads.com/review/show/5728754905).*
+*Also published [here](https://www.goodreads.com/review/show/5878507921).*
