@@ -16,7 +16,7 @@ As someone who isn’t very financially literate, I found this an eye-opener, an
 
 &nbsp;&nbsp;
 
-![money](/mutualfunds.jpg)
+![mutualfunds](/mutualfunds.jpg)
 
 &nbsp;&nbsp;
 
