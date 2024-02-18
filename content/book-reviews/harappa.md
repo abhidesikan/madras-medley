@@ -12,7 +12,7 @@ The author provides a lot of maps and other tabular data to put forth his argume
 
 We dive deep into civilizations East and West, the interactions between them and the Harappans, conceptualizing Asuras and Devas w.r.t to immigrants from outside vs. within. The author also speculated on the original location of Ayodhya to be Harappa itself and how the Ramayana took place within the Harappan locations and later included all of Bharatavarsha. While some of his correlations warrant deeper investigation, others do not conform with existing discoveries. 
 
-The book also examines the Aryan invasion theory related to these timelines, genetics, and linguistics, the spread of languages, and the split between Indo-Aryan and Elamo-Dravidian languages. 
+The book also examines the Aryan invasion theory related to these timelines, genetics, linguistics, the spread of languages, and the split between Indo-Aryan and Elamo-Dravidian languages. 
 
 It took a lot of work to follow some parts of the book, particularly the explanations of Asuras and Devas, following lineages of the Iksvaku clan, etc. The author tries to focus on too many disciplines and could have made the explanations more lucid. Still, it was an academic and engaging read. 
 
