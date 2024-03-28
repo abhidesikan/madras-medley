@@ -1,8 +1,8 @@
-—
+--- 
 title: “Raya”
 date: 2024-02-17T22:51:15-08:00
 draft: false
-—
+--- 
 
 Raya by Srinivas Reddy is a biography of the legendary Indian King of the Vijayanagara Empire, Krishnadevaraya. The book references “Rayavacakamu,””Amuktamalyada,” and various sources from foreign travelers and merchants who visited the empire during its heydays under his reign in the early 16th century. While the book serves as a basic introduction to Raya and the life and times of that era, it lacks depth and tries too much to “secularize” the narrative that falls flat. 
 
