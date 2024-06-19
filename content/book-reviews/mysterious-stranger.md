@@ -1,5 +1,5 @@
 ---
-title: "Mysterious Stranger by David Blaine"
+title: "Mysterious Stranger by David Blaine - Review by Abhishek Desikan"
 date: 2016-11-17T19:04:10-08:00
 draft: false
 ---

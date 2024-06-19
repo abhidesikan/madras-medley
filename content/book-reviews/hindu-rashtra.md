@@ -1,5 +1,5 @@
 ---
-title: "Hindus In Hindu Rashtra"
+title: "Hindus In Hindu Rashtra - Review by Abhishek Desikan"
 date: 2023-10-05T08:30:56-07:00
 draft: false
 ---

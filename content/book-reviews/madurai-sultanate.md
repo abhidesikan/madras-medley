@@ -1,5 +1,5 @@
 ---
-title: "The Madurai Sultanate: A Concise History by Sandeep Balakrishna"
+title: "The Madurai Sultanate: A Concise History by Sandeep Balakrishna - Review by Abhishek Desikan"
 date: 2019-03-15T22:40:50-08:00
 draft: false
 ---

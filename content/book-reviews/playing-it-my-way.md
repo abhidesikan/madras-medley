@@ -1,5 +1,5 @@
 ---
-title: "Playing It My Way: My Autobiography by Sachin Tendulkar, Boria Majumdar"
+title: "Playing It My Way: My Autobiography by Sachin Tendulkar, Boria Majumdar - Review by Abhishek Desikan"
 date: 2015-04-01T18:13:17-08:00
 draft: false
 ---

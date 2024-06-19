@@ -1,5 +1,5 @@
 ---
-title: "The Mahabharata Murders by Arnab Ray"
+title: "The Mahabharata Murders by Arnab Ray - Review by Abhishek Desikan"
 date: 2017-09-25T19:05:23-08:00
 draft: false
 ---

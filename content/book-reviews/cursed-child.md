@@ -1,5 +1,5 @@
 ---
-title: "Harry Potter and the Cursed Child by J.K.Rowling"
+title: "Harry Potter and the Cursed Child by J.K.Rowling - Review by Abhishek Desikan"
 date: 2016-07-31T18:13:17-08:00
 draft: false
 ---

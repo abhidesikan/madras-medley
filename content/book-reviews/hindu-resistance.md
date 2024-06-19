@@ -1,5 +1,5 @@
 ---
-title: "Heroic Hindu Resistance to Muslim Invaders, 636 AD To 1206 AD by Sita Ram Goel"
+title: "Heroic Hindu Resistance to Muslim Invaders, 636 AD To 1206 AD by Sita Ram Goel - Review by Abhishek Desikan"
 date: 2019-02-15T22:40:09-08:00
 draft: false
 ---

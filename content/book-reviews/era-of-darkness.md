@@ -1,5 +1,5 @@
 ---
-title: "An Era of Darkness: The British Empire in India by Shashi Tharoor"
+title: "An Era of Darkness: The British Empire in India by Shashi Tharoor - Review by Abhishek Desikan"
 date: 2016-12-23T18:13:17-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "India in the Age of Ideas: Select Writings: 2006-2018 by Sanjeev Sanyal"
+title: "India in the Age of Ideas: Select Writings: 2006-2018 by Sanjeev Sanyal - Review by Abhishek Desikan"
 date: 2019-03-27T22:41:01-08:00
 draft: false
 ---

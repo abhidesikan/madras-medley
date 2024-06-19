@@ -1,5 +1,5 @@
 ---
-title: "A New Idea of India: Individual Rights in a Civilisational State by Harsh Gupta 'Madhusudan', Rajeev Mantri"
+title: "A New Idea of India: Individual Rights in a Civilisational State by Harsh Gupta 'Madhusudan', Rajeev Mantri - Review by Abhishek Desikan"
 date: 2020-12-22T18:41:05-08:00
 draft: false
 ---

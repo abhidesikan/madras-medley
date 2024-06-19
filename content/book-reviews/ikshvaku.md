@@ -1,5 +1,5 @@
 ---
-title: "Scion of Ikshvaku (Ram Chandra #1) by Amish Tripathi"
+title: "Scion of Ikshvaku (Ram Chandra #1) by Amish Tripathi - Review by Abhishek Desikan"
 date: 2017-11-17T19:06:01-08:00
 draft: false
 ---

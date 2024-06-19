@@ -1,5 +1,5 @@
 ---
-title: "Sultan of Delhi: Ascension by Arnab Ray "
+title: "Sultan of Delhi: Ascension by Arnab Ray  - Review by Abhishek Desikan"
 date: 2021-08-20T18:42:50-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Defence of Hindu Society by Sita Ram Goel"
+title: "Defence of Hindu Society by Sita Ram Goel - Review by Abhishek Desikan"
 date: 2021-11-12T18:42:15-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Flight of Deities and Rebirth of Temples: Episodes from Indian History by Meenakshi Jain"
+title: "Flight of Deities and Rebirth of Temples: Episodes from Indian History by Meenakshi Jain - Review by Abhishek Desikan"
 date: 2019-09-14T22:40:42-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Avishi: Vishpala of Rig Veda Reimagined by Saiswaroopa Iyer"
+title: "Avishi: Vishpala of Rig Veda Reimagined by Saiswaroopa Iyer - Review by Abhishek Desikan"
 date: 2020-05-16T18:40:38-08:00
 draft: false
 ---

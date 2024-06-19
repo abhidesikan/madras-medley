@@ -1,5 +1,5 @@
 ---
-title: "India, Bhārat and Pakistan : The Constitutional Journey of a Sandwiched Civilization"
+title: "India, Bhārat and Pakistan : The Constitutional Journey of a Sandwiched Civilization - Review by Abhishek Desikan"
 date: 2023-03-27T18:25:35-07:00
 draft: false
 ---

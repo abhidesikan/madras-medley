@@ -1,5 +1,5 @@
 ---
-title: "Astrophysics for People in a Hurry by Neil deGrasse Tyson"
+title: "Astrophysics for People in a Hurry by Neil deGrasse Tyson - Review by Abhishek Desikan"
 date: 2017-06-22T19:04:45-08:00
 draft: false
 ---

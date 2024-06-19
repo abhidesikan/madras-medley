@@ -1,5 +1,5 @@
 ---
-title: "Sri Ramanuja His Life Religion and Philosophy by Tapasyananda"
+title: "Sri Ramanuja His Life Religion and Philosophy by Tapasyananda - Review by Abhishek Desikan"
 date: 2017-11-03T19:05:51-08:00
 draft: false
 ---

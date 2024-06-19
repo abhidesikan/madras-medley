@@ -1,5 +1,5 @@
 ---
-title: "The Indian Renaissance: India's Rise After a Thousand Years of Decline by Sanjeev Sanyal"
+title: "The Indian Renaissance: India's Rise After a Thousand Years of Decline by Sanjeev Sanyal - Review by Abhishek Desikan"
 date: 2018-08-25T22:33:52-08:00
 draft: false
 ---

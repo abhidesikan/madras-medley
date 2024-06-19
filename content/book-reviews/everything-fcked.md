@@ -1,5 +1,5 @@
 ---
-title: "Everything Is F*cked: A Book About Hope by Mark Manson"
+title: "Everything Is F*cked: A Book About Hope by Mark Manson - Review by Abhishek Desikan"
 date: 2020-03-20T22:42:08-08:00
 draft: false
 ---

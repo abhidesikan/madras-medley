@@ -1,5 +1,5 @@
 ---
-title: "India that is Bharat: Coloniality, Civilisation, Constitution by J Sai Deepak"
+title: "India that is Bharat: Coloniality, Civilisation, Constitution by J Sai Deepak - Review by Abhishek Desikan"
 date: 2021-10-11T18:43:08-08:00
 draft: false
 ---

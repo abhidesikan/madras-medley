@@ -1,5 +1,5 @@
 ---
-title: "Jaya: An Illustrated Retelling of the Mahabharata by Devdutt Pattanaik"
+title: "Jaya: An Illustrated Retelling of the Mahabharata by Devdutt Pattanaik - Review by Abhishek Desikan"
 date: 2015-05-06T18:13:17-08:00
 draft: false
 ---

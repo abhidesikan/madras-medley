@@ -1,5 +1,5 @@
 ---
-title: "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel"
+title: "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel - Review by Abhishek Desikan"
 date: 2018-10-20T22:34:29-08:00
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Land of the Seven Rivers: A Brief History of India's Geography by Sanjeev Sanyal"
+title: "Land of the Seven Rivers: A Brief History of India's Geography by Sanjeev Sanyal - Review by Abhishek Desikan"
 date: 2018-04-01T19:06:30-08:00
 draft: false
 ---

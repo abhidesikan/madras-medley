@@ -1,5 +1,5 @@
 ---
-title: "Sita: An Illustrated Retelling of the Ramayana  by Devdutt Pattanaik"
+title: "Sita: An Illustrated Retelling of the Ramayana  by Devdutt Pattanaik - Review by Abhishek Desikan"
 date: 2016-07-08T18:13:17-08:00
 draft: false
 ---

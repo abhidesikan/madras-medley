@@ -1,5 +1,5 @@
 ---
-title: "The Ideology of India's Modern Right by Subramanian Swamy"
+title: "The Ideology of India's Modern Right by Subramanian Swamy - Review by Abhishek Desikan"
 date: 2021-08-28T18:43:00-08:00
 draft: false
 ---

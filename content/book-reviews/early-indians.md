@@ -1,5 +1,5 @@
 ---
-title: "Genetics and the Aryan debate: 'Early Indians' Tony Joseph's Latest Assault by Shrikant G. Talageri"
+title: "Genetics and the Aryan debate: 'Early Indians' Tony Joseph's Latest Assault by Shrikant G. Talageri - Review by Abhishek Desikan"
 date: 2021-12-24T18:43:32-08:00
 draft: false
 ---
