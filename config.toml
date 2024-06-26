@@ -16,6 +16,9 @@ copyright = "© Copyright notice"
 
 # Nav.   
 
+[permalinks]
+about = "/about/"
+
 [[menu.main]]
 name = "Recent Posts"
 url = "/"

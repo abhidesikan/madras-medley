@@ -1,5 +1,5 @@
 ---
-slug: "abhishek_desikan"
+type: "about"
 draft: false
 ---
 
