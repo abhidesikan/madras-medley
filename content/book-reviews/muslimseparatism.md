@@ -1,5 +1,5 @@
 ---
-title: "Muslim Separatism: Causes and Consequences by Sita Ram Goel"
+title: "Muslim Separatism: Causes and Consequences by Sita Ram Goel - Review by Abhishek Desikan"
 date: 2024-06-25T18:00:41-07:00
 draft: false
 ---
