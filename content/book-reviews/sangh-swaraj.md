@@ -19,4 +19,4 @@ It can be said without ambiguity that RSS played a vital role in the Indian free
 
 &nbsp;&nbsp;
 
-*Originally published [here](https://www.goodreads.com/review/show/7059445994).*
+*Also published [here](https://www.goodreads.com/review/show/7059445994).*
