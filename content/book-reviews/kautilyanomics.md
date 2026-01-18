@@ -20,4 +20,4 @@ Overall, the book serves as a good introduction to the Arthashastra from an econ
 
 &nbsp;&nbsp;
 
-*Also published [here](https://www.goodreads.com/review/show/YOUR_REVIEW_ID).*
+*Also published [here](https://www.goodreads.com/review/show/8003444407).*
