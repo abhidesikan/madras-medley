@@ -2,6 +2,9 @@
 title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance - Review by Abhishek Desikan"
 date: 2017-09-22T19:05:15-08:00
 draft: false
+rating: 4
+description: "For quite some time I've subscribed to the view that Elon Musk is the greatest mind of the 21st century. SpaceX, Tesla, Solar City and the rest of his compan..."
+keywords: ["Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future", "Ashlee Vance - Review", "book review", "history", "economics", "biography"]
 ---
 
 For quite some time I've subscribed to the view that Elon Musk is the greatest mind of the 21st century. SpaceX, Tesla, Solar City and the rest of his companies have been groundbreaking and pushed the limits of human capability, and we owe it to his singular capability to state the impossible and achieve it. My curiosity to learn how it all began, and what makes Musk, Musk, led me to read this excellent biography by Ashlee Vance. It is to his credit that he has uncovered a complex personality and delved deep into how his mind works, and at the same time keep the reader engaged and not feel left out.

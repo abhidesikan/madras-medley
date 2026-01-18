@@ -2,6 +2,9 @@
 title: "Ponniyin Selvan - Fresh Floods - Part 1 - Review by Abhishek Desikan"
 date: 2023-04-23T21:10:19-07:00
 draft: false
+rating: 4
+description: "Ponniyin Selvan needs no introduction, and I consider it my good fortune to be born a Tamil and to have access to this literary masterpiece which has been ce..."
+keywords: ["Ponniyin Selvan - Fresh Floods - Part 1 - Review", "Abhishek Desikan", "book review", "history", "Mahabharata", "fiction"]
 ---
 
 Ponniyin Selvan needs no introduction, and I consider it my good fortune to be born a Tamil and to have access to this literary masterpiece which has been celebrated for decades. While I still couldn't read the book in Tamil, owing to my language gaps, I managed to read an excellent translation by Pavithra Srinivasan. Translating a text of this scale and grandeur takes work. Still, the author did a fantastic job bringing about Kalki's vivid descriptions of the life and times of 10th-century Chozha Nadu alive.

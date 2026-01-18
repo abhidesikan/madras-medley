@@ -18,7 +18,20 @@
 				<div class="matter">
 					<h1 class="title">{{ .Title }}</h1>
 					{{ if ne .Date.Year 1 }}
-						<p style="color: #999; font-size: 0.85rem; margin-top: -0.5em; font-weight: 400;">{{ dateFormat "Jan 2, 2006" .Date }}</p>
+						<div style="color: #999; font-size: 0.85rem; margin-top: -0.5em; font-weight: 400; display: flex; gap: 0.8em; flex-wrap: wrap; align-items: center;">
+							<span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
+							<span>·</span>
+							<span>{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+							{{- if .Params.rating -}}
+								<span>·</span>
+								<span style="color: #f59e0b; letter-spacing: 0.1em;">
+									{{- $rating := .Params.rating -}}
+									{{- range seq $rating -}}★{{- end -}}
+									{{- range seq (sub 5 $rating) -}}☆{{- end -}}
+								</span>
+								<span>({{ .Params.rating }}/5)</span>
+							{{- end -}}
+						</div>
 					{{ end }}
 				</div>
 			</div>

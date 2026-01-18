@@ -2,6 +2,9 @@
 title: "Who We Are and How We Got Here by David Reich"
 date: 2025-06-02T00:12:39-08:00
 draft: false
+rating: 5
+description: "I was inspired to read this book after watching a podcast with David Reich. As someone who’s long been interested in the origins of humanity, the movement of..."
+keywords: ["Who We Are and How We Got Here", "David Reich", "book review", "India", "economics"]
 ---
 
 I was inspired to read this book after watching a podcast with David Reich. As someone who’s long been interested in the origins of humanity, the movement of people and languages, and the ancient DNA revolution, I was excited to understand it all in greater detail straight from the horse's mouth.

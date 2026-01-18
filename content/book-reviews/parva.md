@@ -2,6 +2,9 @@
 title: "Parva by S.L.Bhyrappa - Review by Abhishek Desikan"
 date: 2020-11-28T22:34:37-08:00
 draft: false
+rating: 5
+description: "Parva can only be described as a magnum opus. Reviewing an epic comes with the obvious challenge of not being able to capture all of its glory."
+keywords: ["Parva", "S.L.Bhyrappa - Review", "book review", "India", "Bharat", "Mahabharata"]
 ---
 
 Parva can only be described as a magnum opus. Reviewing an epic comes with the obvious challenge of not being able to capture all of its glory. How does one view it? At its heart, it is a retelling of the Mahabharata, stripped of its mythological aspects. But to leave it at that would be a gross injustice. One may consider it a commentary on what Dharma is. We discover the politics, warfare, and strategy of the Vedic times. There is an exploration of a wide range of human emotions, from jealousy to ecstasy. Simply put, as the cover suggests, it is a tale of War, Peace, Love, Death, God, and Man.

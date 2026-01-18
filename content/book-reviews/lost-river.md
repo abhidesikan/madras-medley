@@ -2,11 +2,14 @@
 title: "The Lost River: On The Trail of the Sarasvati by Michel Danino - Review by Abhishek Desikan"
 date: 2019-11-02T22:41:32-08:00
 draft: false
+rating: 5
+description: "The river Saraswathi has been in the collective memory of the Indian civilization since time immemorial. Revered as one of the mightiest rivers in the Rig Ve..."
+keywords: ["The Lost River: On The Trail of the Sarasvati", "Michel Danino - Review", "book review", "India", "history"]
 ---
 
 The river Saraswathi has been in the collective memory of the Indian civilization since time immemorial. Revered as one of the mightiest rivers in the Rig Veda and prayed to as Goddess Saraswathi, it has transcended generations across millennia to remain in our consciousness. In this landmark work, Michel Danino tells us the gripping tale of the origin, rise, and fall of this mighty river and its renaissance in the 21st century.
 
-The book is titled "The Lost River" precisely because it was lost for millennia. British archaeologists stumbled upon bricks and structures which belonged to the highly sophisticated cities built by the people of the Indus Valley Civilization. This prompted a series of excavations, which led to a new understanding of our own history.
+The book is titled 'The Lost River' precisely because it was lost for millennia. British archaeologists stumbled upon bricks and structures which belonged to the highly sophisticated cities built by the people of the Indus Valley Civilization. This prompted a series of excavations, which led to a new understanding of our own history.
 
 The author leaves no stone unturned in terms of the research he's done to present the facts in this book. Every aspect from its origin, possible reasons for its decline due to Sutlej and Yamuna being diverted, the various phases of the Harappan civilization - early, mature and post-Urban, the comparison between the Rig Veda vis-a-vis the geography of the landscape, evidence from numerous archaeological excavations, both Indian and foreign, planning of the cities and the consistency of their ratios across the region, flora and fauna.. the list goes on!
 

@@ -2,6 +2,9 @@
 title: "Ponniyin Selvan - Whirlwinds - Part 2 - Review by Abhishek Desikan"
 date: 2023-06-03T15:34:19-07:00
 draft: false
+rating: 4
+description: "Note: You can access part 1 of my review [here](https://madrasmedley.com/book-reviews/ps1/). Part 2, and others, are a direct continuation of their previous ..."
+keywords: ["Ponniyin Selvan - Whirlwinds - Part 2 - Review", "Abhishek Desikan", "book review"]
 ---
 
 Note: You can access part 1 of my review [here](https://madrasmedley.com/book-reviews/ps1/). 

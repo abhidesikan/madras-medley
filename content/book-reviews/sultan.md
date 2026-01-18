@@ -2,6 +2,9 @@
 title: "Sultan of Delhi: Ascension by Arnab Ray  - Review by Abhishek Desikan"
 date: 2021-08-20T18:42:50-08:00
 draft: false
+rating: 3
+description: "I picked up this book as I liked the author's (Arnab Ray) other book named Mahabharata Murders. Sultan of Delhi wasn't as thrilling or racy as the former, as..."
+keywords: ["Sultan of Delhi: Ascension", "Arnab Ray  - Review", "book review", "India", "Bharat", "Mahabharata"]
 ---
 
 I picked up this book as I liked the author's (Arnab Ray) other book named Mahabharata Murders. Sultan of Delhi wasn't as thrilling or racy as the former, as it is set in a very different environment.

@@ -2,9 +2,12 @@
 title: "The Network State: How To Start a New Country - Review by Abhishek Desikan"
 date: 2023-07-22T11:31:12-07:00
 draft: false
+rating: 4
+description: "This eponymous book is what one would call a 'Think Big' initiative - how does one start a new country in the internet age, and what are the various factors ..."
+keywords: ["The Network State: How To Start a New Country - Review", "Abhishek Desikan", "book review", "history"]
 ---
 
-This eponymous book is what one would call a "Think Big" initiative - how does one start a new country in the internet age, and what are the various factors at play and viability of this concept in multiple spheres - social, technical, logistical, legal, physical and financial. Balaji is a tech entrepreneur and visionary, and in his first book, he attempts to provide a vision for the future of our planet to move from nation-states to network states. 
+This eponymous book is what one would call a 'Think Big' initiative - how does one start a new country in the internet age, and what are the various factors at play and viability of this concept in multiple spheres - social, technical, logistical, legal, physical and financial. Balaji is a tech entrepreneur and visionary, and in his first book, he attempts to provide a vision for the future of our planet to move from nation-states to network states. 
 
 First, this book is unique in multiple ways - it is available for free to read online but is also not a typical book. Instead, it is version control in book format. Each page of the Network State can be read by referring to its URL, and it will be updated in subsequent versions with newer insights and meanings. It has a ton of references to not just other books but also anything available on the internet. In essence, it is a dynamic book and probably the first of its kind, and kudos to the author for reimagining books this way.
 

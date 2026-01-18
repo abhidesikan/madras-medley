@@ -5,18 +5,72 @@
 	<div class="container wrapper">
 		{{ partial "head.html" . }}
 
-		<div class="recent-posts section">
+		<!-- Recent Book Reviews Section -->
+		{{ $bookReviews := where .Site.RegularPages "Section" "book-reviews" }}
+		{{ if gt (len $bookReviews) 0 }}
+		<div class="section" style="margin-bottom: 2.5em;">
+			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Recent Book Reviews</h2>
 			<div class="posts">
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
+				{{ range first 10 $bookReviews }}
 					<div class="post">
 						{{ partial "post-preview.html" . }}
 					</div>
 				{{ end }}
-				{{ template "partials/paginator.html" . }}
+			</div>
+			<p style="margin-top: 1.2em;">
+				<a href="/book-reviews" style="font-weight: 500;">View all book reviews →</a>
+			</p>
+		</div>
+		{{ end }}
+
+		<!-- Divya Desams Section -->
+		{{ $divyaDesams := where .Site.RegularPages "Section" "divya-desams" }}
+		{{ if gt (len $divyaDesams) 0 }}
+		<div class="section" style="margin-bottom: 2.5em;">
+			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Divya Desams Journey</h2>
+			<div class="posts">
+				{{ range first 5 $divyaDesams }}
+					<div class="post">
+						{{ partial "post-preview.html" . }}
+					</div>
+				{{ end }}
+			</div>
+			<p style="margin-top: 1.2em;">
+				<a href="/divya-desams" style="font-weight: 500;">Explore the pilgrimage →</a>
+			</p>
+		</div>
+		{{ end }}
+
+		<!-- Essays & Thoughts Section -->
+		{{ $thoughts := where .Site.RegularPages "Section" "in" (slice "thoughts" "posts") }}
+		{{ if gt (len $thoughts) 0 }}
+		<div class="section" style="margin-bottom: 2.5em;">
+			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Essays & Reflections</h2>
+			<div class="posts">
+				{{ range first 5 $thoughts }}
+					<div class="post">
+						{{ partial "post-preview.html" . }}
+					</div>
+				{{ end }}
 			</div>
 		</div>
+		{{ end }}
+
+		<!-- Travel Section -->
+		{{ $travel := where .Site.RegularPages "Section" "travel" }}
+		{{ if gt (len $travel) 0 }}
+		<div class="section">
+			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Travel</h2>
+			<div class="posts">
+				{{ range first 3 $travel }}
+					<div class="post">
+						{{ partial "post-preview.html" . }}
+					</div>
+				{{ end }}
+			</div>
+		</div>
+		{{ end }}
+
 	</div>
 	{{ partial "footer.html" . }}
 </body>

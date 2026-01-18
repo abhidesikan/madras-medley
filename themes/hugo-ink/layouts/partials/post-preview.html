@@ -1,8 +1,37 @@
 <div class="post-header">
-	<div class="matter">
-		<h4 class="title small">
-			<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
-		</h4>
-		<span style="color: #999; font-size: 0.85rem; display: block; margin-top: 0.2em;">{{ dateFormat "Jan 2, 2006" .Date }}</span>
+	{{- /* Extract thumbnail image - check featured_image first, then first image in content */ -}}
+	{{- $hasImage := false -}}
+	{{- $imageSrc := "" -}}
+	{{- if .Params.featured_image -}}
+		{{- $hasImage = true -}}
+		{{- $imageSrc = .Params.featured_image -}}
+	{{- else -}}
+		{{- $images := findRE "<img[^>]+src=\"([^\"]+)\"" .Content 1 -}}
+		{{- if $images -}}
+			{{- $hasImage = true -}}
+			{{- $img := index $images 0 -}}
+			{{- $imageSrc = replaceRE ".*src=\"([^\"]+)\".*" "$1" $img -}}
+		{{- end -}}
+	{{- end -}}
+
+	<div class="matter" style="display: flex; align-items: flex-start; gap: 1.2em;">
+		{{- if $hasImage -}}
+		<div class="post-thumbnail" style="flex-shrink: 0;">
+			<a href="{{ .RelPermalink }}">
+				<img src="{{ $imageSrc }}" alt="{{ .Title }}" style="width: 80px; height: auto; border-radius: 4px; margin: 0;">
+			</a>
+		</div>
+		{{- end -}}
+
+		<div style="flex: 1; min-width: 0;">
+			<h4 class="title small">
+				<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
+			</h4>
+			<div style="color: #999; font-size: 0.85rem; display: flex; gap: 0.8em; margin-top: 0.2em; flex-wrap: wrap;">
+				<span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
+				<span>·</span>
+				<span>{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+			</div>
+		</div>
 	</div>
 </div>

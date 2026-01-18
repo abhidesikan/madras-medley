@@ -2,9 +2,12 @@
 title: "Doglapan: The Hard Truth about Life and Start-Ups - Review by Abhishek Desikan"
 date: 2023-07-29T10:09:06-07:00
 draft: false
+rating: 4
+description: "Doglapan, the famous expression from Ashneer Grover of Shark Tank India fame, is also the name of his autobiography. True to his on-screen character, Ashenee..."
+keywords: ["Doglapan: The Hard Truth about Life and Start-Ups - Review", "Abhishek Desikan", "book review", "India", "Bharat", "biography"]
 ---
 
-Doglapan, the famous expression from Ashneer Grover of Shark Tank India fame, is also the name of his autobiography. True to his on-screen character, Asheneer gives us a very candid and engaging peek into his life and his journey from being a "refugee" to one of India's most prominent startup founders and an inspiration to many. 
+Doglapan, the famous expression from Ashneer Grover of Shark Tank India fame, is also the name of his autobiography. True to his on-screen character, Asheneer gives us a very candid and engaging peek into his life and his journey from being a 'refugee' to one of India's most prominent startup founders and an inspiration to many. 
 
 First, kudos to Ashneer for making this book an easy and accessible despite having a lot of financial jargon. Ashneer doesn't dabble too much in his growing up, and we start with his entering IIT Delhi and later joining IIM Ahmedabad and how he met the love of his life and future wife, Madhuri. After a successful stint as an investment banker with Kotak and Amex, Ashneer dabbles into the entrepreneurship world by joining as Grofers' CFO and eventually building BharatPe from the ground up along with his co-founders. 
 
@@ -18,7 +21,7 @@ Throughout the book, Ashneer gives us his thought processes and the reasoning be
 
 One also realizes that the startup world is not all glitz and glamour. If anything, there are as many challenges as any other, where trust and loyalty play a bigger role than valuation and investors. 
 
-Ashneer embodies the Indian startup scene and what we call "New India." He encourages the youth to be fearless and aspire to greatness. He wants to see India and Indians become wealthy and create value for the world, and one must applaud him for his contribution to this endeavor. 
+Ashneer embodies the Indian startup scene and what we call 'New India.' He encourages the youth to be fearless and aspire to greatness. He wants to see India and Indians become wealthy and create value for the world, and one must applaud him for his contribution to this endeavor. 
 
 
 ![doglapan](/doglapan.jpg)

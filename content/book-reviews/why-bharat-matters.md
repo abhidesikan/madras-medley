@@ -2,7 +2,11 @@
 title: "Why Bharat Matters by S. Jaishankar"
 date: 2024-12-12T19:47:38-08:00
 draft: false
+rating: 4
+description: "Why Bhārat matters can be considered a point-in-time book that gives a snapshot of India, its place in the world today, and its relationships and challenges ..."
+keywords: ["Why Bharat Matters", "S. Jaishankar", "book review", "India", "Bharat", "history"]
 ---
+
 Why Bhārat matters can be considered a point-in-time book that gives a snapshot of India, its place in the world today, and its relationships and challenges in a global economy. It can also be considered a geopolitical history book that outlines our journey since independence and the vicissitudes we’ve seen with our foreign affairs. The book also establishes the vision and focus for the future and charts the path ahead. Hence, it can be seen as a foundational book for a rising India. All of this is stitched into a cohesive and engaging read by drawing historical parallels with the Ramayana, narrated by the sitting Minister of External Affairs of India, Dr.S Jaishankar, making this a very engaging read for people who believe in the India story. 
 
 What sets this book apart is its ability to help the reader understand the nature and scope of external affairs and the scale at which the “mind games” happen. No country is too small, and no negotiation is straightforward. From the USA to China, bilateral relations to QUAD, influencing nations with soft and hard power like Vaccine Maitri, etc., Jaishankar paints the world and India’s role with a broad brush. He gives a sense of the complexities and challenges involved. 

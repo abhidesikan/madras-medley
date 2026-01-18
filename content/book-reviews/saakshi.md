@@ -2,6 +2,9 @@
 title: "Saakshi: The Witness by S.L. Bhyrappa - Review by Abhishek Desikan"
 date: 2019-05-30T22:41:06-08:00
 draft: false
+rating: 3
+description: "Saakshi: The Witness is one of the weirdest books I've read, and I mean that in a positive way. It is as far removed from what I expected out of a Bhyrappa n..."
+keywords: ["Saakshi: The Witness", "S.L. Bhyrappa - Review", "book review"]
 ---
 
 Saakshi: The Witness is one of the weirdest books I've read, and I mean that in a positive way. It is as far removed from what I expected out of a Bhyrappa novel, and it's another testament to his literary diversity. Saakshi weaves mythology, Vedanta, Puranas, and Gandhian principles in a tale which explores the human psyche from the depths of one's inner conscience.

@@ -2,9 +2,12 @@
 title: "Ashoka the Ungreat by Subhodeep Mukhopadhyay - Review by Abhishek Desikan"
 date: 2018-06-02T22:33:36-08:00
 draft: false
+rating: 3
+description: "Ashoka the Ungreat looks at the life and times of Ashoka and paints a perspective opposed to the mainstream narrative which is that of a just and peaceful ru..."
+keywords: ["Ashoka the Ungreat", "Subhodeep Mukhopadhyay - Review", "book review", "India", "Indian history", "history"]
 ---
 
-Ashoka the Ungreat looks at the life and times of Ashoka and paints a perspective opposed to the mainstream narrative which is that of a just and peaceful ruler. What gives this perspective credence is the evidence is based on the same triad of the Rock edicts, Ashokavadana and the Sri Lankan texts on which contemporary historians base their claim for Ashoka's "greatness". However, only the parts which suit their narrative have been taken into consideration, while the others which describe Ashoka's tyranny, religious zealousness and incongruencies between the edicts and the texts have been ignored.
+Ashoka the Ungreat looks at the life and times of Ashoka and paints a perspective opposed to the mainstream narrative which is that of a just and peaceful ruler. What gives this perspective credence is the evidence is based on the same triad of the Rock edicts, Ashokavadana and the Sri Lankan texts on which contemporary historians base their claim for Ashoka's 'greatness'. However, only the parts which suit their narrative have been taken into consideration, while the others which describe Ashoka's tyranny, religious zealousness and incongruencies between the edicts and the texts have been ignored.
 
 Take for example the Kalinga war, and Ashoka's supposed conversion to Buddhism and his subsequent embracing of the religion to become a peace-loving king. This is a mainstream narrative which has been percolated across school textbooks in India. In reality, Ashoka had converted to Buddhism before the Kalinga war and continued to massacre and kill people who opposed Buddhism after the war.
 

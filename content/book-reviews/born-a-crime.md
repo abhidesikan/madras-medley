@@ -2,6 +2,9 @@
 title: "Born a Crime: Stories From a South African Childhood by Trevor Noah  - Review by Abhishek Desikan"
 date: 2019-06-10T22:41:14-08:00
 draft: false
+rating: 4
+description: "I am not a huge fan of Trevor Noah as a comedian, but after reading his coming-of-age story, Born a Crime, it won't be remiss to say I'm a fan of his writing..."
+keywords: ["Born a Crime: Stories From a South African Childhood", "Trevor Noah  - Review", "book review"]
 ---
 
 I am not a huge fan of Trevor Noah as a comedian, but after reading his coming-of-age story, Born a Crime, it won't be remiss to say I'm a fan of his writing.

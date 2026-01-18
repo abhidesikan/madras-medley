@@ -2,6 +2,9 @@
 title: "Good News India: Ordinary Indians, Extraordinary Triumphs by D.V. Sridharan - Review by Abhishek Desikan"
 date: 2021-12-25T18:43:45-08:00
 draft: false
+rating: 4
+description: "We live in an increasingly digital world today (metaverse anyone?) and have the power of the internet in the palm of our hands. This also means that we have ..."
+keywords: ["Good News India: Ordinary Indians, Extraordinary Triumphs", "D.V. Sridharan - Review", "book review", "India"]
 ---
 
 We live in an increasingly digital world today (metaverse anyone?) and have the power of the internet in the palm of our hands. This also means that we have access to breaking news events happening anywhere in the world at our fingertips, within a few seconds of the events unfolding. It is, thus, easy to forget that as recently as two decades ago, the source of news media was primarily the monopoly of either state-owned news channels or private organizations with their agendas. This was particularly acute in India, and one would be hard-pressed to find anything but morbidity in the news reported and consumed by millions back then.
@@ -14,7 +17,7 @@ The people DV encounters range from Anna Hazare, who energized the villagers of 
 
 There are many stories of organizations started by individuals to restore agricultural practices, restore an ecosystem from arid and drylands, and preserve and promote nature. One which was particularly noteworthy was Sulabh, an organization dedicated to eradicating the practice of manual scavenging. A common theme among these people is that they were all inspired by Mahatma Gandhi. There has been a lot of revision on how Gandhi is looked at in recent years, but the fact remains that he was a colossal figure responsible for creating grassroots leaders who solved complex problems.
 
-The author ends by reminding us how he hopes these stories inspire people to start their own initiatives and not take them as assertions that all is well with India. He also speaks about his "point of return" theory of how human life must consist of venturing and returning, and wisdom lies in knowing when to do both. In these tumultuous times, Good News India breathes optimism into the air again.
+The author ends by reminding us how he hopes these stories inspire people to start their own initiatives and not take them as assertions that all is well with India. He also speaks about his 'point of return' theory of how human life must consist of venturing and returning, and wisdom lies in knowing when to do both. In these tumultuous times, Good News India breathes optimism into the air again.
 
 ![good-news](/good-news.jpg)
 

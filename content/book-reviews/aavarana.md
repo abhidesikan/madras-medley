@@ -2,6 +2,9 @@
 title: "Aavarana : The Veil by S.L.Bhyrappa - Review by Abhishek Desikan"
 date: 2018-12-04T22:40:03-08:00
 draft: false
+rating: 5
+description: "History is a fascinating subject if explained in the right way. Bringing out historical events in a way one can relate to them, instead of listing them as da..."
+keywords: ["Aavarana : The Veil", "S.L.Bhyrappa - Review", "book review", "India", "history", "Hinduism"]
 ---
 
 History is a fascinating subject if explained in the right way. Bringing out historical events in a way one can relate to them, instead of listing them as dates on a calendar, is the best way to learn history. And Aavarana excels in that.

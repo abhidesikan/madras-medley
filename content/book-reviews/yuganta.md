@@ -2,6 +2,9 @@
 title: "Yuganta: The End of an Epoch by Irawati Karve - Review by Abhishek Desikan"
 date: 2016-02-15T18:13:17-08:00
 draft: false
+rating: 4
+description: "If setting a precedent as to what one can expect by reading a book, and delivering on that promise, was a measure of a book's stature, then Yuganta by Irawat..."
+keywords: ["Yuganta: The End of an Epoch", "Irawati Karve - Review", "book review", "Mahabharata", "epic"]
 ---
 
 If setting a precedent as to what one can expect by reading a book, and delivering on that promise, was a measure of a book's stature, then Yuganta by Irawati Karve ranks very high in that regard. It presents a realistic take on the events of the Mahabharata and explores the main characters in depth, as humans, stripping them of their divinity. What made it compelling was the concise, no-nonsense narration, the evidence which backed the author's interpretation, and the logical conclusion one can derive from these events.
@@ -11,7 +14,7 @@ The author essentially splits the story into two parts - the harsh, realism of t
 The book reaffirmed a lot of truths I have been cognizant of late - of Karna's cowardly and selfish nature, of Yudhishtra being the real hero of the epic, of the euphemisms and alternate stories involving God's
 to explain copulation, and so forth. But it also described a lot of events I wasn't aware of before - of how Dhritarashtra and Gandhari met their eventual end, of Draupadi's question to Yudhishtra in the face of being stripped in public, of Asvatthama's reluctance to adhere to his dharma, to name a few.
 
-A lot of the later interpolation is attributed to Brahmans, starting with the Brighu clan. The author deduces that the Brahmans became the bearers of the Mahabharata from the original "Sutas", and Vyasa and his followers, compiled them by including stories of their own clan. These explain the crude and out of context stories like those of Parashuram, the burning of Indraprastha on Agni's request, etc.
+A lot of the later interpolation is attributed to Brahmans, starting with the Brighu clan. The author deduces that the Brahmans became the bearers of the Mahabharata from the original 'Sutas', and Vyasa and his followers, compiled them by including stories of their own clan. These explain the crude and out of context stories like those of Parashuram, the burning of Indraprastha on Agni's request, etc.
 
 It questions the fundamental nature of questioning prevalent in the vedic times, and the lack of it since then. It portrays the fragile nature of humanity, and how it is impossible for humans to display extreme and idealistic notions and virtues, as portrayed in the later editions.
 

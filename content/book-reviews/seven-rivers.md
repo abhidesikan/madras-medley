@@ -2,6 +2,9 @@
 title: "Land of the Seven Rivers: A Brief History of India's Geography by Sanjeev Sanyal - Review by Abhishek Desikan"
 date: 2018-04-01T19:06:30-08:00
 draft: false
+rating: 4
+description: "It is no mean task to tell the story of a civilization as old and as varied as India’s. Few people can provide a narrative which is compelling and engaging, ..."
+keywords: ["Land of the Seven Rivers: A Brief History of India's Geography", "Sanjeev Sanyal - Review", "book review", "India", "history"]
 ---
 
 It is no mean task to tell the story of a civilization as old and as varied as India’s. Few people can provide a narrative which is compelling and engaging, and construct a thread of events which link the people of 21st century India with their ancestors from many millennia ago, and for this, the author, Sanjeev Sanyal, deserves to be commended.

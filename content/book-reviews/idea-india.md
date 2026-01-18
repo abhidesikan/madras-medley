@@ -2,11 +2,14 @@
 title: "A New Idea of India: Individual Rights in a Civilisational State by Harsh Gupta 'Madhusudan', Rajeev Mantri - Review by Abhishek Desikan"
 date: 2020-12-22T18:41:05-08:00
 draft: false
+rating: 5
+description: "Ever so often, one picks up a book based on the promise of what it claims to offer, only to be disappointed after reading it. The analytical nature with whic..."
+keywords: ["A New Idea of India: Individual Rights in a Civilisational State", "Harsh Gupta 'Madhusudan', Rajeev Mantri - Review", "book review", "India", "Hinduism", "Hindu"]
 ---
 
 Ever so often, one picks up a book based on the promise of what it claims to offer, only to be disappointed after reading it. The analytical nature with which this exciting book is written ensures that it goes beyond what it promises to deliver. Harsh Gupta and Rajeev Mantri write a compelling book providing a comprehensive view of India's trajectory from a political, economic, social, and civilizational perspective. Being economists themselves, the authors explore India's various facets since independence and chart the way forward for the country with a unique combination of civilizational attitude and global outlook.
 
-As the title suggests, the book primarily focuses on the importance of individual rights of the citizen as opposed to "group" based rights. Instead of doling out rights to citizens, the state's nature should presume the existence of rights and only be a protector of the same.
+As the title suggests, the book primarily focuses on the importance of individual rights of the citizen as opposed to 'group' based rights. Instead of doling out rights to citizens, the state's nature should presume the existence of rights and only be a protector of the same.
 
 The authors define the Nehruvian worldview and how it embodies a confusion between the state and society. They elaborate on how India is not just a nation-state manufactured in 1947 but is an ancient civilization with remarkable continuity over the ages. We are exposed to the nature of the left-leaning and socialist character of the country's intellectual elite. This cabal prevented development on various fronts - be it education, liberties to citizens, religious practices of Hindus, judiciary, and media, to name a few. This aspect has been brought out lucidly.
 

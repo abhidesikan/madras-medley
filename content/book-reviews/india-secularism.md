@@ -2,9 +2,12 @@
 title: "India's Secularism by Sita Ram Goel - Review by Abhishek Desikan"
 date: 2018-04-14T19:06:47-08:00
 draft: false
+rating: 5
+description: "I was fortunate to get my hands on some of Sita Ram Goel's books, one of India's eminent historians. In this book, he talks about the meaning of Secularism a..."
+keywords: ["India's Secularism", "Sita Ram Goel - Review", "book review", "India", "history", "Hindu"]
 ---
 
-I was fortunate to get my hands on some of Sita Ram Goel's books, one of India's eminent historians. In this book, he talks about the meaning of Secularism as it originated in the West, and how it's context has been contorted and turned on its head in India. A comparison between the pagan or Advaita philosophies, with that of monotheistic religions follows, and we get to see why secularism as it's defined in the West is, in the author's words, like "holding a lamp to the Sun", in India.
+I was fortunate to get my hands on some of Sita Ram Goel's books, one of India's eminent historians. In this book, he talks about the meaning of Secularism as it originated in the West, and how it's context has been contorted and turned on its head in India. A comparison between the pagan or Advaita philosophies, with that of monotheistic religions follows, and we get to see why secularism as it's defined in the West is, in the author's words, like 'holding a lamp to the Sun', in India.
 
 We also are given an overview of the scriptural and philosophical differences between the religions of the book, and the dharmic religions based on Santana Dharma. It makes us understand that the two are in different planes, and cannot even be compared to each other.
 

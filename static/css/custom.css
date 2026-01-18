@@ -27,6 +27,20 @@ a:hover {
     text-underline-offset: 2px !important;
 }
 
+/* Links in post content - more prominent */
+.markdown a,
+.post-content a {
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+    text-decoration-color: rgba(37, 99, 235, 0.3) !important;
+}
+
+.markdown a:hover,
+.post-content a:hover {
+    text-decoration-color: rgba(37, 99, 235, 1) !important;
+}
+
 /* Keep header/nav links simple */
 .header a,
 .header nav a {
@@ -167,7 +181,13 @@ img[src*="#thumbnail"] {
 
 /* Clean post listings */
 .posts .post {
-    margin-bottom: 1.8em !important;
+    margin-bottom: 0.5em !important;
+    padding-bottom: 0.5em !important;
+    border-bottom: 1px solid #eee !important;
+}
+
+.posts .post:last-child {
+    border-bottom: none !important;
 }
 
 .posts .post .title {
@@ -220,6 +240,24 @@ html.dark .header nav a {
     color: #e5e5e5 !important;
 }
 
+html.dark .posts .post {
+    border-bottom-color: #333 !important;
+}
+
+html.dark .home-intro p {
+    color: #b0b0b0 !important;
+}
+
+html.dark .markdown a,
+html.dark .post-content a {
+    text-decoration-color: rgba(96, 165, 250, 0.3) !important;
+}
+
+html.dark .markdown a:hover,
+html.dark .post-content a:hover {
+    text-decoration-color: rgba(96, 165, 250, 1) !important;
+}
+
 /* ===== RESPONSIVE ===== */
 
 @media (max-width: 900px) {
@@ -233,5 +271,28 @@ html.dark .header nav a {
 
     h2 {
         font-size: 1.5rem !important;
+    }
+
+    .container {
+        padding: 1.5em !important;
+    }
+
+    .header {
+        margin-bottom: 2em !important;
+    }
+
+    .header nav li {
+        margin: 0 16px 0 0 !important;
+        font-size: 0.9rem !important;
+    }
+
+    .posts .post {
+        margin-bottom: 0.4em !important;
+        padding-bottom: 0.4em !important;
+    }
+
+    /* Hide book thumbnails on mobile for cleaner look */
+    .post-thumbnail {
+        display: none !important;
     }
 }

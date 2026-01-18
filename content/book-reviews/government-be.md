@@ -2,6 +2,9 @@
 title: "How Should A Government Be?: The New Levers of State Power by Jaideep Prabhu - Review by Abhishek Desikan"
 date: 2021-07-09T18:42:39-08:00
 draft: false
+rating: 5
+description: "As citizens of democracies worldwide, we often have varied opinions on the roles and responsibilities of a government and how it should function to serve the..."
+keywords: ["How Should A Government Be?: The New Levers of State Power", "Jaideep Prabhu - Review", "book review"]
 ---
 
 As citizens of democracies worldwide, we often have varied opinions on the roles and responsibilities of a government and how it should function to serve the needs of the people. Two broad camps exist around the duties of a government. One is the libertarian idea that they're inefficient and incompetent. Thus, they should play a minimal role and let the market and civil society run the economy. The other is the statist view which considers governments to be all-powerful and the only means to drive community and economy.

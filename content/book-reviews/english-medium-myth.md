@@ -2,6 +2,9 @@
 title: "The English Medium Myth by Sankrant Sanu - Review by Abhishek Desikan"
 date: 2022-02-13T13:51:45-08:00
 draft: false
+rating: 4
+description: "The role of language in shaping culture and civilizational progress is well documented across time and place. India, in particular, has immense diversity whe..."
+keywords: ["The English Medium Myth", "Sankrant Sanu - Review", "book review", "India"]
 ---
 
 The role of language in shaping culture and civilizational progress is well documented across time and place. India, in particular, has immense diversity when it comes to language and dialects, which have existed for millennia. Post the colonial rule, there has been a marked shift towards the English language being the aspirational goal to improve one's life at the expense of our native languages. This book provides a factual counter to many of the myths prevalent about the supposedly inescapable need for the English language and policy suggestions to address this problem. 

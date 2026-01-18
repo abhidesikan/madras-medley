@@ -2,6 +2,9 @@
 title: "Our Living Constitution : A Concise Introduction & Commentary by Shashi Tharoor"
 date: 2025-10-14T00:12:39-08:00
 draft: false
+rating: 3
+description: "Our Living Constitution by Dr. Shashi Tharoor is meant to be a concise introduction to the Indian Constitution and a primer on the duties and rights of India..."
+keywords: ["Our Living Constitution : A Concise Introduction & Commentary", "Shashi Tharoor", "book review", "India", "Hindu"]
 ---
 
 Our Living Constitution by Dr. Shashi Tharoor is meant to be a concise introduction to the Indian Constitution and a primer on the duties and rights of Indian citizens. While the book begins with this premise, it quickly turns into a subtle—but not so subtle—critique of the present BJP government led by Modi and offers little in terms of a balanced perspective, something unexpected from a person of Dr. Tharoor’s caliber.

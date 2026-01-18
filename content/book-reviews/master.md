@@ -2,6 +2,9 @@
 title: "The Master: The Long Run and Beautiful Game of Roger Federer by Christopher Clarey - Review by Abhishek Desikan"
 date: 2021-11-01T18:43:14-08:00
 draft: false
+rating: 5
+description: "Sports biographies and autobiographies are always a fun read, and as a tennis fan, I have enjoyed reading tennis biographies in the past, most notably Andre ..."
+keywords: ["The Master: The Long Run and Beautiful Game of Roger Federer", "Christopher Clarey - Review", "book review", "biography"]
 ---
 
 Sports biographies and autobiographies are always a fun read, and as a tennis fan, I have enjoyed reading tennis biographies in the past, most notably Andre Agassi's and Rafael Nadal's. But the story that every tennis fan and casual observer of the sport this millennium has been waiting for is that of the tennis legend Roger Federer. The Master, by Christopher Clarey, a noted sports journalist, is one of the most well-written biographies of its time and was a joy to read.

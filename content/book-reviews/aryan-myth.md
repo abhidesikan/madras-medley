@@ -2,11 +2,14 @@
 title: "The Aryan Invasion Myth: How 21st Century Science Debunks 19th Century Indology by A.L. Chavda - Review by Abhishek Desikan"
 date: 2021-01-02T18:41:37-08:00
 draft: false
+rating: 4
+description: "The Aryan Invasion Myth is a short read on the present state of the long-standing debate on the origins of the Indian people. To the uninitiated, there are b..."
+keywords: ["The Aryan Invasion Myth: How 21st Century Science Debunks 19th Century Indology", "A.L. Chavda - Review", "book review", "India", "Hinduism", "Hindu"]
 ---
 
 The Aryan Invasion Myth is a short read on the present state of the long-standing debate on the origins of the Indian people. To the uninitiated, there are broadly two schools of thought concerning the origins of early Indians - The Aryan Invasion Theory(AIT)/Aryan Migration Theory(AMT) and the Out of India Theory (OIT).
 
-The AIT claims that there was an original Dravidian populace (Harappan civilization) native to India. These tribes were driven southwards by invading/migrating "Aryans" from the West (Steppes) around 1500 BCE who established the Vedic society and "brought" language(Sanskrit), culture, and religion (Hinduism) to India.
+The AIT claims that there was an original Dravidian populace (Harappan civilization) native to India. These tribes were driven southwards by invading/migrating 'Aryans' from the West (Steppes) around 1500 BCE who established the Vedic society and 'brought' language(Sanskrit), culture, and religion (Hinduism) to India.
 
 The OIT theorizes the opposite. It claims that early Indians were native to India. The Harappan civilization and the Vedic civilizations are one and the same. And, the migration of people and language happened from east to west instead.
 

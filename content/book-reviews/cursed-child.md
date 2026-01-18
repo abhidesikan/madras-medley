@@ -2,9 +2,12 @@
 title: "Harry Potter and the Cursed Child by J.K.Rowling - Review by Abhishek Desikan"
 date: 2016-07-31T18:13:17-08:00
 draft: false
+rating: 4
+description: "There are only a few books which are 'unputdownable'. The Harry Potter series has always been in this category for me and millions more."
+keywords: ["Harry Potter and the Cursed Child", "J.K.Rowling - Review", "book review"]
 ---
 
-There are only a few books which are "unputdownable". The Harry Potter series has always been in this category for me and millions more. Reaffirming this status is the latest offering from J.K Rowling set in the magical world of Harry Potter - Harry Potter and the Cursed Child, as I completed the book in one sitting.
+There are only a few books which are 'unputdownable'. The Harry Potter series has always been in this category for me and millions more. Reaffirming this status is the latest offering from J.K Rowling set in the magical world of Harry Potter - Harry Potter and the Cursed Child, as I completed the book in one sitting.
 
 Revisiting the wizarding world after close to ten years, was refreshing and exciting and most of all nostalgic. Being the original rehearsal script for the play having the same name, it does not read as a conventional book, but rather as a series of scenes to be played on stage. Continuing from where we left off at the end of Deathly Hallows, we are introduced to a world where Harry and gang are trying their best to be responsible parents while their sons and daughters try and live up to the weight of expectations set by them.
 

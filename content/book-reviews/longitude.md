@@ -2,6 +2,9 @@
 title: "Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time by Dava Sobel - Review by Abhishek Desikan"
 date: 2018-10-20T22:34:29-08:00
 draft: false
+rating: 4
+description: "Colonization of the world by European superpowers is something most people are familiar with. But it’s not often clear what exactly made them “superpowers” o..."
+keywords: ["Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time", "Dava Sobel - Review", "book review", "history", "politics"]
 ---
 
 Colonization of the world by European superpowers is something most people are familiar with. But it’s not often clear what exactly made them “superpowers” of that era.

@@ -2,6 +2,9 @@
 title: "Genghis Khan and the Making of the Modern World - Review by Abhishek Desikan"
 date: 2022-10-19T20:58:43-07:00
 draft: false
+rating: 4
+description: "When we hear 'Genghis Khan,' it brings different images to one's mind, with most depictions portraying him as a fierce warrior and ruthless tyrant from Mongo..."
+keywords: ["Genghis Khan and the Making of the Modern World - Review", "Abhishek Desikan", "book review", "India", "history"]
 ---
 
 When we hear 'Genghis Khan,' it brings different images to one's mind, with most depictions portraying him as a fierce warrior and ruthless tyrant from Mongolia who, at one point in time, ruled the world. We think of the thousands of people he butchered, the vast swathes of territories he conquered, and the influence he has on the planet to this day, with 1 in 200 people alive today still considered his direct descendants. But history, as we all know, is never black or white and is ridden with plots and sub-plots and inexplicable nuances which alter its course. And nowhere is this more self-evident than when we read about Temujin Khan (who later became Genghis Khan) and the Mongols and who they really were in this fascinating commentary by Jack Weatherford.
@@ -10,7 +13,7 @@ To begin with, what the Mongols achieved as a military civilization is most like
 
 Khan's military tactics were unique and impressive, and they relied heavily on their fleet of horses during execution. They could easily ride and fight even on frozen rivers and lakes. They also split into two camps, first drawing the enemy and spreading them thinly before launching a swift and brutal attack to subjugate them.
 
-More importantly, they used propaganda very effectively. The terror in people's minds and hearts when they heard the word "Mongols" did more damage to their morale than anything else. They inflated the number of people killed in battle and the gruesome way they did it, weakening the enemy even before lifting their swords.
+More importantly, they used propaganda very effectively. The terror in people's minds and hearts when they heard the word 'Mongols' did more damage to their morale than anything else. They inflated the number of people killed in battle and the gruesome way they did it, weakening the enemy even before lifting their swords.
 
 Genghis Khan and his descendants ruled from Europe to Korea, Siberia to India, Vietnam to Hungary, and China to Persia. The scale and scope of his achievements escape any logic or reason. 
 
@@ -24,7 +27,7 @@ The downfall of the Mongols was triggered not by a conquering enemy but rather b
 
 The Mongols significantly influenced every aspect of Eastern and European life, including technology, warfare, clothing, etc. But, the rise of Europe as a superpower post the 18th century was a blow to the legacy of the Mongols as they were systematically removed from collective memory, with their glowing achievements laying forgotten and their alleged crimes and brutality greatly magnified. This was mainly the result of 19th-century scientists who wanted to show the inferiority of Asian and Eastern populations, even classifying them as Mongoloid. Ultimately, Mongols came to represent failure, barbarity, and uncouthness, becoming a scapegoat for individual and nationalistic shortcomings. 
 
-Later in the 20th century, the revisionist history of the Mongols began. It had unlikely champions like Nehru, for example. The author and like-minded folks were part of this revival and went through rigorous and physical hardships to recover the most crucial document telling the story of the Mongols from their own perspective. Known as "The Secret History of the Mongols," it is what forms the foundation of this book.
+Later in the 20th century, the revisionist history of the Mongols began. It had unlikely champions like Nehru, for example. The author and like-minded folks were part of this revival and went through rigorous and physical hardships to recover the most crucial document telling the story of the Mongols from their own perspective. Known as 'The Secret History of the Mongols,' it is what forms the foundation of this book.
 
 One cannot narrate the history of humans and civilizations without prominently featuring Genghis Khan and the Mongols. They've withstood the test of time through all their triumphs and failures. 
 

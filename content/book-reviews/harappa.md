@@ -2,6 +2,9 @@
 title: "Hymns of Harappa : A New Paradigm on Traditional Histories by Sai Papineni - Review by Abhishek Desikan"
 date: 2024-02-17T22:51:15-08:00
 draft: false
+rating: 3
+description: "Hymns of Harappa by Sai Papineni is a thought-provoking book for many reasons. At the outset, the book aims to provide a thesis/postulation to try and reconc..."
+keywords: ["Hymns of Harappa : A New Paradigm on Traditional Histories", "Sai Papineni - Review", "book review", "India", "Indian history", "history"]
 ---
 
 Hymns of Harappa by Sai Papineni is a thought-provoking book for many reasons. At the outset, the book aims to provide a thesis/postulation to try and reconcile one of the most intriguing mysteries of proto-Indian history - who the Vedic people were and how they were related to the Harappan civilization. Were they the same or two entities that existed in different periods?
