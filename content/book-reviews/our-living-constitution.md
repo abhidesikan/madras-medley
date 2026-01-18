@@ -1,5 +1,5 @@
 ---
-title: "Our Living Constitution : A Concise Introduction & Commentary"
+title: "Our Living Constitution : A Concise Introduction & Commentary by Shashi Tharoor"
 date: 2025-10-14T00:12:39-08:00
 draft: false
 ---
