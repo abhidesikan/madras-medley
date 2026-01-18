@@ -1,11 +1,237 @@
-img[src*="#thumbnail"] {
-    width:1500px;
-    height:1000px;
- }
+/* Clean, minimalist styling inspired by modern tech blogs */
 
- .header nav li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 20px 0 0;
+/* ===== TYPOGRAPHY ===== */
+
+body {
+    font-size: 18px !important;
+    line-height: 1.7 !important;
+    color: #1a1a1a !important;
 }
 
+.post p {
+    margin-bottom: 1.4em !important;
+    line-height: 1.7 !important;
+}
+
+/* ===== LINKS - Neutral Blue ===== */
+
+a {
+    color: #2563eb !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+}
+
+a:hover {
+    text-decoration: underline !important;
+    text-decoration-thickness: 1px !important;
+    text-underline-offset: 2px !important;
+}
+
+/* Keep header/nav links simple */
+.header a,
+.header nav a {
+    color: #1a1a1a !important;
+    text-decoration: none !important;
+}
+
+.header a:hover,
+.header nav a:hover {
+    opacity: 0.7 !important;
+    text-decoration: none !important;
+}
+
+/* ===== HEADINGS ===== */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #1a1a1a !important;
+    font-weight: 600 !important;
+    letter-spacing: -0.02em !important;
+}
+
+h1 {
+    font-size: 2.2rem !important;
+    line-height: 1.2 !important;
+    margin-top: 1.5em !important;
+    margin-bottom: 0.7em !important;
+}
+
+h2 {
+    font-size: 1.7rem !important;
+    margin-top: 2em !important;
+    margin-bottom: 0.6em !important;
+}
+
+h3 {
+    font-size: 1.35rem !important;
+    margin-top: 1.8em !important;
+    margin-bottom: 0.5em !important;
+}
+
+.post-header h1.title {
+    margin-top: 0.5em !important;
+    margin-bottom: 0.8em !important;
+}
+
+/* ===== LAYOUT ===== */
+
+.wrapper {
+    max-width: 720px !important;
+}
+
+.container {
+    max-width: 760px !important;
+}
+
+/* ===== LISTS ===== */
+
+.post ul li,
+.post ol li {
+    margin-bottom: 0.6em !important;
+    line-height: 1.7 !important;
+}
+
+/* ===== CODE BLOCKS ===== */
+
+code {
+    font-family: 'SF Mono', 'Monaco', 'Consolas', monospace !important;
+    font-size: 0.9em !important;
+    background: #f5f5f5 !important;
+    padding: 0.2em 0.4em !important;
+    border-radius: 3px;
+    color: #1a1a1a !important;
+}
+
+pre {
+    border-radius: 4px !important;
+    padding: 1em !important;
+}
+
+pre code {
+    background: transparent !important;
+}
+
+.highlight {
+    background-color: #f8f8f8 !important;
+    border-radius: 4px !important;
+    margin: 1.5em 0 !important;
+}
+
+/* ===== IMAGES ===== */
+
+img {
+    border-radius: 3px !important;
+    margin: 2em auto !important;
+}
+
+img[src*="#thumbnail"] {
+    width: 1500px;
+    height: 1000px;
+}
+
+/* ===== HEADER & FOOTER ===== */
+
+.header {
+    margin-bottom: 3em !important;
+    padding-bottom: 1em !important;
+    border-bottom: none !important;
+}
+
+.header nav {
+    border-top: none !important;
+    padding-top: 0.8em !important;
+}
+
+.header nav li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 24px 0 0;
+    font-size: 0.95rem;
+}
+
+/* Hide decorative date box */
+.post-header .meta .date {
+    display: none !important;
+}
+
+/* Simple date below title */
+.post-header .meta {
+    margin-left: 0 !important;
+}
+
+/* Subtitle styling */
+.site-description p {
+    font-size: 0.85rem !important;
+    color: #666 !important;
+    font-weight: 400 !important;
+}
+
+/* Clean post listings */
+.posts .post {
+    margin-bottom: 1.8em !important;
+}
+
+.posts .post .title {
+    font-size: 1.1rem !important;
+    font-weight: 500 !important;
+    margin-bottom: 0.3em !important;
+}
+
+.list .posts .post-header .meta {
+    display: none !important;
+}
+
+.footer {
+    margin-top: 4em !important;
+    opacity: 0.6;
+    text-align: center !important;
+}
+
+/* ===== DARK MODE ===== */
+
+html.dark body {
+    background-color: #0d0d0d !important;
+    color: #d4d4d4 !important;
+}
+
+html.dark a {
+    color: #60a5fa !important;
+}
+
+html.dark h1,
+html.dark h2,
+html.dark h3,
+html.dark h4,
+html.dark h5,
+html.dark h6 {
+    color: #e5e5e5 !important;
+}
+
+html.dark code {
+    background: #1a1a1a !important;
+    color: #d4d4d4 !important;
+}
+
+html.dark .highlight {
+    background-color: #1a1a1a !important;
+}
+
+html.dark .header a,
+html.dark .header nav a {
+    color: #e5e5e5 !important;
+}
+
+/* ===== RESPONSIVE ===== */
+
+@media (max-width: 900px) {
+    body {
+        font-size: 17px !important;
+    }
+
+    h1 {
+        font-size: 1.9rem !important;
+    }
+
+    h2 {
+        font-size: 1.5rem !important;
+    }
+}

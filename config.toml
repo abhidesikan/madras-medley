@@ -12,6 +12,7 @@ copyright = "© Copyright notice"
    #avatar = "https://i.postimg.cc/MHZp8KTK/caricature.jpgG"
    mainSections = ['posts', 'book-reviews', 'thoughts', 'travel', 'published-articles' ]
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+   disqusShortname = ""
 
 
 # Nav.   
@@ -20,40 +21,24 @@ copyright = "© Copyright notice"
 about = "/about/"
 
 [[menu.main]]
-name = "Recent Posts"
+name = "Home"
 url = "/"
 weight = 1
-
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
-
-[[menu.main]]
-name = "Travel"
-url = "/travel"
-weight = 4
-
-[[menu.main]]
-name = "Divya Desams"
-url = "/divya-desams"
-weight = 5
-
-[[menu.main]]
-name = "Thoughts"
-url = "/thoughts"
-weight = 6
 
 [[menu.main]]
 name = "Book Reviews"
 url = "/book-reviews"
-weight = 7
+weight = 2
 
 [[menu.main]]
-name = "Published Articles"
-url = "/published-articles"
-weight = 8
+name = "Divya Desams"
+url = "/divya-desams"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
 
 
 [[params.social]]
