@@ -5,26 +5,25 @@
 	<div class="container wrapper list">
 		{{ partial "head.html" . }}
 
-		<div class="post-header" style="margin-bottom: 2em;">
-			<h1 class="post-title">{{ .Title }}</h1>
+		<div class="post-header" style="margin-bottom: 2em; display: flex; justify-content: space-between; align-items: baseline;">
+			<h1 class="post-title" style="margin: 0;">{{ .Title }}</h1>
+			<div style="display: flex; align-items: center;">
+				<a href="#" id="book-filter-icon" style="text-decoration: none; color: inherit; line-height: 1;" title="Filter by rating">
+					<i data-feather="filter" style="width: 18px; height: 18px;"></i>
+				</a>
+			</div>
 		</div>
 
-		<!-- Book Reviews Search and Filter -->
-		<div class="book-reviews-filter" style="margin-bottom: 2em; padding: 1.5em; background: #f9f9f9; border-radius: 4px;">
-			<div style="margin-bottom: 1em;">
-				<input type="text" id="book-search" placeholder="Search book reviews by title, author, or content..." style="width: 100%; padding: 0.6em; border: 1px solid #ddd; border-radius: 4px; font-size: 0.95em;">
-			</div>
-			<div style="display: flex; gap: 1em; align-items: center;">
-				<label for="rating-filter" style="font-weight: 500;">Filter by rating:</label>
-				<select id="rating-filter" style="padding: 0.5em; border: 1px solid #ddd; border-radius: 4px; font-size: 0.95em;">
-					<option value="">All Ratings</option>
-					<option value="5">★★★★★ (5 stars)</option>
-					<option value="4">★★★★ (4 stars)</option>
-					<option value="3">★★★ (3 stars)</option>
-					<option value="2">★★ (2 stars)</option>
-					<option value="1">★ (1 star)</option>
-				</select>
-			</div>
+		<!-- Filter Dropdown (hidden by default) -->
+		<div id="filter-dropdown" style="display: none; margin-bottom: 1.5em;">
+			<select id="rating-filter" style="padding: 0.4em 0.8em; border: 1px solid #ddd; border-radius: 3px; font-size: 0.85em; width: auto; background: white;">
+				<option value="">All Ratings</option>
+				<option value="5">★★★★★</option>
+				<option value="4">★★★★</option>
+				<option value="3">★★★</option>
+				<option value="2">★★</option>
+				<option value="1">★</option>
+			</select>
 		</div>
 
 		<div class="posts" id="book-reviews-list">

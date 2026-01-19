@@ -15,26 +15,56 @@ async function loadSearchIndex() {
 document.addEventListener('DOMContentLoaded', function() {
   loadSearchIndex();
 
-  // Global search functionality
+  // Search icon toggle
+  const searchIcon = document.getElementById('search-icon');
+  const searchContainer = document.getElementById('search-container');
   const globalSearch = document.getElementById('global-search');
-  if (globalSearch) {
-    globalSearch.addEventListener('input', performGlobalSearch);
 
-    // Close search results when clicking outside
-    document.addEventListener('click', function(event) {
-      const searchContainer = document.querySelector('.search-container');
-      if (searchContainer && !searchContainer.contains(event.target)) {
+  if (searchIcon && searchContainer) {
+    searchIcon.addEventListener('click', function(e) {
+      e.preventDefault();
+      if (searchContainer.style.display === 'none' || searchContainer.style.display === '') {
+        searchContainer.style.display = 'block';
+        globalSearch.focus();
+      } else {
+        searchContainer.style.display = 'none';
         document.getElementById('search-results').style.display = 'none';
       }
     });
   }
 
-  // Book reviews page search and filter
-  const bookSearch = document.getElementById('book-search');
-  const ratingFilter = document.getElementById('rating-filter');
+  // Global search functionality
+  if (globalSearch) {
+    globalSearch.addEventListener('input', performGlobalSearch);
 
-  if (bookSearch && ratingFilter) {
-    bookSearch.addEventListener('input', filterBookReviews);
+    // Close search when clicking outside
+    document.addEventListener('click', function(event) {
+      if (searchContainer && !searchContainer.contains(event.target) &&
+          event.target !== searchIcon && !searchIcon.contains(event.target)) {
+        searchContainer.style.display = 'none';
+        document.getElementById('search-results').style.display = 'none';
+      }
+    });
+  }
+
+  // Book filter icon toggle
+  const bookFilterIcon = document.getElementById('book-filter-icon');
+  const filterDropdown = document.getElementById('filter-dropdown');
+
+  if (bookFilterIcon && filterDropdown) {
+    bookFilterIcon.addEventListener('click', function(e) {
+      e.preventDefault();
+      if (filterDropdown.style.display === 'none' || filterDropdown.style.display === '') {
+        filterDropdown.style.display = 'block';
+      } else {
+        filterDropdown.style.display = 'none';
+      }
+    });
+  }
+
+  // Book reviews rating filter
+  const ratingFilter = document.getElementById('rating-filter');
+  if (ratingFilter) {
     ratingFilter.addEventListener('change', filterBookReviews);
   }
 });
@@ -116,9 +146,8 @@ function getSectionLabel(section) {
   return labels[section] || section;
 }
 
-// Filter book reviews
+// Filter book reviews by rating
 function filterBookReviews() {
-  const searchQuery = document.getElementById('book-search').value.toLowerCase().trim();
   const selectedRating = document.getElementById('rating-filter').value;
   const reviewItems = document.querySelectorAll('.book-review-item');
   const noResults = document.getElementById('no-results');
@@ -126,28 +155,10 @@ function filterBookReviews() {
   let visibleCount = 0;
 
   reviewItems.forEach(item => {
-    const title = item.getAttribute('data-title');
-    const author = item.getAttribute('data-author');
-    const content = item.getAttribute('data-content');
     const rating = item.getAttribute('data-rating');
 
-    let matchesSearch = true;
-    let matchesRating = true;
-
-    // Check search query
-    if (searchQuery.length > 0) {
-      matchesSearch = title.includes(searchQuery) ||
-                      author.includes(searchQuery) ||
-                      content.includes(searchQuery);
-    }
-
     // Check rating filter
-    if (selectedRating !== '') {
-      matchesRating = rating === selectedRating;
-    }
-
-    // Show or hide item
-    if (matchesSearch && matchesRating) {
+    if (selectedRating === '' || rating === selectedRating) {
       item.style.display = '';
       visibleCount++;
     } else {

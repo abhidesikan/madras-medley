@@ -152,7 +152,8 @@ img[src*="#thumbnail"] {
 
 .header nav {
     border-top: none !important;
-    padding-top: 0.8em !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
 }
 
 .header nav li {

@@ -7,7 +7,7 @@
 		</div>
 	{{ end }}
 	<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
-	<div class="site-description">
+	<div class="site-description" style="margin-bottom: 1.5em;">
 		{{- if isset .Site.Params "subtitle" -}}
 		<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 		{{- end -}}
@@ -23,19 +23,25 @@
 		</nav>
 	</div>
 
-	<nav class="nav">
-		<ul class="flat">
+	<nav class="nav" style="display: flex; align-items: center; justify-content: space-between;">
+		<ul class="flat" style="margin: 0;">
 			{{ range .Site.Menus.main }}
 			<li>
 				<a href="{{ .URL }}">{{ .Name }}</a>
 			</li>
 			{{ end }}
 		</ul>
+		<!-- Compact Search Icon -->
+		<div class="search-toggle" style="margin-left: 1em; display: flex; align-items: center;">
+			<a href="#" id="search-icon" style="text-decoration: none; color: inherit; line-height: 1;" title="Search">
+				<i data-feather="search" style="width: 18px; height: 18px;"></i>
+			</a>
+		</div>
 	</nav>
 
-	<!-- Global Search Box -->
-	<div class="search-container" style="margin: 1.5em 0;">
-		<input type="text" id="global-search" placeholder="Search posts, reviews, travels..." style="width: 100%; padding: 0.6em; border: 1px solid #ddd; border-radius: 4px; font-size: 0.95em;">
-		<div id="search-results" style="display: none; margin-top: 1em; padding: 1em; background: #f9f9f9; border-radius: 4px; max-height: 400px; overflow-y: auto;"></div>
+	<!-- Compact Search Box (hidden by default) -->
+	<div class="search-container" id="search-container" style="display: none; margin: 0.8em 0 0 0;">
+		<input type="text" id="global-search" placeholder="Search..." style="width: 100%; padding: 0.5em 0.7em; border: none; border-bottom: 1px solid #ddd; background: transparent; font-size: 0.9em; outline: none; color: inherit;">
+		<div id="search-results" style="display: none; margin-top: 0.5em; padding: 0.8em; background: white; border: 1px solid #ddd; border-radius: 3px; max-height: 300px; overflow-y: auto; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"></div>
 	</div>
 </div>
