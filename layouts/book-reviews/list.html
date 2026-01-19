@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html {{- if (eq .Site.Params.mode "dark") -}}class="dark"{{ end }}>
+{{ partial "header.html" . }}
+<body>
+	<div class="container wrapper list">
+		{{ partial "head.html" . }}
+
+		<div class="post-header" style="margin-bottom: 2em;">
+			<h1 class="post-title">{{ .Title }}</h1>
+		</div>
+
+		<!-- Book Reviews Search and Filter -->
+		<div class="book-reviews-filter" style="margin-bottom: 2em; padding: 1.5em; background: #f9f9f9; border-radius: 4px;">
+			<div style="margin-bottom: 1em;">
+				<input type="text" id="book-search" placeholder="Search book reviews by title, author, or content..." style="width: 100%; padding: 0.6em; border: 1px solid #ddd; border-radius: 4px; font-size: 0.95em;">
+			</div>
+			<div style="display: flex; gap: 1em; align-items: center;">
+				<label for="rating-filter" style="font-weight: 500;">Filter by rating:</label>
+				<select id="rating-filter" style="padding: 0.5em; border: 1px solid #ddd; border-radius: 4px; font-size: 0.95em;">
+					<option value="">All Ratings</option>
+					<option value="5">★★★★★ (5 stars)</option>
+					<option value="4">★★★★ (4 stars)</option>
+					<option value="3">★★★ (3 stars)</option>
+					<option value="2">★★ (2 stars)</option>
+					<option value="1">★ (1 star)</option>
+				</select>
+			</div>
+		</div>
+
+		<div class="posts" id="book-reviews-list">
+			{{ range .Pages }}
+				{{ if eq .Type "book-reviews" }}
+				<div class="post book-review-item" data-rating="{{ .Params.rating }}" data-title="{{ .Title | lower }}" data-author="{{ .Params.author | lower }}" data-content="{{ .Content | plainify | lower }}">
+					{{ partial "post-preview.html" . }}
+				</div>
+				{{ end }}
+			{{ end }}
+		</div>
+
+		<div id="no-results" style="display: none; text-align: center; padding: 2em; color: #666;">
+			<p>No book reviews found matching your criteria.</p>
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+</html>

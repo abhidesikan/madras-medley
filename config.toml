@@ -5,6 +5,9 @@ theme = 'hugo-ink'
 paginate = 5
 copyright = "© Copyright notice"
 
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
 
 [params]
    subtitle = "धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization"
