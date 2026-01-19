@@ -45,15 +45,22 @@
 		<meta property="og:description" content="{{ .Site.Params.description }}">
 	{{- end -}}
 
-	{{- /* Find first image in content for Open Graph */ -}}
-	{{- $images := findRE "<img[^>]+src=\"([^\"]+)\"" .Content 1 -}}
-	{{- if $images -}}
-		{{- $img := index $images 0 -}}
-		{{- $src := replaceRE ".*src=\"([^\"]+)\".*" "$1" $img -}}
-		{{- if not (hasPrefix $src "http") -}}
-			{{- $src = printf "%s%s" .Site.BaseURL (strings.TrimPrefix "/" $src) -}}
+	{{- /* Find image for Open Graph - check featured_image first, then content */ -}}
+	{{- $ogImage := "" -}}
+	{{- if .Params.featured_image -}}
+		{{- $ogImage = .Params.featured_image -}}
+	{{- else -}}
+		{{- $images := findRE "<img[^>]+src=\"([^\"]+)\"" .Content 1 -}}
+		{{- if $images -}}
+			{{- $img := index $images 0 -}}
+			{{- $ogImage = replaceRE ".*src=\"([^\"]+)\".*" "$1" $img -}}
 		{{- end -}}
-		<meta property="og:image" content="{{ $src }}">
+	{{- end -}}
+	{{- if $ogImage -}}
+		{{- if not (hasPrefix $ogImage "http") -}}
+			{{- $ogImage = printf "%s%s" .Site.BaseURL (strings.TrimPrefix "/" $ogImage) -}}
+		{{- end -}}
+		<meta property="og:image" content="{{ $ogImage }}">
 		<meta property="og:image:alt" content="{{ .Title }}">
 	{{- else if isset .Site.Params "defaultogimage" -}}
 		<meta property="og:image" content="{{ .Site.Params.defaultOGImage }}">
@@ -79,13 +86,8 @@
 	{{- else if .Summary -}}
 		<meta name="twitter:description" content="{{ .Summary | plainify | truncate 160 }}">
 	{{- end -}}
-	{{- if $images -}}
-		{{- $img := index $images 0 -}}
-		{{- $src := replaceRE ".*src=\"([^\"]+)\".*" "$1" $img -}}
-		{{- if not (hasPrefix $src "http") -}}
-			{{- $src = printf "%s%s" .Site.BaseURL (strings.TrimPrefix "/" $src) -}}
-		{{- end -}}
-		<meta name="twitter:image" content="{{ $src }}">
+	{{- if $ogImage -}}
+		<meta name="twitter:image" content="{{ $ogImage }}">
 	{{- else if isset .Site.Params "defaultogimage" -}}
 		<meta name="twitter:image" content="{{ .Site.Params.defaultOGImage }}">
 	{{- end -}}
@@ -118,13 +120,8 @@
 		},
 		"description": "{{ if .Description }}{{ .Description }}{{ else if .Summary }}{{ .Summary | plainify | truncate 160 }}{{ end }}",
 		"url": "{{ .Permalink }}"
-		{{- if $images -}}
-			{{- $img := index $images 0 -}}
-			{{- $src := replaceRE ".*src=\"([^\"]+)\".*" "$1" $img -}}
-			{{- if not (hasPrefix $src "http") -}}
-				{{- $src = printf "%s%s" .Site.BaseURL (strings.TrimPrefix "/" $src) -}}
-			{{- end -}}
-		,"image": "{{ $src }}"
+		{{- if $ogImage -}}
+		,"image": "{{ $ogImage }}"
 		{{- end -}}
 	}
 	</script>

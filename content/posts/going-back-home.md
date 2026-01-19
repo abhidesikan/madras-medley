@@ -2,6 +2,7 @@
 title: "Going Back Home"
 date: 2017-04-06T17:37:06-08:00
 draft: false
+featured_image: "/home.png"
 ---
 
 ![going-back-home](/home.png)

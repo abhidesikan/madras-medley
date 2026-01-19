@@ -2,6 +2,7 @@
 title: "A decade of Diary writing"
 date: 2018-01-01T18:09:03-08:00
 draft: false
+featured_image: "/diary.jpg"
 ---
 
 

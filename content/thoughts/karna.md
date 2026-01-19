@@ -2,6 +2,7 @@
 title: "Decoding Karna"
 date: 2016-03-13T17:31:56-08:00
 draft: false
+featured_image: "/karna1.jpg"
 ---
 
 One of my fondest memories from school was when we were split into different houses during my sixth grade. The selection process was, of course, random. Our "P.T.Sir" interrupted one of our classes with a huge bunch of colored banians, one for each of the four houses - Bhishma, Abhimanyu, Arjuna and Karna, and started distributing them on a round robin basis.

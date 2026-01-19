@@ -2,6 +2,7 @@
 title: "A decade in USA"
 date: 2023-08-09T19:00:33-07:00
 draft: false
+featured_image: "/statesusa.jpg"
 ---
 
 10 years ago, on August 9, 2013, I first stepped into the USA. As a 23-year-old, I came here for my Master's degree, and my plan was to graduate, hopefully, get a job, repay my education loan, and return to Chennai within 2 years. Clearly, fate had other plans, and cliched as it might sound, I can't believe it's 10 years already. 

@@ -2,6 +2,7 @@
 title: "Chariots, Genetics and the Aryan Invasion Theory"
 date: 2018-08-04T17:44:17-08:00
 draft: false
+featured_image: "/chariot.jpg"
 ---
 
 This past month of June has been pretty important for Indian history buffs. The recent spate of excavations done by the Archaeological Survey of India (ASI) and the study of ancient DNA led to a few important discoveries.

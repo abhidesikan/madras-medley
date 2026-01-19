@@ -2,6 +2,7 @@
 title: "Travel Blog - My trip to Delhi-Mathura-Vrindavan-Agra - December 2019"
 date: 2021-01-10T10:41:44-08:00
 draft: false
+featured_image: "/delhi_35.JPG"
 ---
 
 I've never explored much of what is popularly known as the "Hindi Belt" of India. My friend Nidhi was getting married in the capital city. It was the perfect opportunity for me to visit places I've always wanted to see. 
