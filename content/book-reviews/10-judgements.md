@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "India's story, post Independence, can be illustrated through different lenses - historical, political, geographical, to name a few. It is not often that one ..."
 keywords: ["10 Judgements That Changed India", "Zia Mody - Review", "book review", "India", "Bharat", "history"]
+tags: ["India", "history", "politics", "law"]
 ---
 
 India's story, post Independence, can be illustrated through different lenses - historical, political, geographical, to name a few. It is not often that one views India from a judicial perspective, and 10 Judgements That changed India does precisely that. By analyzing landmark judgments by the highest court of the land in the decades post-independence, the author vividly paints how our country's law and constitution have impacted its turn of events and evolved to their current state.

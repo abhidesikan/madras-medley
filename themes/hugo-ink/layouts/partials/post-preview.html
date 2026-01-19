@@ -27,10 +27,20 @@
 			<h4 class="title small">
 				<a href="{{ .RelPermalink }}">{{.Title}}{{ if .Draft }}<sup class="draft-label">DRAFT</sup>{{ end }}</a>
 			</h4>
-			<div style="color: #999; font-size: 0.85rem; display: flex; gap: 0.8em; margin-top: 0.2em; flex-wrap: wrap;">
+			<div style="color: #999; font-size: 0.85rem; display: flex; gap: 0.8em; margin-top: 0.2em; flex-wrap: wrap; align-items: center;">
 				<span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
 				<span>·</span>
 				<span>{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+				{{- if .Params.tags -}}
+					<span>·</span>
+					<div style="display: flex; gap: 0.4em; flex-wrap: wrap;">
+						{{- range first 3 .Params.tags -}}
+						<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag-preview" style="display: inline-block; padding: 0.2em 0.5em; border-radius: 2px; font-size: 0.8em; text-decoration: none;">
+							{{ . }}
+						</a>
+						{{- end -}}
+					</div>
+				{{- end -}}
 			</div>
 		</div>
 	</div>

@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "If setting a precedent as to what one can expect by reading a book, and delivering on that promise, was a measure of a book's stature, then Yuganta by Irawat..."
 keywords: ["Yuganta: The End of an Epoch", "Irawati Karve - Review", "book review", "Mahabharata", "epic"]
+tags: ['Mahabharata', 'mythology', 'philosophy']
 ---
 
 If setting a precedent as to what one can expect by reading a book, and delivering on that promise, was a measure of a book's stature, then Yuganta by Irawati Karve ranks very high in that regard. It presents a realistic take on the events of the Mahabharata and explores the main characters in depth, as humans, stripping them of their divinity. What made it compelling was the concise, no-nonsense narration, the evidence which backed the author's interpretation, and the logical conclusion one can derive from these events.

@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "Ashoka the Ungreat looks at the life and times of Ashoka and paints a perspective opposed to the mainstream narrative which is that of a just and peaceful ru..."
 keywords: ["Ashoka the Ungreat", "Subhodeep Mukhopadhyay - Review", "book review", "India", "Indian history", "history"]
+tags: ["history", "India", "biography"]
 ---
 
 Ashoka the Ungreat looks at the life and times of Ashoka and paints a perspective opposed to the mainstream narrative which is that of a just and peaceful ruler. What gives this perspective credence is the evidence is based on the same triad of the Rock edicts, Ashokavadana and the Sri Lankan texts on which contemporary historians base their claim for Ashoka's 'greatness'. However, only the parts which suit their narrative have been taken into consideration, while the others which describe Ashoka's tyranny, religious zealousness and incongruencies between the edicts and the texts have been ignored.

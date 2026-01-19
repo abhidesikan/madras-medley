@@ -3,8 +3,9 @@ title: "The Ocean of Churn: How the Indian Ocean Shaped Human History by Sanjeev
 date: 2017-10-23T19:04:55-08:00
 draft: false
 rating: 5
-description: "There aren’t many books which make you feel thankful that you came across them. The Ocean of Churn, by Sanjeev Sanyal, is definitely one of them."
+description: "There aren't many books which make you feel thankful that you came across them. The Ocean of Churn, by Sanjeev Sanyal, is definitely one of them."
 keywords: ["The Ocean of Churn: How the Indian Ocean Shaped Human History", "Sanjeev Sanyal - Review", "book review", "India", "history", "politics"]
+tags: ["history", "India"]
 ---
 
 There aren’t many books which make you feel thankful that you came across them. The Ocean of Churn, by Sanjeev Sanyal, is definitely one of them. For quite some time I’ve wanted to read a book which would give an accurate and vivid description of how civilization came to be, especially around the Indian subcontinent. Few people could tell the story in such a concise manner as has the author, as we wade through the origin of Homo Sapiens right up to the bustling cosmopolitan 21st century behemoth that the area has now become.

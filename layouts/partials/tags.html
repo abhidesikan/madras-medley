@@ -1,0 +1,12 @@
+{{- if .Params.tags -}}
+<div class="post-tags" style="margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid #eee;">
+    <div style="display: flex; align-items: center; gap: 0.6em; flex-wrap: wrap;">
+        <span style="color: #666; font-size: 0.9em;">Tags:</span>
+        {{- range .Params.tags -}}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" style="display: inline-block; padding: 0.3em 0.7em; background: #f5f5f5; border-radius: 3px; font-size: 0.85em; color: #666 !important; text-decoration: none !important;">
+            {{ . }}
+        </a>
+        {{- end -}}
+    </div>
+</div>
+{{- end -}}

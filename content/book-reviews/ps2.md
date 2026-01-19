@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Note: You can access part 1 of my review [here](https://madrasmedley.com/book-reviews/ps1/). Part 2, and others, are a direct continuation of their previous ..."
 keywords: ["Ponniyin Selvan - Whirlwinds - Part 2 - Review", "Abhishek Desikan", "book review"]
+tags: ["fiction", "history", "India", "literature"]
 ---
 
 Note: You can access part 1 of my review [here](https://madrasmedley.com/book-reviews/ps1/). 

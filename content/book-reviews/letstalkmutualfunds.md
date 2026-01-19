@@ -3,8 +3,9 @@ title: "Let's Talk Mutual Funds by Monika Halan - Review by Abhishek Desikan"
 date: 2024-01-08T19:24:34-08:00
 draft: false
 rating: 5
-description: "Let’s Talk Mutual Funds is the sequel to the very enlightening and foundational book “Let’s Talk Money” by Monika Halan. As the title suggests, this book is ..."
+description: "Let's Talk Mutual Funds is the sequel to the very enlightening and foundational book 'Let's Talk Money' by Monika Halan. As the title suggests, this book is ..."
 keywords: ["Let's Talk Mutual Funds", "Monika Halan - Review", "book review", "India"]
+tags: ["economics", "finance", "India"]
 ---
 
 Let’s Talk Mutual Funds is the sequel to the very enlightening and foundational book “Let’s Talk Money” by Monika Halan. As the title suggests, this book is both an introduction and a dive deep into the world of mutual funds in India. It provides a step-by-step guide for investors on investing in mutual funds at any stage of their life or financial journey. 

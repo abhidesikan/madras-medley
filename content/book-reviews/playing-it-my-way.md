@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "Sachin's autobiography was one book I had a lot of expectations on, as an avid fan and book reader. While the fan in me was delighted to read about his explo..."
 keywords: ["Playing It My Way: My Autobiography", "Sachin Tendulkar, Boria Majumdar - Review", "book review", "India", "biography"]
+tags: ["biography", "sports", "India"]
 ---
 
 Sachin's autobiography was one book I had a lot of expectations on, as an avid fan and book reader. While the fan in me was delighted to read about his exploits on and off the field, the book reader in me was a tad disappointed, because the narration made it seem like a summary of his professional career, from Sachin's perspective. However, given the length of his career and the number of important moments in them, I feel the book has done a good job overall, in being honest and keeping the reader interested till the very end.

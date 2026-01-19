@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "A question which has long troubled me about Indian history is how such a great civilization could not resist against the Islamic invaders and surrendered mee..."
 keywords: ["Heroic Hindu Resistance to Muslim Invaders, 636 AD To 1206 AD", "Sita Ram Goel - Review", "book review", "India", "Indian history", "history"]
+tags: ["history", "India"]
 ---
 
 A question which has long troubled me about Indian history is how such a great civilization could not resist against the Islamic invaders and surrendered meekly. The usual explanation I came across was that Hindu kings of the time lacked unity and thus were easy targets to be conquered. This explanation never quite sat well with me, and thanks to doyens like Sita Ram Goel and Dr.Ram Gopal Misra, whose book he reviews in this book, I have uncovered the layers of truth buried deep under Marxist and leftist perpetrated 'history' which we learned in our history books and which continue to dominate our media and academic circles.

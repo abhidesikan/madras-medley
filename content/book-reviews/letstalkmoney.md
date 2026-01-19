@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Let's Talk Money by Monika Halan is one of those books I'd recommend as a must-read for everyone, regardless of whether they're a novice or an expert at mana..."
 keywords: ["Let's Talk Money - Review", "Abhishek Desikan", "book review", "India"]
+tags: ["economics", "finance", "India"]
 ---
 
 Let's Talk Money by Monika Halan is one of those books I'd recommend as a must-read for everyone, regardless of whether they're a novice or an expert at managing their finances. I was impressed with how the book was structured, and it provides a step-by-step approach to making one's money work for them in different life situations.

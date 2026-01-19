@@ -207,6 +207,14 @@ img[src*="#thumbnail"] {
     text-align: center !important;
 }
 
+/* Tag preview styling - light mode */
+a.tag-preview,
+a.tag-preview:hover {
+    background: #f5f5f5 !important;
+    color: #666 !important;
+    text-decoration: none !important;
+}
+
 /* ===== DARK MODE ===== */
 
 html.dark body {
@@ -257,6 +265,57 @@ html.dark .post-content a {
 html.dark .markdown a:hover,
 html.dark .post-content a:hover {
     text-decoration-color: rgba(96, 165, 250, 1) !important;
+}
+
+html.dark .post-tags {
+    border-top-color: #333 !important;
+}
+
+html.dark .post-tags span {
+    color: #b0b0b0 !important;
+}
+
+html.dark .post-tags a {
+    background: #1a1a1a !important;
+    color: #b0b0b0 !important;
+}
+
+html.dark .share-buttons {
+    border-top-color: #333 !important;
+}
+
+html.dark .share-buttons span {
+    color: #b0b0b0 !important;
+}
+
+html.dark .year-section h2 {
+    color: #60a5fa !important;
+    border-bottom-color: #333 !important;
+}
+
+html.dark .timeline {
+    border-left-color: #333 !important;
+}
+
+html.dark .timeline-item {
+    border-bottom-color: #1a1a1a !important;
+}
+
+html.dark .timeline-item h3 a {
+    color: #e5e5e5 !important;
+}
+
+html.dark .timeline-item span[style*="background: #f5f5f5"] {
+    background: #1a1a1a !important;
+    color: #b0b0b0 !important;
+}
+
+/* Tags in post previews - match individual post style */
+html.dark a.tag-preview,
+html.dark a.tag-preview:hover {
+    background: #1a1a1a !important;
+    color: #b0b0b0 !important;
+    text-decoration: none !important;
 }
 
 /* ===== RESPONSIVE ===== */

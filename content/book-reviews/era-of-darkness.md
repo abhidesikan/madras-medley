@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "'The British rule was good for India', is a common argument put forth by apologists for the Raj, both in India and elsewhere. Tharoor, in his latest book, de..."
 keywords: ["An Era of Darkness: The British Empire in India", "Shashi Tharoor - Review", "book review", "India", "Hindu"]
+tags: ["history", "India", "politics"]
 ---
 
 'The British rule was good for India', is a common argument put forth by apologists for the Raj, both in India and elsewhere. Tharoor, in his latest book, debunks, denounces, debases and ultimately destroys this argument and the various claims to support it.

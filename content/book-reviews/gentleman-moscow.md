@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "What if I told you that here's a book, which not only pulls you into a semi-fictional world set in early 1900s Soviet Union, with a lead character who is cha..."
 keywords: ["A Gentleman in Moscow", "Amor Towles - Review", "book review", "history", "fiction", "novel"]
+tags: ["fiction", "history", "literature"]
 ---
 
 What if I told you that here's a book, which not only pulls you into a semi-fictional world set in early 1900s Soviet Union, with a lead character who is charming, witty, humorous, affectionate and a top-notch aristocrat, a tale which binds you from start to finish while also being an extraordinarily well-written novel, making it a delightful read?

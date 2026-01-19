@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Doglapan, the famous expression from Ashneer Grover of Shark Tank India fame, is also the name of his autobiography. True to his on-screen character, Ashenee..."
 keywords: ["Doglapan: The Hard Truth about Life and Start-Ups - Review", "Abhishek Desikan", "book review", "India", "Bharat", "biography"]
+tags: ["biography", "business", "India"]
 ---
 
 Doglapan, the famous expression from Ashneer Grover of Shark Tank India fame, is also the name of his autobiography. True to his on-screen character, Asheneer gives us a very candid and engaging peek into his life and his journey from being a 'refugee' to one of India's most prominent startup founders and an inspiration to many. 

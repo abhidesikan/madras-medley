@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "A primer on the life of the Sri Vaishnava philosopher, Ramanuja, with an introduction to Vishishtadvaita and its differences with Sankaracharya’s Advaita. Ra..."
 keywords: ["Sri Ramanuja His Life Religion and Philosophy", "Tapasyananda - Review", "book review"]
+tags: ["biography", "India", "philosophy"]
 ---
 
 A primer on the life of the Sri Vaishnava philosopher, Ramanuja, with an introduction to Vishishtadvaita and its differences with Sankaracharya’s Advaita. Ramanuja was a great integrator, and his success lies in combining the devotional aspect of the Azhwars, with the Vedantic Upanishads.

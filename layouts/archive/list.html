@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+
+		<div class="post">
+			<h1 class="post-title" style="margin-bottom: 0.5em;">Archive</h1>
+			<p style="color: #666; margin-bottom: 3em;">All posts organized by year</p>
+
+			{{- $posts := where .Site.RegularPages "Section" "in" (slice "posts" "book-reviews" "thoughts" "travel" "divya-desams") -}}
+			{{- $postsByYear := dict -}}
+
+			{{- range $posts -}}
+				{{- $year := .Date.Format "2006" -}}
+				{{- $yearPosts := index $postsByYear $year -}}
+				{{- if not $yearPosts -}}
+					{{- $yearPosts = slice . -}}
+				{{- else -}}
+					{{- $yearPosts = $yearPosts | append . -}}
+				{{- end -}}
+				{{- $postsByYear = merge $postsByYear (dict $year $yearPosts) -}}
+			{{- end -}}
+
+			{{- $years := slice -}}
+			{{- range $year, $yearPosts := $postsByYear -}}
+				{{- $years = $years | append $year -}}
+			{{- end -}}
+			{{- $sortedYears := sort $years "value" "desc" -}}
+
+			{{- range $sortedYears -}}
+			{{- $year := . -}}
+			{{- $yearPosts := index $postsByYear $year -}}
+			{{- $sortedPosts := sort $yearPosts "Date" "desc" -}}
+
+			<div class="year-section" style="margin-bottom: 3em;">
+				<h2 style="font-size: 1.8rem; color: #2563eb; margin-bottom: 1.2em; padding-bottom: 0.5em; border-bottom: 2px solid #e5e5e5;">{{ $year }}</h2>
+
+				<div class="timeline" style="position: relative; padding-left: 2em; border-left: 2px solid #e5e5e5;">
+					{{- range $sortedPosts -}}
+					<div class="timeline-item" style="position: relative; margin-bottom: 2em; padding-bottom: 2em; border-bottom: 1px solid #f5f5f5;">
+						<!-- Timeline dot -->
+						<div style="position: absolute; left: -2.56em; top: 0.3em; width: 12px; height: 12px; background: #2563eb; border: 2px solid white; border-radius: 50%; box-shadow: 0 0 0 2px #e5e5e5;"></div>
+
+						<div style="display: flex; flex-direction: column; gap: 0.3em;">
+							<div style="color: #999; font-size: 0.85rem; font-weight: 500;">
+								{{ .Date.Format "Jan 2" }}
+							</div>
+							<h3 style="margin: 0; font-size: 1.1rem; font-weight: 500;">
+								<a href="{{ .RelPermalink }}" style="color: #1a1a1a;">{{ .Title }}</a>
+							</h3>
+							<div style="display: flex; align-items: center; gap: 0.6em; flex-wrap: wrap; font-size: 0.85rem; color: #666;">
+								<span style="text-transform: capitalize;">{{ .Section }}</span>
+								{{- if .Params.rating -}}
+									<span>·</span>
+									<span style="color: #f59e0b; letter-spacing: 0.1em;">
+										{{- $rating := .Params.rating -}}
+										{{- range seq $rating -}}★{{- end -}}
+									</span>
+								{{- end -}}
+								{{- if .Params.tags -}}
+									<span>·</span>
+									<div style="display: flex; gap: 0.4em; flex-wrap: wrap;">
+										{{- range first 2 .Params.tags -}}
+										<span style="padding: 0.15em 0.5em; background: #f5f5f5; border-radius: 2px; font-size: 0.8em;">{{ . }}</span>
+										{{- end -}}
+									</div>
+								{{- end -}}
+							</div>
+						</div>
+					</div>
+					{{- end -}}
+				</div>
+			</div>
+			{{- end -}}
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+</html>

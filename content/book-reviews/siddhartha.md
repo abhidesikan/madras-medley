@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Siddhartha is a simple but profound tale of a man's discovery of the purpose of one's life. Set in the era of the Buddha (referred to as Gotama), it details ..."
 keywords: ["Siddhartha", "Hermann Hesse - Review", "book review"]
+tags: ['philosophy', 'Buddhism', 'fiction']
 ---
 
 Siddhartha is a simple but profound tale of a man's discovery of the purpose of one's life. Set in the era of the Buddha (referred to as Gotama), it details the myriad experiences of Siddhartha, who feels discontent with what he observes around him and decides to experience the knowledge of the Atman, or Self.

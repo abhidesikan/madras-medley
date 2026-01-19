@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Reading a book rarely makes you feel anger, despair, anxiety, hopelessness, and resignation. Strangely, these are the only emotions one experiences while rea..."
 keywords: ["Hindus In Hindu Rashtra - Review", "Abhishek Desikan", "book review", "India", "Hinduism", "Hindu"]
+tags: ["politics", "India", "history"]
 ---
 
 Reading a book rarely makes you feel anger, despair, anxiety, hopelessness, and resignation. Strangely, these are the only emotions one experiences while reading Dr. Anand Ranganathan's latest book - Hindus in Hindu Rashtra: Eighth-Class Citizens and Victims of state-sanctioned apartheid.

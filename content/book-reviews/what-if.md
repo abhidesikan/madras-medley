@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Funny and quirky physics book answering wacky questions. Like the author says - there are stupid questions but trying to throughly answer them can take you t..."
 keywords: ["What If?: Serious Scientific Answers to Absurd Hypothetical Questions", "Randall Munroe - Review", "book review"]
+tags: ['science', 'humor', 'physics']
 ---
 
 Funny and quirky physics book answering wacky questions. Like the author says - there are stupid questions but trying to throughly answer them can take you to some pretty interesting places.

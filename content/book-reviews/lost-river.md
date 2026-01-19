@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "The river Saraswathi has been in the collective memory of the Indian civilization since time immemorial. Revered as one of the mightiest rivers in the Rig Ve..."
 keywords: ["The Lost River: On The Trail of the Sarasvati", "Michel Danino - Review", "book review", "India", "history"]
+tags: ["history", "India"]
 ---
 
 The river Saraswathi has been in the collective memory of the Indian civilization since time immemorial. Revered as one of the mightiest rivers in the Rig Veda and prayed to as Goddess Saraswathi, it has transcended generations across millennia to remain in our consciousness. In this landmark work, Michel Danino tells us the gripping tale of the origin, rise, and fall of this mighty river and its renaissance in the 21st century.

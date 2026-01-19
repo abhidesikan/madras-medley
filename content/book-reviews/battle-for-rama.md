@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "The Battle for Rama is a concise reference book on one of the most critical and controversial issues in Bharāt- the birthplace of Lord Sri Rama at Ramjanmabh..."
 keywords: ["The Battle for Rama : Case of the Temple at Ayodhya - Review", "Abhishek Desikan", "book review", "history", "Hindu"]
+tags: ["history", "India", "politics", "mythology"]
 ---
 
 The Battle for Rama is a concise reference book on one of the most critical and controversial issues in Bharāt- the birthplace of Lord Sri Rama at Ramjanmabhumi at Ayodhya. The book details the entire history of the place, the continued worship and faith of millions at the site, and the various conflicts due to the construction of the Babri Masjid by Babur and its subsequent demolition.

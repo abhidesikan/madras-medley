@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "It is pretty rare for a book that can be classified as very erudite to be welcomed with such pomp and praise, primarily when the book in question addresses t..."
 keywords: ["India that is Bharat: Coloniality, Civilisation, Constitution", "J Sai Deepak - Review", "book review", "India", "Bharat", "history"]
+tags: ["history", "India", "politics"]
 ---
 
 It is pretty rare for a book that can be classified as very erudite to be welcomed with such pomp and praise, primarily when the book in question addresses the esoteric space of decoloniality and its implication in the Bharatiya context. And yet, that is precisely what lawyer J Sai Deepak has achieved in his first of a proposed trilogy of books on Bharat and Bharatiya consciousness.

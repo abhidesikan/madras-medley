@@ -3,6 +3,7 @@ title: "Appa - A son's memoir"
 date: 2015-06-20T16:27:19-08:00
 draft: false
 featured_image: "/appa.jpg"
+tags: ['personal', 'family-life', 'reflection']
 ---
 
 Last month was a special one for me. I had my graduation ceremony where a Masters degree was conferred upon me and my friends. It was one of those markers on the number scale of life - when you stop and reflect on your life's passage, of how far you've come from where you were, those reference points you reminisce with a wistful smile, the moments which remain with you forever.

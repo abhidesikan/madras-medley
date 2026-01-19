@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "I picked up this book as I liked the author's (Arnab Ray) other book named Mahabharata Murders. Sultan of Delhi wasn't as thrilling or racy as the former, as..."
 keywords: ["Sultan of Delhi: Ascension", "Arnab Ray  - Review", "book review", "India", "Bharat", "Mahabharata"]
+tags: ['history', 'India', 'fiction']
 ---
 
 I picked up this book as I liked the author's (Arnab Ray) other book named Mahabharata Murders. Sultan of Delhi wasn't as thrilling or racy as the former, as it is set in a very different environment.

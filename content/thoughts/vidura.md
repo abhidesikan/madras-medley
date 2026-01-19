@@ -3,6 +3,7 @@ title: "Vidura - An underrated sage"
 date: 2018-05-13T17:46:06-08:00
 draft: false
 featured_image: "/vidura.jpg"
+tags: ['Mahabharata', 'mythology', 'philosophy']
 ---
 
 When we think of the important characters in the Mahabharata, few names come to mind instantly - the Pandavas (Yudhishtra, Bhima, Arjuna, Nakula & Sahadeva), the Kauravas (led by Duryodhana, Dushasana etc.), Bhishma, Krishna, Draupadi. We even get reminded of Shakuni, Drishtyadhumna, Dhritarashtra, and Gandhari. But we tend to overlook, or not give too much weight to a central character in the epic - Vidura. This post is an attempt to look at Vidura's part in the complex sociopolitical landscape of the epic and more importantly, the nature of his relationship with the eldest of the Pandavas, Yudhishtra.

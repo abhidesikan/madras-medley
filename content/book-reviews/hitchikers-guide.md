@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "One of the more 'whacky' books I've read in the recent past. The Hitchhiker's Guide to the Galaxy is considered a classic, and I can see why (in parts at lea..."
 keywords: ["The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)", "Douglas Adams - Review", "book review", "fiction"]
+tags: ["fiction", "science fiction", "comedy"]
 ---
 
 One of the more 'whacky' books I've read in the recent past. The Hitchhiker's Guide to the Galaxy is considered a classic, and I can see why (in parts at least). However, a true classic is a timeless one, and somehow, I didn't feel drawn enough to the narrative and for large parts felt like I was reading a book written for teenagers.

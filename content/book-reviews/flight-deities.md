@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Flight of Deities and Rebirth of Temples is a dispassionate, unbiased, and critical retelling of the history of India focusing on the countless incidents of ..."
 keywords: ["Flight of Deities and Rebirth of Temples: Episodes from Indian History", "Meenakshi Jain - Review", "book review", "India", "history", "Hindu"]
+tags: ["history", "India", "mythology"]
 ---
 
 Flight of Deities and Rebirth of Temples is a dispassionate, unbiased, and critical retelling of the history of India focusing on the countless incidents of destruction of temples and temple structures by Muslim invaders. It provides an expansive account from primary and secondary sources and covers the length and breadth of the country in its scope, thus providing a truly comprehensive insight into these incidents. Kudos to the author Meenakshi Jain for this mammoth effort!

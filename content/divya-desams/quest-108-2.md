@@ -3,6 +3,7 @@ title: "Quest for 108 - Part 2 (Sirkazhi-Thirunagur-Chidambaram Divya Desams)"
 date: 2019-02-05T18:15:41-08:00
 draft: false
 featured_image: "/govinda_1.JPG"
+tags: ['travel', 'temples', 'Vaishnavism']
 ---
 
 **The Story**

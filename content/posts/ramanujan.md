@@ -3,6 +3,7 @@ title: "An 18 hour tryst with the Man Who Knew Infinity"
 date: 2015-12-29T16:52:55-08:00
 draft: false
 featured_image: "/ramanujan.jpg"
+tags: ['mathematics', 'India', 'history']
 ---
 
 There are few whereabouts which offer the sanctity required for an immersive book reading experience. A long flight journey, devoid of all external disturbances apart from the occasional turbulence, is certainly one of them. The book partaking my journey was Robert Kanigel's : The Man Who Knew Infinity, a biography of one of the world's greatest mathematicians - Srinivasa Ramanujan Iyengar, and I must say, it was both enriching and enlightening.

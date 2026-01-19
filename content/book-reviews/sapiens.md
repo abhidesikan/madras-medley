@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "I am a fan of history, and one thing I can convincingly say about historical books is how difficult it is to weave them into an engaging story, no matter how..."
 keywords: ["Sapiens: A Brief History of Humankind", "Yuval Noah Harari - Review", "book review", "history"]
+tags: ["history", "science", "philosophy"]
 ---
 
 I am a fan of history, and one thing I can convincingly say about historical books is how difficult it is to weave them into an engaging story, no matter how narrow the scope of the book. In that regard, Sapiens is an outstanding book as it tells the greatest historical story of them all - of our own species, Homo Sapiens, and how we came about to be what we are today.

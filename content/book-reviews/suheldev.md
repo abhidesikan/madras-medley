@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "As I read the last page of Suheldev, I felt a mixture of satisfaction and a bit of a letdown. I was pleased that we finally have a best-selling Indian author..."
 keywords: ["Suheldev & the Battle of Bahraich (Indic Chronicles #1)", "Amish Tripathi - Review", "book review", "India", "Indian history", "history"]
+tags: ['history', 'India', 'fiction']
 ---
 
 As I read the last page of Suheldev, I felt a mixture of satisfaction and a bit of a letdown. I was pleased that we finally have a best-selling Indian author reviving stories of unknown/lost Indian heroes. But I also yearned for a more nuanced and gripping tale than the one I read. This is not a criticism of the author, but rather a reflection of my own expectations of stories based on Indian history.

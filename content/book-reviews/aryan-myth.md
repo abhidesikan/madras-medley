@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "The Aryan Invasion Myth is a short read on the present state of the long-standing debate on the origins of the Indian people. To the uninitiated, there are b..."
 keywords: ["The Aryan Invasion Myth: How 21st Century Science Debunks 19th Century Indology", "A.L. Chavda - Review", "book review", "India", "Hinduism", "Hindu"]
+tags: ["history", "India", "science"]
 ---
 
 The Aryan Invasion Myth is a short read on the present state of the long-standing debate on the origins of the Indian people. To the uninitiated, there are broadly two schools of thought concerning the origins of early Indians - The Aryan Invasion Theory(AIT)/Aryan Migration Theory(AMT) and the Out of India Theory (OIT).

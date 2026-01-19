@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Since its inception, the Aryan Invasion Theory (AIT) has taken various twists and turns and has been responsible for debates in multiple spheres like academi..."
 keywords: ["Genetics and the Aryan debate: 'Early Indians' Tony Joseph's Latest Assault", "Shrikant G. Talageri - Review", "book review", "India", "history"]
+tags: ["history", "India", "science"]
 ---
 
 Since its inception, the Aryan Invasion Theory (AIT) has taken various twists and turns and has been responsible for debates in multiple spheres like academia, literature, etc. Owing to India's unique history, unlike other countries, there have been intense political disputes and consequences with deep-rooted ramifications due to the AIT. Our history books still teach AIT as the primary theory of how we acquired our languages and culture. Few people are even aware of the alternative approach known as the Out of India Theory (OIT) and how it counters the AIT.

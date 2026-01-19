@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "There are only a few books which are 'unputdownable'. The Harry Potter series has always been in this category for me and millions more."
 keywords: ["Harry Potter and the Cursed Child", "J.K.Rowling - Review", "book review"]
+tags: ["fiction", "fantasy"]
 ---
 
 There are only a few books which are 'unputdownable'. The Harry Potter series has always been in this category for me and millions more. Reaffirming this status is the latest offering from J.K Rowling set in the magical world of Harry Potter - Harry Potter and the Cursed Child, as I completed the book in one sitting.

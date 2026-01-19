@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "If you're looking for an excellent primer to the world of cryptography and cryptanalysis, then The Code Book, is the one you must lay your hands on. The book..."
 keywords: ["The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography", "Simon Singh - Review", "book review", "history"]
+tags: ["history", "science", "technology"]
 ---
 
 If you're looking for an excellent primer to the world of cryptography and cryptanalysis, then The Code Book, is the one you must lay your hands on.

@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "When we hear 'Genghis Khan,' it brings different images to one's mind, with most depictions portraying him as a fierce warrior and ruthless tyrant from Mongo..."
 keywords: ["Genghis Khan and the Making of the Modern World - Review", "Abhishek Desikan", "book review", "India", "history"]
+tags: ["history", "biography"]
 ---
 
 When we hear 'Genghis Khan,' it brings different images to one's mind, with most depictions portraying him as a fierce warrior and ruthless tyrant from Mongolia who, at one point in time, ruled the world. We think of the thousands of people he butchered, the vast swathes of territories he conquered, and the influence he has on the planet to this day, with 1 in 200 people alive today still considered his direct descendants. But history, as we all know, is never black or white and is ridden with plots and sub-plots and inexplicable nuances which alter its course. And nowhere is this more self-evident than when we read about Temujin Khan (who later became Genghis Khan) and the Mongols and who they really were in this fascinating commentary by Jack Weatherford.

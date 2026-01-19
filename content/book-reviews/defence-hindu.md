@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Defence of Hindu Society is part of a series of books written by Sita Ram Goel to awaken Hindu society to the existential threats they face and the need to c..."
 keywords: ["Defence of Hindu Society", "Sita Ram Goel - Review", "book review", "India", "Hindu"]
+tags: ["philosophy", "India", "politics", "history"]
 ---
 
 Defence of Hindu Society is part of a series of books written by Sita Ram Goel to awaken Hindu society to the existential threats they face and the need to counter them. It is always awe-inspiring to read the boldness and clarity of thought employed by Sita Ram Goel, especially given the era he lived in and the opposition he faced. This book is no different than many of his other works, like India's Secularism.

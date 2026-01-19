@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "The Mahabharata is an epic that keeps giving food for thought on every new reading. Just when one thinks that we have learnt all we can, it pulls the rug fro..."
 keywords: ["The Curse of Gandhari", "Aditi Banerjee - Review", "book review", "Mahabharata", "epic"]
+tags: ["Mahabharata", "mythology", "fiction", "literature"]
 ---
 
 The Mahabharata is an epic that keeps giving food for thought on every new reading. Just when one thinks that we have learnt all we can, it pulls the rug from underneath our feet once again. Aditi Banerjee's retelling of the epic views the Mahabharata from Gandhari's lens and makes for an enthralling read.

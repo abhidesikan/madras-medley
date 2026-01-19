@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "J. Sai Deepak has grown in leaps and bounds as a lawyer, a public speaker, and an inspiration for the youth of India, who are increasingly becoming civilizat..."
 keywords: ["India, Bhārat and Pakistan : The Constitutional Journey of a Sandwiched Civilization - Review", "Abhishek Desikan", "book review", "India", "Bharat", "history"]
+tags: ["history", "India", "politics"]
 ---
 
 J. Sai Deepak has grown in leaps and bounds as a lawyer, a public speaker, and an inspiration for the youth of India, who are increasingly becoming civilizational aware. Adding to that list is his rise as an author and his second book of the Bhārat trilogy (or is it 4 books now?) -  India, Bhārat, and Pakistan is a testament to this. 

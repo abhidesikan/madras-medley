@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "Why I am an Atheist is a short essay written by Bhagat Singh where he talks about his journey to becoming an atheist. Although he grew up in a religious hous..."
 keywords: ["Why I Am An Atheist - Review", "Abhishek Desikan", "book review", "Hindu"]
+tags: ['biography', 'philosophy', 'India']
 ---
 
 Why I am an Atheist is a short essay written by Bhagat Singh where he talks about his journey to becoming an atheist. Although he grew up in a religious household, his time in college during the non-cooperation movement made him skeptical about the existence of God. By reading further, he strengthened his conviction until he finally convinced himself that there does not exist an omnipresent supreme being who created and controlled the universe. 

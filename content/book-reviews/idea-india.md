@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Ever so often, one picks up a book based on the promise of what it claims to offer, only to be disappointed after reading it. The analytical nature with whic..."
 keywords: ["A New Idea of India: Individual Rights in a Civilisational State", "Harsh Gupta 'Madhusudan', Rajeev Mantri - Review", "book review", "India", "Hinduism", "Hindu"]
+tags: ["India", "politics", "economics"]
 ---
 
 Ever so often, one picks up a book based on the promise of what it claims to offer, only to be disappointed after reading it. The analytical nature with which this exciting book is written ensures that it goes beyond what it promises to deliver. Harsh Gupta and Rajeev Mantri write a compelling book providing a comprehensive view of India's trajectory from a political, economic, social, and civilizational perspective. Being economists themselves, the authors explore India's various facets since independence and chart the way forward for the country with a unique combination of civilizational attitude and global outlook.

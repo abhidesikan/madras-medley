@@ -3,6 +3,7 @@ title: "Quest for 108 - Part 4 (Mathura-Gokul Divya Desams)"
 date: 2021-05-13T18:15:41-08:00
 draft: false
 featured_image: "/govardhan.jpg"
+tags: ['travel', 'temples', 'Vaishnavism']
 ---
 
 **The Story**

@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Annihilation of Caste is a publication of the undelivered speech written in 1936 by B.R Ambedkar for the Jat-Pat Todak Mandal. The Jat-Pat Todak Mandal initi..."
 keywords: ["Annihilation Of Caste", "B.R. Ambedkar - Review", "book review", "Hinduism", "Hindu"]
+tags: ["philosophy", "India", "politics", "history"]
 ---
 
 Annihilation of Caste is a publication of the undelivered speech written in 1936 by B.R Ambedkar for the Jat-Pat Todak Mandal. The Jat-Pat Todak Mandal initially invited Ambedkar to deliver a lecture on the Caste System's ills. They later withdrew their invitation as they found the content of the speech objectionable. Ambedkar went ahead and published his speech on his own. It is considered one of his landmark speeches. It raises many pertinent questions on the caste system as it prevailed and the need for reform within the Hindu religion.

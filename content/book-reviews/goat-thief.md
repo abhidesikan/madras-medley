@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "The Goat Thief by Perumal Murugan was, for me, a delightful foray into short stories after a lot of non-fiction books. These 10 short stories were originally..."
 keywords: ["The Goat Thief", "Perumal Murugan - Review", "book review", "fiction"]
+tags: ["fiction", "India", "literature"]
 ---
 
 The Goat Thief by Perumal Murugan was, for me, a delightful foray into short stories after a lot of non-fiction books. These 10 short stories were originally written in Tamil by the author, and credit must go to the translator for capturing the tone and essence of the characters and the story and not losing it in translation.

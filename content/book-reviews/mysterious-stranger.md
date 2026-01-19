@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "'A History of Magic', not by Bathilda Bagshot, but by David Blaine, arguably the greatest magician of our times. In his first and only book till date, Blaine..."
 keywords: ["Mysterious Stranger", "David Blaine - Review", "book review", "India", "history"]
+tags: ["fiction", "philosophy"]
 ---
 
 'A History of Magic', not by Bathilda Bagshot, but by David Blaine, arguably the greatest magician of our times. In his first and only book till date, Blaine walks us through how magic evolved, from the early days of grand illusions to the current 'real-time' street magic. We get interesting insights into the magicians and performers who inspired him to take up magic as a profession, including the most famous of them all, Harry Houdini; his mother's role in encouraging him, the tribulations he faced in getting people to take him seriously, his endless hours of dedication to the art and a lot more. Through his magic, he tries to show us how we are all the same once we remove the walls we've built around us, and it really is an eye-opener. That people on the streets of Brooklyn react the same way as the Yanomama Indians of the Venezuelan rain forest do to his magic, is a testament to this fact.

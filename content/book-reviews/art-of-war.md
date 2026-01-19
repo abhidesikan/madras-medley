@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "A treatise on war and military strategy. For a manuscript written around 500 B.C, it surprises, with a lot of insights relevant to modern warfare."
 keywords: ["The Art of War", "Sun Tzu - Review", "book review"]
+tags: ["philosophy", "history", "strategy"]
 ---
 
 A treatise on war and military strategy. For a manuscript written around 500 B.C, it surprises, with a lot of insights relevant to modern warfare. It would also be of more interest to someone employed in the armed forces than a layman.

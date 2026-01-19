@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "I have followed Neil deGrasse Tyson for a long time. YouTube, books, Star Talk podcasts, a live talk, Cosmos, etc., are some of the ways I've become accustom..."
 keywords: ["Letters from an Astrophysicist", "Neil deGrasse Tyson - Review", "book review"]
+tags: ["science", "cosmology"]
 ---
 
 I have followed Neil deGrasse Tyson for a long time. YouTube, books, Star Talk podcasts, a live talk, Cosmos, etc., are some of the ways I've become accustomed to his style and views on all things under the sun (pardon the pun). In spite of that, this book was a refreshing change, as perhaps for the first time, we get to see the personal, empathetic side of the man, who is exceptionally rational most of the time.

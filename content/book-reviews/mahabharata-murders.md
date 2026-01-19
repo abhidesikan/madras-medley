@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "After a series of non-fiction books, it was good to get back to fiction with this crisp and meticulous whodunit, The Mahabharata Murders. One of the most tan..."
 keywords: ["The Mahabharata Murders", "Arnab Ray - Review", "book review", "history", "Mahabharata", "epic"]
+tags: ["Mahabharata", "fiction", "mystery"]
 ---
 
 After a series of non-fiction books, it was good to get back to fiction with this crisp and meticulous whodunit, The Mahabharata Murders.

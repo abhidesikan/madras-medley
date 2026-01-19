@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "The first thing I realized after reading this book is that self-help books are not for me. With that caveat, I'll proceed with my book review."
 keywords: ["Everything Is F*cked: A Book About Hope", "Mark Manson - Review", "book review", "philosophy"]
+tags: ["self-help", "philosophy"]
 ---
 
 The first thing I realized after reading this book is that self-help books are not for me. With that caveat, I'll proceed with my book review.

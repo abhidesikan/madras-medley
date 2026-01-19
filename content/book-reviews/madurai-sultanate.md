@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "As the title suggests, this book gives a birds-eye view of the events which led to the establishment of the Madurai 'Sultanate' and its subsequent demise, al..."
 keywords: ["The Madurai Sultanate: A Concise History", "Sandeep Balakrishna - Review", "book review", "India", "history", "Hindu"]
+tags: ["history", "India"]
 ---
 
 As the title suggests, this book gives a birds-eye view of the events which led to the establishment of the Madurai 'Sultanate' and its subsequent demise, all within 43 years during the 14th century.

@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Bhima: Lone Warrior is the English translation of the Malayalam epic Randamoozham. If there was one regret I had after reading this book, it was that I could..."
 keywords: ["Bhima Lone Warrior", "M.T. Vasudevan Nair - Review", "book review", "India", "Bharat", "Mahabharata"]
+tags: ["Mahabharata", "mythology", "fiction", "literature"]
 ---
 
 Bhima: Lone Warrior is the English translation of the Malayalam epic Randamoozham. If there was one regret I had after reading this book, it was that I couldn’t read it in its original form. Few authors can narrate the tale of the Mahabharata with such poise and elegance, keeping the narrative true to the original Vyasa’s (Krishna Dvaipayana) poem, and the author, known as MT, deserves all the praise he has received for it.

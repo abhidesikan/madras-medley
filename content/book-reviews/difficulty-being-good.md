@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "Dharma is a word which has been used for millennia in the Indian subcontinent and later throughout the world, but it is also probably the word which has been..."
 keywords: ["The Difficulty of Being Good: On the Subtle Art of Dharma", "Gurcharan Das - Review", "book review", "India", "Bharat", "Mahabharata"]
+tags: ["Mahabharata", "philosophy", "India"]
 ---
 
 Dharma is a word which has been used for millennia in the Indian subcontinent and later throughout the world, but it is also probably the word which has been taken for granted the most. By this I mean to say people have been using Dharma in a variety of contexts, each of which has added their own meaning to what Dharma actually means. It is not naive to suggest that Dharma cannot be translated into a single meaning in any language, and it can only be explored for its various facets.

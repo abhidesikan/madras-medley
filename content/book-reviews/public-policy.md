@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "How is our country governed? What are its various organs, tiers and aspects, and how do they impact our day-to-day life?"
 keywords: ["Public Policy : a citizen's guide", "Vision India Foundation - Review", "book review"]
+tags: ["politics", "economics", "India"]
 ---
 
 How is our country governed? What are its various organs, tiers and aspects, and how do they impact our day-to-day life? How can we as citizens, understand public policy and play a role in shaping them to improve our standard of living? These, and many other aspects of our democracy and governance are answered in a clean and cohesive manner in this book. It aims to address the citizen who yearns to be aware of how the government machinery works for him/her, and what he/she can do to make it better.

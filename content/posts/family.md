@@ -2,6 +2,7 @@
 title: "Family"
 date: 2021-03-15T17:56:25-08:00
 draft: false
+tags: ['personal', 'family-life', 'reflection']
 ---
 
 Something incredible happened last week. I discovered a long-lost family connection (a second-cousin) through an app that suggested we could be relatives owing to similar DNA. I reached out to this "algorithmically-matched" relative of mine, only to discover that she was indeed my second cousin! We confirmed this after a few message exchanges, and it was mind-blowing. It's not since I first used a mobile phone that I've felt such amazement at the potential of science and technology. It also made me feel nostalgic, sentimental, optimistic, and many other positive feelings about my family, so I thought I'd write down my thoughts. 

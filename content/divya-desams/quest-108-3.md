@@ -3,6 +3,7 @@ title: "Quest for 108 - Part 3 (Chennai-Thiruvallur Divya Desams)"
 date: 2020-01-10T18:15:41-08:00
 draft: false
 featured_image: "/veeraraghava_1.jpg"
+tags: ['travel', 'temples', 'Vaishnavism']
 ---
 
 **The Story**

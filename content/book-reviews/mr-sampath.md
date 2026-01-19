@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "Mr. Sampath is probably not one of R.K.Narayan's most-loved books."
 keywords: ["Mr. Sampath - The Printer of Malgudi", "R.K. Narayan - Review", "book review", "fiction"]
+tags: ["fiction", "India", "literature"]
 ---
 
 Mr. Sampath is probably not one of R.K.Narayan's most-loved books. This is because one doesn't connect with the characters, the plot, or the setting it is in, even though it is in the familiar fictional world of Malgudi. However, it does have a few highlights, which made it an interesting read.

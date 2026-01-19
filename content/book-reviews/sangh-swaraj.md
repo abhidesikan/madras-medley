@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "The Sangh and Swaraj is a short book on the role of the Rashtriya Swayamsevak Sangh (RSS) in India's freedom struggle. It is authored by Ratan Sharda, a long..."
 keywords: ["The Sangh & Swaraj", "Ratan Sharda", "book review", "India"]
+tags: ['politics', 'India', 'history']
 ---
 
 The Sangh and Swaraj is a short book on the role of the Rashtriya Swayamsevak Sangh (RSS) in India's freedom struggle. It is authored by Ratan Sharda, a longtime RSS activist who has also written other books on RSS and demystified it for the general public. This book, in particular, shares documentary and anecdotal evidence of RSS's role in the freedom movement, which has often been questioned in Indian mainstream media and used as a brickbat against the Sangh. It is tragic that a selfless volunteer organization like RSS, which has always put the nation first and hasn't sought publicity for its contributions, has to prove itself. On the other hand, the necessity to set the record straight has brought out the need for this and other books, thus enhancing the literature on the subject. 

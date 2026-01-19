@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "The Indian Renaissance is the tale of India's economy. Although Sanjeev Sanyal has written some excellent books on India from a historical and geographical p..."
 keywords: ["The Indian Renaissance: India's Rise After a Thousand Years of Decline", "Sanjeev Sanyal - Review", "book review", "India", "history"]
+tags: ["history", "India"]
 ---
 
 The Indian Renaissance is the tale of India's economy. Although Sanjeev Sanyal has written some excellent books on India from a historical and geographical perspective, he is an economist by profession, and his first book shows us that it's his forte as well. After a brief look at how India collapsed from being the country with the largest share of GDP in the world to one of the lowest, he centers most of the book around the liberalization reforms of 1991 as the focal point and the watershed moment in independent India's history, considering it more important than 1947 itself.

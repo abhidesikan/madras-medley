@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "I'll start this review with my usual disclaimer that I am not a fan of self-help books and usually avoid them. I picked this one up as my manager recommended..."
 keywords: ["The New One Minute Manager", "Ken Blanchard - Review", "book review"]
+tags: ["self-help", "business"]
 ---
 
 I'll start this review with my usual disclaimer that I am not a fan of self-help books and usually avoid them. I picked this one up as my manager recommended it and finally read it. The New One Minute Manager, as the name suggests, is a short guidebook to managers on how they can manage people and help them and the organization grow together. While the original One Minute Manager came a couple of decades ago, this book has been adapted to today's more flat organizational style compared to the top-down hierarchical structures businesses followed in previous decades.

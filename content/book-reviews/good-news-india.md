@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "We live in an increasingly digital world today (metaverse anyone?) and have the power of the internet in the palm of our hands. This also means that we have ..."
 keywords: ["Good News India: Ordinary Indians, Extraordinary Triumphs", "D.V. Sridharan - Review", "book review", "India"]
+tags: ["India", "society", "inspiration"]
 ---
 
 We live in an increasingly digital world today (metaverse anyone?) and have the power of the internet in the palm of our hands. This also means that we have access to breaking news events happening anywhere in the world at our fingertips, within a few seconds of the events unfolding. It is, thus, easy to forget that as recently as two decades ago, the source of news media was primarily the monopoly of either state-owned news channels or private organizations with their agendas. This was particularly acute in India, and one would be hard-pressed to find anything but morbidity in the news reported and consumed by millions back then.

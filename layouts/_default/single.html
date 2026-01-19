@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+	<div class="container wrapper">
+		{{ partial "head.html" . }}
+
+		<div class="post">
+			<div class="post-header">
+				{{ if ne .Date.Year 1 }}
+					<div class="meta">
+						<div class="date">
+							<span class="day">{{ dateFormat "02" .Date }}</span>
+							<span class="rest">{{ if $.Site.Data.month }}{{ index $.Site.Data.month (printf "%d" .Date.Month) }} {{ .Date.Year }}{{ else }}{{ dateFormat "Jan 2006" .Date }}{{ end }}</span>
+						</div>
+					</div>
+				{{ end }}
+				<div class="matter">
+					<h1 class="title">{{ .Title }}</h1>
+					{{ if ne .Date.Year 1 }}
+						<div style="color: #999; font-size: 0.85rem; margin-top: -0.5em; font-weight: 400; display: flex; gap: 0.8em; flex-wrap: wrap; align-items: center;">
+							<span>{{ dateFormat "Jan 2, 2006" .Date }}</span>
+							<span>·</span>
+							<span>{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+							{{- if .Params.rating -}}
+								<span>·</span>
+								<span style="color: #f59e0b; letter-spacing: 0.1em;">
+									{{- $rating := .Params.rating -}}
+									{{- range seq $rating -}}★{{- end -}}
+									{{- range seq (sub 5 $rating) -}}☆{{- end -}}
+								</span>
+								<span>({{ .Params.rating }}/5)</span>
+							{{- end -}}
+						</div>
+					{{ end }}
+				</div>
+			</div>
+
+			<div class="markdown">
+				{{ .Content }}
+			</div>
+
+			{{ partial "share.html" . }}
+
+			{{- if .Params.tags -}}
+			<div class="post-tags" style="margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid #eee;">
+				<div style="display: flex; align-items: center; gap: 0.6em; flex-wrap: wrap;">
+					<span style="color: #666; font-size: 0.9em;">Tags:</span>
+					{{- range .Params.tags -}}
+					<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" style="display: inline-block; padding: 0.3em 0.7em; background: #f5f5f5; border-radius: 3px; font-size: 0.85em; color: #666 !important; text-decoration: none !important;">
+						{{ . }}
+					</a>
+					{{- end -}}
+				</div>
+			</div>
+			{{- end -}}
+
+			{{- if .Site.Config.Services.Disqus.Shortname -}}
+			{{- $.Scratch.Set "isDisqus" true -}}
+
+			{{- if and (isset .Params "type") (in .Site.Params.disableDisqusTypes .Params.type) -}}
+				{{- $.Scratch.Set "isDisqus" false -}}
+			{{- end -}}
+
+			{{- if and (isset .Params "disqus") (eq .Params.disqus false) -}}
+				{{- $.Scratch.Set "isDisqus" false -}}
+			{{- else if and (isset .Params "disqus") (eq .Params.disqus true) -}}
+				{{- $.Scratch.Set "isDisqus" true -}}
+			{{- end -}}
+
+			{{- if eq ($.Scratch.Get "isDisqus") true -}}
+			{{- partial "disqus.html" . -}}
+			{{- end -}}
+			{{- end -}}
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+</html>

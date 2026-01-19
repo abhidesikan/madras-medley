@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "History Under Your Feet is an excellent book for reasons which are not typically why books are considered worthy of praise, at least by me. It is an inspirat..."
 keywords: ["History Under Your Feet", "Ratnakar Sadasyula - Review", "book review", "India", "history"]
+tags: ["history", "India"]
 ---
 
 History Under Your Feet is an excellent book for reasons which are not typically why books are considered worthy of praise, at least by me. It is an inspirational book for someone like me, who aspires to be an author someday. This is because Ratnakar Sadasyula is an ordinary person like most of us, with a day job and a passion for history. He fueled his love for history by writing a blog on prominent historical figures who've become unknown due to the passage of time or been intentionally removed by Marxist historians. The blog eventually gave way to this book, which, albeit amateurish writing and editing, is still valuable for history lovers.

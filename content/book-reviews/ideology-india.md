@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "This book is a concise treatise on developing an ideology and mindset based on Hindutva, which is required for India to modernize and grow as a global player..."
 keywords: ["The Ideology of India's Modern Right", "Subramanian Swamy - Review", "book review", "India", "Indian history", "history"]
+tags: ["politics", "India", "philosophy"]
 ---
 
 This book is a concise treatise on developing an ideology and mindset based on Hindutva, which is required for India to modernize and grow as a global player on the world stage. In the process, Subramanian Swamy touches upon different aspects of India and expands on what he calls 'The Modern Right Framework'.

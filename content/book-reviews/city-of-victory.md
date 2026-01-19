@@ -5,6 +5,7 @@ draft: false
 rating: 3
 description: "City of Victory is a concise historical summary of the rise and fall of one of Bharat's greatest empires, the Vijayanagara empire. The author provides a blow..."
 keywords: ["City of Victory: The Rise and Fall of Vijayanagara - Review", "Abhishek Desikan", "book review", "India", "Bharat", "Hindu"]
+tags: ["history", "India"]
 ---
 
 City of Victory is a concise historical summary of the rise and fall of one of Bharat's greatest empires, the Vijayanagara empire. The author provides a blow-by-blow account of the battles, culture, lifestyle, arts, and other aspects of the kingdom, which spanned over 300 years.

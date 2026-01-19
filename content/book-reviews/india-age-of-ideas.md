@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "India in the Age of Ideas is not a book/novel in the conventional sense, as it is a compendium of articles written and published in print media by the author..."
 keywords: ["India in the Age of Ideas: Select Writings: 2006-2018", "Sanjeev Sanyal - Review", "book review", "India", "Indian history", "history"]
+tags: ["India", "history", "politics"]
 ---
 
 India in the Age of Ideas is not a book/novel in the conventional sense, as it is a compendium of articles written and published in print media by the author, Sanjeev Sanyal, over the last decade. But it is in an innovative format to write a book as it was easy to read a bunch of articles which tell a story.

@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Avishi is a fictional tale re-imagining Vishpala, a woman mentioned in the Rig-Veda. It speaks volumes about the author, Saiswaroopa Iyer's, creativity that ..."
 keywords: ["Avishi: Vishpala of Rig Veda Reimagined", "Saiswaroopa Iyer - Review", "book review", "fiction"]
+tags: ["fiction", "mythology", "India", "history"]
 ---
 
 Avishi is a fictional tale re-imagining Vishpala, a woman mentioned in the Rig-Veda. It speaks volumes about the author, Saiswaroopa Iyer's, creativity that she spun this impressive tale from that brief primary reference of Vishpala and her battle with Khela in the Rig Veda.

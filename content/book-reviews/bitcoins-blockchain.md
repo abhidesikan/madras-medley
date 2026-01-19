@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "As the book's name suggests, it is an excellent introduction to bitcoin and blockchain technology basics. Although that is the book's primary focus, it also ..."
 keywords: ["The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them", "Antony Lewis - Review", "book review", "history"]
+tags: ["technology", "economics", "finance"]
 ---
 
 As the book's name suggests, it is an excellent introduction to bitcoin and blockchain technology basics. Although that is the book's primary focus, it also gives the historical context for why bitcoin came into existence. The author, Antony Lewis, explains the various attempts at creating an instrument that was censorship-resistant and didn't involve a third party. He then talks about the history of money itself, right from the barter system to the fiat money we use today.

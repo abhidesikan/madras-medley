@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Subramanian Swamy's latest book is as firebrand as the man himself, where he deals with one of the most discussed topics today - India's economic struggles a..."
 keywords: ["RESET: Regaining India’s Economic Legacy", "Subramanian Swamy - Review", "book review", "India", "economics"]
+tags: ["economics", "India", "politics"]
 ---
 
 Subramanian Swamy's latest book is as firebrand as the man himself, where he deals with one of the most discussed topics today - India's economic struggles and the way forward.

@@ -5,6 +5,7 @@ draft: false
 rating: 2
 description: "Robert Langdon and Dan Brown have come a long way from the heights of 'Angels & Demons' and 'The Da Vinci Code'. What's unfortunate is that the duo no longer..."
 keywords: ["Origin", "Dan Brown - Review", "book review", "history", "fiction"]
+tags: ["fiction", "mystery", "thriller"]
 ---
 
 Robert Langdon and Dan Brown have come a long way from the heights of 'Angels & Demons' and 'The Da Vinci Code'. What's unfortunate is that the duo no longer evokes the suspense and excitement in deciphering codes and symbols while being embroiled in a race-against-time thriller to save the world from impending doom. Origin, the latest in the series, reads like a shadow of a glorious past, being annoying at times and for the most part disappointing.

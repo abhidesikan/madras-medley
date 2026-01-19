@@ -5,6 +5,7 @@ draft: false
 rating: 1
 description: "I don't think I've given a lower rating for any book I've read so far. I would have given it 0 stars if I could."
 keywords: ["Blood Red Sari (Kali Rising #1)", "Ashok Banker - Review", "book review"]
+tags: ["fiction", "thriller"]
 ---
 
 I don't think I've given a lower rating for any book I've read so far. I would have given it 0 stars if I could. That should, in a nutshell, explain how I felt about this book. A terribly slow and sluggish novel, with a wafer-thin plot about a manila envelope and how three women try to discover the meaning of it's contents, disguised within the authors failed attempt to make the narrative thrilling.

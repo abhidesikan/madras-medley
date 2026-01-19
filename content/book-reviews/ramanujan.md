@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Refer to [post](https://madrasmedley.com/posts/ramanujan/)."
 keywords: ["The Man Who Knew Infinity: A Life of the Genius Ramanujan", "Robert Kanigel - Review", "book review"]
+tags: ["biography", "India", "mathematics"]
 ---
 
 Refer to [post](https://madrasmedley.com/posts/ramanujan/).

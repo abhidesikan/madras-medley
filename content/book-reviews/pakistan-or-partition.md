@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "It's not often that I'm completely bowled over by the precision in which someone puts forth an issue and presents arguments which are compelling, educational..."
 keywords: ["Pakistan or the Partition of India", "B.R.Ambedkar - Review", "book review", "India", "history", "Hindu"]
+tags: ["history", "India", "politics"]
 ---
 
 It's not often that I'm completely bowled over by the precision in which someone puts forth an issue and presents arguments which are compelling, educational, rational and with the right historical context. The scholarship of Ambedkar is world renowned and, I am glad I got to experience it first hand by reading this 'hurriedly written' book by the great man.

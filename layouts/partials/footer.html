@@ -11,6 +11,48 @@
 	</nav>
 </div>
 
+<!-- Back to Top Button -->
+<button id="back-to-top" style="display: none; position: fixed; bottom: 2em; right: 2em; width: 40px; height: 40px; background: #2563eb; color: white; border: none; border-radius: 50%; cursor: pointer; box-shadow: 0 2px 8px rgba(0,0,0,0.2); z-index: 1000; transition: opacity 0.3s, background 0.3s;" title="Back to top">
+	<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: block; margin: auto;">
+		<polyline points="18 15 12 9 6 15"/>
+	</svg>
+</button>
+
+<script>
+// Back to top button functionality
+(function() {
+	const backToTopButton = document.getElementById('back-to-top');
+
+	if (backToTopButton) {
+		// Show/hide button based on scroll position
+		window.addEventListener('scroll', function() {
+			if (window.pageYOffset > 300) {
+				backToTopButton.style.display = 'block';
+			} else {
+				backToTopButton.style.display = 'none';
+			}
+		});
+
+		// Scroll to top on click
+		backToTopButton.addEventListener('click', function() {
+			window.scrollTo({
+				top: 0,
+				behavior: 'smooth'
+			});
+		});
+
+		// Hover effect
+		backToTopButton.addEventListener('mouseenter', function() {
+			this.style.background = '#1d4ed8';
+		});
+
+		backToTopButton.addEventListener('mouseleave', function() {
+			this.style.background = '#2563eb';
+		});
+	}
+})();
+</script>
+
 {{- with .Site.Params.Social -}}
 <script>feather.replace()</script>
 {{- end -}}

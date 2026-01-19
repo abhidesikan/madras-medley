@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Cownomics is a stimulating read on the importance of the Cow in Indian civilization and the need to re-center our society around the Cow. Arti Agarwal provid..."
 keywords: ["Cownomics", "Arti Agarwal - Review", "book review", "India"]
+tags: ["India", "economics", "environment"]
 ---
 
 Cownomics is a stimulating read on the importance of the Cow in Indian civilization and the need to re-center our society around the Cow. Arti Agarwal provides a concise research-based summary of the challenges in today's world due to meat consumption and the ecosystem enabling it.

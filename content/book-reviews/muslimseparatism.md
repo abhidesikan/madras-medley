@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "Certain characteristics characterize SRG's writing: concise content, scathing criticism, meticulous detail, and bludgeoning impact. Muslim Separatism: Causes..."
 keywords: ["Muslim Separatism: Causes and Consequences", "Sita Ram Goel - Review", "book review", "India", "Indian history", "history"]
+tags: ["history", "India", "politics"]
 ---
 
 Certain characteristics characterize SRG's writing: concise content, scathing criticism, meticulous detail, and bludgeoning impact. Muslim Separatism: Causes and Consequences is no exception. 

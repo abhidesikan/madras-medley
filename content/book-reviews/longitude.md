@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Colonization of the world by European superpowers is something most people are familiar with. But it’s not often clear what exactly made them “superpowers” o..."
 keywords: ["Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time", "Dava Sobel - Review", "book review", "history", "politics"]
+tags: ["history", "science"]
 ---
 
 Colonization of the world by European superpowers is something most people are familiar with. But it’s not often clear what exactly made them “superpowers” of that era.

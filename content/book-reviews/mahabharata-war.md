@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "It's not often that you read a book outside of academia, which provides you a wealth of information and value, while building your curiosity. Nilesh Nilkanth..."
 keywords: ["When Did The Mahabharata War Happen? : The Mystery of Arundhati", "Nilesh Nilkanth Oak - Review", "book review", "Mahabharata"]
+tags: ["Mahabharata", "history", "science"]
 ---
 
 It's not often that you read a book outside of academia, which provides you a wealth of information and value, while building your curiosity. Nilesh Nilkanth Oak has done just that, with his rigorous and scientific method of approach in ascertaining the date and time period of the Mahabharata war.

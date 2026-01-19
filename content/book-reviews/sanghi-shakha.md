@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Just the title of this book might be off-putting or a reason to mock for quite a few people in India, who consider themselves to be 'liberal.' The term 'Sang..."
 keywords: ["Sanghi Who Never Went To A Shakha", "Rahul Roushan - Review", "book review", "India", "Hinduism", "Hindu"]
+tags: ['politics', 'India', 'society']
 ---
 
 Just the title of this book might be off-putting or a reason to mock for quite a few people in India, who consider themselves to be 'liberal.' The term 'Sanghi' has been tarnished and manipulated by an ecosystem to be a term of derision and hate. If you're associated with a particular political outfit, organization or are simply assertive of your religious identity, you're labeled 'Sanghi."

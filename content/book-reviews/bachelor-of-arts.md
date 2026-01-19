@@ -3,8 +3,9 @@ title: "The Bachelor of Arts by R.K. Narayan - Review by Abhishek Desikan"
 date: 2017-10-28T19:05:32-08:00
 draft: false
 rating: 5
-description: "I’m too small a person to comment on R K Narayan’s writing but I can safely claim that he has an inimitable style which makes you appreciate the nuances of d..."
+description: "I'm too small a person to comment on R K Narayan's writing but I can safely claim that he has an inimitable style which makes you appreciate the nuances of d..."
 keywords: ["The Bachelor of Arts", "R.K. Narayan - Review", "book review", "India", "fiction"]
+tags: ["fiction", "India", "literature"]
 ---
 
 I’m too small a person to comment on R K Narayan’s writing but I can safely claim that he has an inimitable style which makes you appreciate the nuances of day-to-day life and transports you into the setting of his semi-fictional world. Set in the background of Malgudi, The Bachelor of Arts is part two of the trilogy starting with Swami and Friends and traces the life of Chandran, and his experiences in colonial era India as a college student, who later falls in love and gets heartbroken, leading to a stint as a Sanyasi in Madras before returning to Malgudi, after realizing the sacrifices his family has made for him and how their love needs to be reciprocated.

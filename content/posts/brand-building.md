@@ -3,6 +3,7 @@ title: "9 to 5, Brand-building and Immortality"
 date: 2021-06-24T18:03:33-08:00
 draft: false
 featured_image: "/brand.png"
+tags: ['business', 'marketing', 'analysis']
 ---
 
 For better or worse, the Covid-19 pandemic has accelerated many things. That includes the perennial question that’s always boiling under the surface — what am I doing with my life? This is a question that isn’t necessarily a first-world problem, and I felt compelled to introspect it through this post.

@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "I am not a huge fan of Trevor Noah as a comedian, but after reading his coming-of-age story, Born a Crime, it won't be remiss to say I'm a fan of his writing..."
 keywords: ["Born a Crime: Stories From a South African Childhood", "Trevor Noah  - Review", "book review"]
+tags: ["biography", "history", "memoir"]
 ---
 
 I am not a huge fan of Trevor Noah as a comedian, but after reading his coming-of-age story, Born a Crime, it won't be remiss to say I'm a fan of his writing.

@@ -5,6 +5,7 @@ draft: false
 rating: 4
 description: "Book review of Kautilyanomics by Sriram Balasubramanian - exploring ancient Indian economic wisdom from the Arthashastra and its relevance to modern times."
 keywords: ["Kautilyanomics", "Arthashastra", "Chanakya", "Indian economics", "Sriram Balasubramanian", "book review"]
+tags: ["economics", "India", "history"]
 ---
 
 Kautilyanomics by Sriram Balasubramanian is an interesting book that combines modern economics with the ancient wisdom of Kautilya, also known as Chanakya. While the Arthashastra is primarily known as a treatise on statecraft, politics, and military strategy, the author explores the economic policies and vision prescribed by Chanakya in the text and draws parallels with Bharat in the 21st century, highlighting the lessons we can learn from Kautilya.

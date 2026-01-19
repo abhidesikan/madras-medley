@@ -5,6 +5,7 @@ draft: false
 rating: 5
 description: "I was a big fan of Apple and it's products and Steve Jobs, prior to reading this book. While my awe for the company and its products has gone up a notch, my ..."
 keywords: ["Steve Jobs", "Walter Isaacson - Review", "book review"]
+tags: ["biography", "technology", "business"]
 ---
 
 I was a big fan of Apple and it's products and Steve Jobs, prior to reading this book. While my awe for the company and its products has gone up a notch, my perspective on Steve Jobs has changed significantly. Walter Isaacson beautifully traverses through the life of the greatest businessman of our times, and as we go along his journey from being an adopted son, to a college dropout experimenting with LSD and Zen culture, to founding Apple with the 'other' Steve, being kicked out, starting NeXT, Pixar, and then returning for a second stint at Apple which transformed it into the world's most valuable and creative company, we learn about jobs innate sense of design, his obsession to have total end to end contorl on all of his products, his vision, and the pleasure he takes from developing products which are at the interestion of art and technology.
