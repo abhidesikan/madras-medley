@@ -1,10 +1,12 @@
 ---
-title: "Quest for 108 - Part 4 (Mathura-Gokul Divya Desams)"
+title: "Quest for 108 - Part 4 (Mathura-Gokul Divya Desams) [32/108]"
 date: 2021-05-13T18:15:41-08:00
 draft: false
 featured_image: "/govardhan.jpg"
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
+
+*Visited: December 2019*
 
 **The Story**
 
@@ -16,7 +18,7 @@ Accessing these temples can best be done by hiring a cab/auto in the town of Mat
 
 Unlike the temples down south, the two Divya Desams I visited here (Thiruvadamathurā and Thiruvāipādi) were built more recently. This was because the original temples were destroyed multiple times by invaders. It is the beauty of Sanātana Dharmā that the sthānam (place) is considered holy, irrespective of whether or not a temple or mūrti exist in that spot. This is why Hindus continued to revere and worship in these places for centuries despite being repeatedly vandalized. 
 
-***1. Thiruvadamathurā - Sri Govardhana Nesa Perumāl Temple***
+***#105. Thiruvadamathurā - Sri Govardhana Nesa Perumāl Temple***
 
 Known popularly as Krishna Janmasthān, this historic Mandir lies on the banks of Yamuna. It has been of religious significance for thousands of years. We went by cab and first visited Potra Kund, a historical stepwell fed by the Yamuna river, before heading to the Mandir. I took this to be the temple pushkarani. Interestingly both the Govardhan hill and this temple are together considered to be Thiruvadamathurā. 
 
@@ -39,7 +41,7 @@ Mentioned in Prabhandam by - Periyazhwār, Āndāl, Thondaradipodiazhwār, Thiru
 [Legend and more](https://www.divyadesam.com/hindu/temples/mathura-temple.shtml)
 
 
-***2. Thiruvāipādi - Sri Navamōhana Krishna Perumāl Temple***
+***#106. Thiruvāipādi - Sri Navamōhana Krishna Perumāl Temple***
 
 Popularly known as Gōkul or Gōkulam, the concept of the sthānam being of primary importance was even more pronounced in Gōkul. There were many small temples in the area, the original having been destroyed long ago. I visited all the temples in this area, which together constitute Thiruvāipādi. 
 

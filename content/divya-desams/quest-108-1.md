@@ -1,10 +1,12 @@
 ---
-title: "Quest for 108 - Part 1 (Kanchipuram Divya Desams)"
+title: "Quest for 108 - Part 1 (Kanchipuram Divya Desams) [15/108]"
 date: 2017-12-17T19:37:27-08:00
 draft: false
 featured_image: "/varadaraja_1.JPG"
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
+
+*Visited: October 2017*
 
 **The Story**
 
@@ -32,7 +34,7 @@ It is quite a humbling experience to walk through these temples, which were buil
 
 
 
-***1. Thiruparameshwara Vinnagaram - Sri Vaikunda Perumal Temple***
+***#87. Thiruparameshwara Vinnagaram - Sri Vaikunda Perumal Temple***
 
 We started off with Sri Vaikunda Perumal Temple. The distinct temple architecture struck me immediately. I had a quick darshan due to the lack of a crowd, and walked around absorbing the greenery around the premises.
 
@@ -47,7 +49,7 @@ Mentioned in Prabhandam by - Thirumangai azhwar.
 ![tvgm](/vaikunda_1.JPG)
 ![tvgm](/vaikunda_2.JPG "Sri Vaikunda Perumal Temple")
 
-***2. Thiru Pavala Vannan - Sri Pavala Vannar Temple***
+***#86. Thiru Pavala Vannan - Sri Pavala Vannar Temple***
 
 Probably the only "dual" Divya Desam. Both Pacha Vannar and Pavala Vannar constitute a single Divya Desam and they're right across each other. As you might have guessed, the names refer to Vishnu's color in various yugas -  Pavalm (emerald) & Paccha (green). I noticed that the temple kolam (tank) was in a pretty bad state, a sight which I encountered more than once in the temples I visited that day.
 
@@ -63,7 +65,7 @@ Mentioned in Prabhandam by - Pei azhwar, Thirumazhisai azhwar & Thirumangai Azhw
 ![paccha](/pacchavannar.JPG "Sri Pacchavannar Temple")
 
 
-***3. Thiru Paadagam - Sri Pandava Thoothar temple***
+***#78. Thiru Paadagam - Sri Pandava Thoothar Temple***
 
 HUGE is what comes to your mind on visiting this shrine. One of the oldest temples in Kanchipuram, the sanctum sanctorum encompasses Krishna (an avatar of Vishnu) in his Vishwaroopam (universal form) in a sitting pose. You can read about the legend of this temple in the photo below.
 
@@ -82,7 +84,7 @@ Mentioned in Prabhandam by - Pei Azhwar, Bhoothathalwar, Thirumalisai Azhwar & T
 The next four Divya Desams are all housed under one complex.
 
 
-***4. Thiru Ooragam - Sri Ulagalantha Perumal temple***
+***#81. Thiru Ooragam - Sri Ulagalantha Perumal Temple***
 
 Few sights make you feel as diminutive as looking at Narayana in his Vishwaroopam. In this shrine, we see the Vamana avatar (one of 10 avatars of lord Vishnu) in his universal form, with his left leg at a right angle and parallel to the ground, and the right on Mahabali's head, symbolic of his two steps to measure the two worlds and asking Mahabali where he should place the third. Hence the name "Ulagalantha" which means, one who measured the world.
 
@@ -95,7 +97,7 @@ Mentioned in Prabhandam by - Thirumazhisai Azhwar & Thirumangal Azhwar
 [Legend & more](http://www.divyadesam.com/hindu/temples/kanchipuram/tiruooragam-temple.shtml)
 
 
-***5. Thiru Kaaragam - Sri Karunakara Perumal temple***
+***#83. Thiru Kaaragam - Sri Karunakara Perumal Temple***
 
 This and the other two shrines within this temple were most likely brought to the temple complex due to their own temples being destroyed or damaged due to natural circumstances. Karunakara perumal is representative of the clouds which bring rain and fertility to the earth.
 
@@ -108,7 +110,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 [Legend & more](http://www.divyadesam.com/hindu/temples/kanchipuram/tirukaaragam-temple.shtml)
 
 
-***6. Thirukarvanam - Sri Thirukkar Vannar temple***
+***#84. Thirukarvanam - Sri Thirukkar Vannar Temple***
 
 Continuing with the theme of clouds and rain, Thirukarvanam represents the life giving properties of water.
 
@@ -121,7 +123,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 [Legend & more](http://www.divyadesam.com/hindu/temples/kanchipuram/tirukaarvanam-temple.shtml)
 
 
-***7. Thiru Neeragam - Sri Jagadeeshwarar temple***
+***#79. Thiru Neeragam - Sri Jagadeeshwarar Temple***
 
 Rounding up on the last of the water-trinity is Thiru Neeragam. Like the other three, it was relocated and placed around Thiru Ooragam.
 
@@ -137,7 +139,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 ![ulagalantha](/ulagalantha_2.JPG "Sri Ulagalantha Perumal Temple")
 
 
-***8. Thiru Nilathingal Thundam - Sri Nilathingal Thundathan Perumal temple***
+***#80. Thiru Nilathingal Thundam - Sri Nilathingal Thundathan Perumal Temple***
 
 The uniqueness of this temple is that it is housed within a temple dedicated to Lord Shiva, the Ekambareshwarar temple.
 
@@ -155,7 +157,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 ![nilathangal](/nilathangal_2.JPG "Ekambareshwarar Temple")
 
 
-***9. Thiru Kalvanoor - Sri Adi Varaha Perumal temple***
+***#85. Thiru Kalvanoor - Sri Adi Varaha Perumal Temple***
 
 I was looking forward to visiting this shrine as the deity was our "family deity". However, I struggled to locate Him, as the main presiding deity was dedicated to Goddess Kamakshi. After enquiring around, I learnt that He should be seen via a reflection in a mirror. A pleasant surprise indeed.
 
@@ -193,7 +195,7 @@ Temples are some of the best places to take rest. The cool stone thinnai's (porc
 ![nap](/nap.JPG "Nap time!")
 
 
-***10. Thiruputkuzhi - Sri Vijayaraghava Perumal temple***
+***#88. Thiruputkuzhi - Sri Vijayaraghava Perumal Temple***
 
 The most handsome form of Vishnu I saw that day was at Thiruputkuzhi. He's said to have performed the last rites and granted moksha (liberation) for Jatayu. Boodevi and Sridevi (his consorts) are at a slanted angle, which the priest said was to protect Him from the heat.
 
@@ -209,7 +211,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar
 ![vijayaraghava](/vijayaraghava_2.JPG "Temple kolam")
 
 
-***11. Thiru Kacchi - Sri Varadaraja Perumal temple***
+***#74. Thiru Kacchi - Sri Varadaraja Perumal Temple***
 
 The highlight of the day was of course the Varadaraja Perumal temple, the most famous in Kanchipuram. Set in a huge area of close to 23 acres, it is an impressive place of worship and architecture. I loved this temple and its premises.
 
@@ -229,7 +231,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar, Boodathazhwar & Pei Azhwar
 ![varadaraja](/varadaraja_4.JPG)
 ![varadaraja](/varadaraja_5.JPG "Sri Varadaraja Perumal Temple")
 
-***12. Thiru Vekka - Sri Yathothakaari temple***
+***#82. Thiru Vekka - Sri Yathothakaari Temple***
 
 Also known as "Sonna Vannam Seitha perumal" , one who does what was asked of him, it was the first time I saw Narayana lying on Adisesha (giant snake) in the opposite direction (right to left). The temple premises were beautiful as well, with the processions going on adding to its charm. The temple is also known to be the birthplace of Poigai Azhwar, born in a pond nearby.
 
@@ -245,7 +247,7 @@ Mentioned in Prabhandam by - Thirumazhisai Azhwar, Thirumangai Azhwar, Poigai Az
 ![yathothakari](/yathothakari_2.JPG "Sri Yathothakaari Perumal Temple")
 
 
-***13. Ashtabujam - Sri Aadikesava Perumal temple***
+***#75. Ashtabujam - Sri Aadikesava Perumal Temple***
 
 Located very near Sri Yathothakaari Perumal temple, the Lord here has 8 hands, holding different weapons in each of them.
 
@@ -261,7 +263,7 @@ Mentioned in Prabhandam by - Thirumangai Azhwar & Pei Azhwar
 
 
 
-***14. Thiru Velukkai - Sri Azhagiya Singar Perumal temple***
+***#77. Thiru Velukkai - Sri Azhagiya Singar Perumal Temple***
 
 It was getting dark by now. After stopping by for a quick sip of tea, we continued to Thiru Velukkai. Here He is in his Nrsimha avatar, as Yoga Nrisimar.
 
@@ -277,7 +279,7 @@ Mentioned in Prabhandam by - Pei Azhwar & Thirumangai Azhwar
 ![azhagiya](/azhagiya_2.JPG "Sri Azhagiya Singar Perumal Temple")
 
 
-***15. Thiruthanka (Thoopul) - Sri Deepa Prakasar Perumal temple***
+***#76. Thiruthanka (Thoopul) - Sri Deepa Prakasar Perumal Temple***
 
 The last stop of the day was at Thiruthanka. "Deepa" means light and in this temple, Vishnu appears as light overcoming darkness. Since it was late, the gates were closed, but I did manage to get my darshan from outside. He is also known as "Vilakku Oli Perumal", again translating to one who gave light.
 

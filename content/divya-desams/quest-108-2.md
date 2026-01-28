@@ -1,10 +1,12 @@
 ---
-title: "Quest for 108 - Part 2 (Sirkazhi-Thirunagur-Chidambaram Divya Desams)"
+title: "Quest for 108 - Part 2 (Sirkazhi-Thirunagur-Chidambaram Divya Desams) [27/108]"
 date: 2019-02-05T18:15:41-08:00
 draft: false
 featured_image: "/govinda_1.JPG"
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
+
+*Visited: October - November 2018*
 
 **The Story**
 
@@ -36,7 +38,7 @@ The next morning I was up and ready by 7 am. The driver was ready and we had a s
 The temples in this area were built by the [Chozhas](https://en.wikipedia.org/wiki/Chola_dynasty), who were one of the longest ruling dynasties in history, and were big temple patrons. The region was later under the rule of Pandyas and the Thanjavur Nayak dynasty, both of whom may have made additions to the temples.
 
 
-***1. Thiruvāli - Thirunāgari - Sri Lakshmi Narashimha Perumāl Temple***
+***#18. Thiruvāli - Thirunāgari - Sri Lakshmi Narashimha Perumāl Temple***
 
 Although Thiruvāli and Thirunāgari are two separate temples (around 5km from each other), they're considered to be a single Divya Desam due to their paired occurrence in all the Prabhandam pāsurams (poems).
 
@@ -64,7 +66,7 @@ Mentioned in Prabhandam by - Kulasekara azhwār and Thirumangai azhwār.
 ![vayalali](/vayalali_2.jpg "Vayalāli Manavālan Temple (above) and koil kulam (temple lake)")
 
 
-***2. Thiru Devanār Thogai - Sri Mādhava Perumāl Temple***
+***#33. Thiru Devanār Thogai - Sri Mādhava Perumāl Temple***
 
 From there we headed to the eleven temples which form the Thirunāngur Tirupathi's. The rain was non-stop and as I feared, the deserted temple wasn't open yet. Luckily the archakar was staying nearby and he was patient enough to open the temple just for my sake. The irritable nature of most archakar's meant I wasn't able to gather many details from them regarding the temples, but I don't mean to blame them because it is a very tough job, and they're paid a pittance.
 
@@ -83,7 +85,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![madhava](/madhava_3.jpg "Sri Madhava Perumāl Temple")
 
 
-***3. Thiruvellakulam (Annan Perumāl Koil) - Sri Srinivāsa Perumāl Koil***
+***#39. Thiruvellakulam (Annan Perumāl Koil) - Sri Srinivāsa Perumāl Koil***
 
 What I liked best about this temple was the huge kulam in front of it. It is called as Swetha Pushkarani which later became Vellakulam. The azhwār praises the main deity here as "Annan" (brother) as he is considered the elder brother of the Srinivasan at Tirupathi. A relatively well-maintained temple compared to the others in the area.
 
@@ -98,7 +100,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![annan](/annan_1.jpg)
 ![annan](/annan_2.jpg "Annan Perumāl Temple (above) and koil kulam.")
 
-***4. Thiru Manimāda Koil - Sri Nārāyanā Perumāl Temple***
+***#30. Thiru Manimāda Koil - Sri Nārāyanā Perumāl Temple***
 
 Considered the most prestigious of the eleven temples, I was informed that praying here was equivalent to praying at all the 11 Thirunangur temples. A huge temple with the main deity Narayana in a sitting posture. I was also told that He is considered equal to the Nārayanā at Badrinath, India.
 
@@ -115,7 +117,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![narayana](/narayana_1.jpg)
 ![narayana](/narayana_2.jpg "Sri Narayana Perumāl Temple")
 
-***5. Thiru Arimeya Vinnagaram - Sri Kuda Māda Koothan Perumāl Temple***
+***#32. Thiru Arimeya Vinnagaram - Sri Kuda Māda Koothan Perumāl Temple***
 
 Couldn't quite experience this temple well because the archakar was in a hurry to send us off. Yet another Vishnu in a sitting posture. He's called Kudamadakoothar because He lifts the Govardhana mountain as if it's a kudai (umbrella).
 
@@ -131,7 +133,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![koodamaada](/koodamaada_2.jpg "Sri Kuda Māda Perumāl Temple")
 
 
-***6. Thiru Thetri Ambalam - Sri Seganmāl Ranganaātha Perumāl Temple***
+***#36. Thiru Thetri Ambalam - Sri Seganmāl Ranganaātha Perumāl Temple***
 
 Temples in this area don't have enough funds and hence there aren't dedicated archakar's for each temple; they keep switching between temples. When I reached this temple the archakar was missing, so I had to make-do from the doorway. Nārayana is in his anantha sayanam (sleeping) pose here, and the guard nearby explained that he was considered equal to the Ranganāthar at Srirangam. He was beautiful to look at. This temple is also known as Palli Konda Perumal Temple.
 
@@ -147,7 +149,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār & Poigai azhwaār
 ![thenganmal](/thenganmal_2.jpg "Sri Seganmāl Ranganaātha Perumāl Temple")
 
 
-***7. Thiru Vanpursushottaman - Sri Purushotama Perumāl Temple***
+***#34. Thiru Vanpurushotaman - Sri Purushotama Perumāl Temple***
 
 From the name of the temple, you would have guessed that it houses none other than the Maryāda Purushottam Sri Ramā. A very handsome moolavar (main deity) and utsavar (deity taken out during festivals). Similar to the above temples, worshipping here is considered equal to worshipping Sri Ramā at Ayodhya.
 
@@ -164,7 +166,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār
 ![purushotama](/purushotama_3.jpg)
 ![purushotama](/purushotama_4.jpg "Appeal for funds at the temple.")
 
-***8. Thiru Vaikunda Vinnagaram - Sri Vaikunda Nāthan Perumāl Temple***
+***#31. Thiru Vaikunda Vinnagaram - Sri Vaikunda Nāthan Perumāl Temple***
 
 Vaikundam or Paramapadham is considered the ultimate destination for any Sanātani (one's who adhere to Sanātana Dharma) and this temple houses Vaikunda Nāthar, who is considered equal to Paramapadhanadhan of Thiru Paramapadham (one of the two DD's for the afterlife). Unique aspects in this temple are that it houses the only uthsavar in a sitting posture, and the deity is seated on ādiseshan. Also, there isn't a separate thayār sannadhi (sanctum for the goddess) or for garudar, both of whom are present in the main sanctum. 
 
@@ -179,7 +181,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 
 ![vaikunda](/vaikunda.jpg "Sri Vaikunda Nathan Perumāl Temple")
 
-***9. Thirumanikoodam - Sri Varadarāja Perumāl Temple***
+***#37. Thirumanikoodam - Sri Varadarāja Perumāl Temple***
 
 The main deity here is Varadarājar who my grandmother used to call as the God for studies. The deity here is seen with 4 hands. A small temple, which was deserted, but felt fulfilling nevertheless.
 
@@ -195,7 +197,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![varadarajan](/varadarajan_2.jpg "Sri Varadarājan Perumāl Temple")
 
 
-***10. Thiru Pārthan Palli - Sri Thāmaraiyāl Kelvan Perumāl Temple***
+***#40. Thiru Pārthan Palli - Sri Thāmaraiyāl Kelvan Perumāl Temple***
 
 Good ol' Pārthasārathy (Sārathy - charioteer of Pārtha - Arjuna, who is Krishnā, as per the Mahābhārathā). The main deity here is representative of Lord Krishna who initiated the education of Arjunā here, thus the name "Pārthan" (Arjunā) "Palli" (school).
 
@@ -213,7 +215,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār & Poigai azhwar
 ![thamarai](/thamarai_2.jpg "Sri Thāmarayāl Kelvan Perumaāl Temple")
 
 
-***11. Thiru Kāvalampaadi - Sri Gopāla Krishna Perumāl Temple***
+***#38. Thiru Kāvalampaadi - Sri Gopāla Krishna Perumāl Temple***
 
 A small temple dedicated to Lord Krishna. He is seen here with Rukmani and Sathyabhāma. This temple has no madapalli (Kitchen in temples) since the deity accepts the devotees as his food (kāvalam means a small quantity of food).
 
@@ -229,7 +231,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār
 
 That completed the temples I was able to visit in Sirkāzhi/Thirunangur. I did take photos from the outside of the other two, which I hope to visit again soon. They are -
 
-***12. Thiru Sempon Sei Koil - Sri Per Arulālan Perumāl Temple***
+***#35. Thiru Sempon Sei Koil - Sri Per Arulālan Perumāl Temple***
 
 Although the temple was open, the archakars were busy doing pooja and asked me to come later. I rounded back to find the temple locked.
 
@@ -245,7 +247,7 @@ Mentioned in Prabhandam by - Periyazhwār, Thirumazhisai azhwār & Thirumangai a
 ![perarulan](/perarulan_2.jpg "Sri Per Arulālan Perumāl Temple")
 
 
-***13. Thiru Kazhiseeāma Vinnagaram - Sri Thrivikraman Perumāl Temple***
+***#24. Thiru Kazhiseeāma Vinnagaram - Sri Thrivikraman Perumāl Temple***
 
 In spite of running around like Forrest Gump, I couldn't make it to this temple before noon. Since I had to go back to Chennai by evening, I had to give this temple a pass. I got reminded of the Ulagalantha Perumāl temple (also known as Thrivikraman) and assumed this one would be similar.
 
@@ -263,7 +265,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār
 
 I am going to do some time-travel here, as we go back a couple of weeks to my visit to Chidambaram. I visited the famous Thillai Nataraja Temple, also known as Chidambaram Nataraja Temple dedicated to Nataraja, the dancing avatār of Shiva. It was a massive temple, and I absolutely loved going around, but my biggest surprise was finding a Divya Desam shrine also housed in the same temple premises.
 
-***14. Thiru Chitra Koodam - Sri Govindarāja Perumāl Temple***
+***#23. Thiru Chitra Koodam - Sri Govindarāja Perumāl Temple***
 
 
 I love huge temples and this is one of the biggest there is. Huge gopurams (temple towers), sprawling walkways, and a huge kolam made for an absolutely fantastic temple. The inner halls were massive too, and I could have spent hours just looking at the pillars and inscriptions there.

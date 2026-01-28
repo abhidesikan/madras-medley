@@ -1,10 +1,12 @@
 ---
-title: "Quest for 108 - Part 3 (Chennai-Thiruvallur Divya Desams)"
+title: "Quest for 108 - Part 3 (Chennai-Thiruvallur Divya Desams) [30/108]"
 date: 2020-01-10T18:15:41-08:00
 draft: false
 featured_image: "/veeraraghava_1.jpg"
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
+
+*Visited: July 2019*
 
 **The Story**
 
@@ -17,7 +19,7 @@ I visited 2 temples, both in and around Chennai. Getting to these temples is str
 Since we are back to Thondai Nādu, most of the temples in this area were also built by the Pallavās. There were also some later additions by the Thanjavūr Nāyaks, who ruled the Thanjavūr principality in the 16th and 17th centuries.
 
 
-***1. Thiruevvul - Sri Veerarāghava Perumāl Temple***
+***#90. Thiruevvul - Sri Veerarāghava Perumāl Temple***
 
 Our first stop was at Thiruvallur, at Sri Veerarāghava Perumāl temple. The first thing I noticed was the instantly recognizable saffron-colored bus standing outside the temple, that of Ahobila Mutt. I quickly gathered that this temple was administered by Ahobila Mutt and to our good fortune the present (46th Azhagiyasingar) was on the premises. We got his blessings and entered the temple.
 
@@ -42,7 +44,7 @@ Mentioned in Prabhandam by - Thirumangai azhwār & Thirumazhisai azhwār
 ![veeraraghava](/veeraraghava_4.jpg "Pushakarani")
 
 
-***2. Thirunindravur - Sri Bhaktavatsala Perumāl Temple***
+***#89. Thirunindravur - Sri Bhaktavatsala Perumāl Temple***
 
 From here we proceeded to Thirunindravur, to visit Bhaktavatsala Perumāl temple. "Nindra" means to stand in Tamil and "oor/vur" is town, and this temple is so named for the Thaayar (goddess) who, as the legend goes, had a tiff with Samudrarajan (god of the oceans) and stands her ground here. She is also known as "ennai petra thayār", indicating her forgiveness to Samudrarajan.
 
