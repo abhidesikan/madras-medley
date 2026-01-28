@@ -8,6 +8,8 @@ tags: ['travel', 'temples', 'Vaishnavism']
 
 *Visited: October 2017*
 
+<small>🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 **+15 Thondai Nadu** · [View full progress](/divya-desams/)</small>
+
 **The Story**
 
 This past October I was blessed to start my quest to visit all 108 (106 on Earth) Divya Desams by completing fifteen in a one day visit to Kanchipuram, a town in the Indian state of Tamil Nadu. This post is part one of what I hope will be an ongoing series of my visits to these temples. I intend this post to be a travel guide combined with some interesting Factoids and history of these temples.

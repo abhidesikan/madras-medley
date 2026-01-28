@@ -8,6 +8,8 @@ tags: ['travel', 'temples', 'Vaishnavism']
 
 *Visited: July 2019*
 
+<small>🟦🟦🟦 **+3 Thondai Nadu** · [View full progress](/divya-desams/)</small>
+
 **The Story**
 
 We are back to our exploration of Divya Desams in Bhārat. Although I visited these temples last July, I got time to pen down the experience only now, so I apologize if I missed out on some details. For those who aren't familiar with this series, I highly recommend you read [part 1](https://madrasmedley.com/divya-desams/quest-108-1/) and [part 2](https://madrasmedley.com/divya-desams/quest-108-2/) to get an idea.

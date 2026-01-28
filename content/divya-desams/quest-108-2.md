@@ -8,6 +8,8 @@ tags: ['travel', 'temples', 'Vaishnavism']
 
 *Visited: October - November 2018*
 
+<small>🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 **+12 Chola Nadu** · [View full progress](/divya-desams/)</small>
+
 **The Story**
 
 Hey.

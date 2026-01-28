@@ -8,6 +8,8 @@ tags: ['travel', 'temples', 'Vaishnavism']
 
 *Visited: December 2019*
 
+<small>🟩🟩 **+2 Vada Nadu** · [View full progress](/divya-desams/)</small>
+
 **The Story**
 
 I've been lagging behind on documenting my experiences in visiting Divya Desams. Covid isolation is, in theory, supposed to give one more time to indulge in their favorite pastimes. But, it hasn't worked out so well in practice. In this part 4 (you can refer to parts 1, 2, and 3 [here](https://madrasmedley.com/divya-desams/quest-108-1/), [here](https://madrasmedley.com/divya-desams/quest-108-2/), and [here](https://madrasmedley.com/divya-desams/quest-108-3/) respectively), I will cover two temples I visited in Mathura and Gokul in December 2019. That trip included traveling to many other places as well, and you can read the entire story [here](https://madrasmedley.blogspot.com/2020/05/exploring-northern-india-my-trip-to.html).
