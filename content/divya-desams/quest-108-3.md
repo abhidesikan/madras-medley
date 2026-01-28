@@ -3,6 +3,8 @@ title: "Quest for 108 - Part 3 (Chennai-Thiruvallur Divya Desams) [30/108]"
 date: 2020-01-10T18:15:41-08:00
 draft: false
 featured_image: "/veeraraghava_1.jpg"
+description: "Exploring Divya Desams around Chennai and Thiruvallur including Veeraraghava Perumal Temple and Bhaktavatsala Perumal Temple."
+keywords: ["Divya Desams", "Chennai temples", "Thiruvallur", "Vaishnavism", "Tamil Nadu", "travel"]
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
 

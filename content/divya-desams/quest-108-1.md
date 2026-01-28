@@ -3,6 +3,8 @@ title: "Quest for 108 - Part 1 (Kanchipuram Divya Desams) [15/108]"
 date: 2017-12-17T19:37:27-08:00
 draft: false
 featured_image: "/varadaraja_1.JPG"
+description: "Starting my quest to visit all 108 Divya Desams with fifteen temples in Kanchipuram including Varadaraja Perumal and Ulagalantha Perumal."
+keywords: ["Divya Desams", "Kanchipuram temples", "Vaishnavism", "Tamil Nadu", "Varadaraja Perumal", "travel"]
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
 

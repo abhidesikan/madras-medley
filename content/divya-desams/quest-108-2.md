@@ -3,6 +3,8 @@ title: "Quest for 108 - Part 2 (Sirkazhi-Thirunagur-Chidambaram Divya Desams) [2
 date: 2019-02-05T18:15:41-08:00
 draft: false
 featured_image: "/govinda_1.JPG"
+description: "Visiting the eleven Thirunangur temples and the Govindaraja Perumal shrine at Chidambaram during the monsoon rains."
+keywords: ["Divya Desams", "Sirkazhi", "Thirunangur", "Chidambaram", "Vaishnavism", "Tamil Nadu temples", "travel"]
 tags: ['travel', 'temples', 'Vaishnavism']
 ---
 
