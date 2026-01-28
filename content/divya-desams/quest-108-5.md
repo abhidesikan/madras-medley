@@ -2,7 +2,7 @@
 title: "Quest for 108 - Part 5 (Kumbakonam Divya Desams) [41/108]"
 date: 2026-01-28T13:30:00+05:30
 draft: false
-featured_image: "/Oppiliappan.jpg"
+featured_image: "/Oppiliappan_og.jpg"
 description: "After a long gap I am back updating my trips to Divya Desams. We visited 9 temples in Kumbakōnam including Oppiliappan, Nachiyar Koil, Sarangapani and more."
 keywords: ["Divya Desams", "Kumbakonam temples", "Vaishnavism", "Tamil Nadu temples", "Oppiliappan", "travel"]
 tags: ['travel', 'temples', 'Vaishnavism']
