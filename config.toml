@@ -1,4 +1,4 @@
-baseURL = 'https://madras-medley.netlify.app/'
+baseURL = 'https://madrasmedley.com/'
 languageCode = 'en-us'
 title = 'Madras Medley'
 theme = 'hugo-ink'
