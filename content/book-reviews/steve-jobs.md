@@ -1,5 +1,5 @@
 ---
-title: "Steve Jobs by Walter Isaacson - Review by Abhishek Desikan"
+title: "Steve Jobs by Walter Isaacson"
 date: 2015-02-26T18:13:17-08:00
 draft: false
 rating: 5

@@ -1,5 +1,5 @@
 ---
-title: "The Battle for Rama : Case of the Temple at Ayodhya - Review by Abhishek Desikan"
+title: "The Battle for Rama : Case of the Temple at Ayodhya"
 date: 2023-09-30T08:30:56-07:00
 draft: false
 rating: 4

@@ -1,5 +1,5 @@
 ---
-title: "India's Secularism by Sita Ram Goel - Review by Abhishek Desikan"
+title: "India's Secularism by Sita Ram Goel"
 date: 2018-04-14T19:06:47-08:00
 draft: false
 rating: 5

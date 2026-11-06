@@ -1,5 +1,5 @@
 ---
-title: "Siddhartha by Hermann Hesse - Review by Abhishek Desikan"
+title: "Siddhartha by Hermann Hesse"
 date: 2016-03-04T18:13:17-08:00
 draft: false
 rating: 4

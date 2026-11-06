@@ -1,5 +1,5 @@
 ---
-title: "How Should A Government Be?: The New Levers of State Power by Jaideep Prabhu - Review by Abhishek Desikan"
+title: "How Should A Government Be?: The New Levers of State Power by Jaideep Prabhu"
 date: 2021-07-09T18:42:39-08:00
 draft: false
 rating: 5

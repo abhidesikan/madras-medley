@@ -1,5 +1,5 @@
 ---
-title: "A Gentleman in Moscow by Amor Towles - Review by Abhishek Desikan"
+title: "A Gentleman in Moscow by Amor Towles"
 date: 2020-01-17T22:41:59-08:00
 draft: false
 rating: 5

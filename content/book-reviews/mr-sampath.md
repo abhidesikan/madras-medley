@@ -1,5 +1,5 @@
 ---
-title: "Mr. Sampath - The Printer of Malgudi by R.K. Narayan - Review by Abhishek Desikan"
+title: "Mr. Sampath - The Printer of Malgudi by R.K. Narayan"
 date: 2022-05-09T21:42:54-07:00
 draft: false
 rating: 3

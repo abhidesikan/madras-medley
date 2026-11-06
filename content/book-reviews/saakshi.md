@@ -1,5 +1,5 @@
 ---
-title: "Saakshi: The Witness by S.L. Bhyrappa - Review by Abhishek Desikan"
+title: "Saakshi: The Witness by S.L. Bhyrappa"
 date: 2019-05-30T22:41:06-08:00
 draft: false
 rating: 3

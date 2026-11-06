@@ -1,5 +1,5 @@
 ---
-title: "RESET: Regaining India’s Economic Legacy by Subramanian Swamy - Review by Abhishek Desikan"
+title: "RESET: Regaining India’s Economic Legacy by Subramanian Swamy"
 date: 2019-11-26T22:41:37-08:00
 draft: false
 rating: 4

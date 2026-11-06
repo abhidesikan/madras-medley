@@ -1,5 +1,5 @@
 ---
-title: "The Goat Thief by Perumal Murugan - Review by Abhishek Desikan"
+title: "The Goat Thief by Perumal Murugan"
 date: 2020-02-07T18:40:23-08:00
 draft: false
 rating: 4

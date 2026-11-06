@@ -1,83 +1,116 @@
 <!DOCTYPE html>
-<html {{- if (eq .Site.Params.mode "dark") -}}class="dark"{{ end }}>
-{{ partial "header.html" . }}
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Site.Title }}</title>
+<meta name="description" content="{{ .Site.Params.description }}">
+<style>
+  :root { --text:#333; --muted:#888; --link:#3273dc; --bg:#fff; --rule:#eee; color-scheme: light dark; }
+  @media (prefers-color-scheme: dark) {
+    :root { --text:#ddd; --muted:#999; --link:#8cc2dd; --bg:#1f1f1f; --rule:#3a3a3a; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto; max-width: 680px; padding: 2rem 1.2rem 2.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.08rem; line-height: 1.75; color: var(--text); background: var(--bg);
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1 { font-size: 1.9rem; margin: 0 0 .2rem; }
+  .tagline { color: var(--muted); margin: 0 0 1.6rem; font-size: .98rem; }
+  h2 { font-size: 1.15rem; margin: 1.7rem 0 .5rem; }
+  p { margin: .7rem 0; }
+  ul { margin: .4rem 0 .8rem; padding-left: 1.3rem; }
+  li { margin: .25rem 0; }
+  .date { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+  nav.top { margin-bottom: 1.6rem; font-size: .98rem; }
+  nav.top a { margin-right: 1rem; }
+  figure { margin: 2.2rem 0 1.2rem; }
+  figure img { max-width: 100%; height: auto; border-radius: 4px; }
+  figcaption { color: var(--muted); font-size: .92rem; margin-top: .4rem; }
+  footer { margin-top: 2.4rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .92rem; }
+  footer a { margin-right: 1rem; }
+</style>
+</head>
 <body>
-	<div class="container wrapper">
-		{{ partial "head.html" . }}
 
-		<!-- Recent Book Reviews Section -->
-		{{ $bookReviews := where .Site.RegularPages "Section" "book-reviews" }}
-		{{ if gt (len $bookReviews) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Recent Book Reviews</h2>
-			<div class="posts">
-				{{ range first 10 $bookReviews }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/book-reviews" style="font-weight: 500;">View all book reviews →</a>
-			</p>
-		</div>
-		{{ end }}
+<h1>Madras Medley</h1>
+<p class="tagline">धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization</p>
 
-		<!-- Divya Desams Section -->
-		{{ $divyaDesams := where .Site.RegularPages "Section" "divya-desams" }}
-		{{ if gt (len $divyaDesams) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Divya Desams Journey</h2>
-			<div class="posts">
-				{{ range first 5 $divyaDesams }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/divya-desams" style="font-weight: 500;">Explore the pilgrimage →</a>
-			</p>
-		</div>
-		{{ end }}
+<nav class="top">
+  <a href="/book-reviews/">book reviews</a>
+  <a href="/divya-desams/">divya desams</a>
+  <a href="/posts/">essays</a>
+  <a href="/travel/">travel</a>
+  <a href="/archive/">archive</a>
+</nav>
 
-		<!-- Essays & Thoughts Section -->
-		{{ $thoughts := where .Site.RegularPages "Section" "in" (slice "thoughts" "posts") }}
-		{{ if gt (len $thoughts) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Essays & Reflections</h2>
-			<div class="posts">
-				{{ range first 5 $thoughts }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/posts" style="font-weight: 500;">View all essays →</a>
-			</p>
-		</div>
-		{{ end }}
+<p>Namaste!</p>
 
-		<!-- Travel Section -->
-		{{ $travel := where .Site.RegularPages "Section" "travel" }}
-		{{ if gt (len $travel) 0 }}
-		<div class="section">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Travel</h2>
-			<div class="posts">
-				{{ range first 3 $travel }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/travel" style="font-weight: 500;">View all travel posts →</a>
-			</p>
-		</div>
-		{{ end }}
+<p>My name is Abhishek Desikan, and I am from Chennai, India. I work as an Engineering Manager at Amazon.</p>
 
-	</div>
-	{{ partial "footer.html" . }}
+<p>I’ve loved reading and writing since I was young. Being a stickler for organization, I felt the need to collate all these writings in one spot, which gave birth to this website.</p>
+
+<p>Why <em>Madras Medley</em>? I have a lot of fondness for my city Chennai, where I grew up, known as Madras back then. And I dabble in many things which interest me, and hence this site is a “medley” of my thoughts!</p>
+
+<p><strong>what you will find here:</strong></p>
+<ul>
+  <li><a href="/book-reviews/">book reviews</a> — mostly Indian history, culture and civilization, and the occasional novel</li>
+  <li>a slow pilgrimage to the <a href="/divya-desams/">108 Divya Desams</a> — 41 of 108 so far</li>
+  <li><a href="/posts/">essays and reflections</a> on work, family, genetics, mythology and more</li>
+  <li><a href="/travel/">travel writing</a>, from temple towns to a decade in America</li>
+  <li>articles I have <a href="/published-articles/">published elsewhere</a>, gathered back home</li>
+</ul>
+
+<h2>recent book reviews</h2>
+<ul>
+{{ range first 5 (where .Site.RegularPages "Section" "book-reviews") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/book-reviews/">view all book reviews →</a></p>
+
+<h2>the quest for 108</h2>
+<ul>
+{{ range first 3 (where .Site.RegularPages "Section" "divya-desams") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/divya-desams/">explore the pilgrimage →</a></p>
+
+<h2>essays &amp; reflections</h2>
+<ul>
+{{ range first 4 (where .Site.RegularPages "Section" "in" (slice "thoughts" "posts")) }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/posts/">view all essays →</a></p>
+
+<h2>travel</h2>
+<ul>
+{{ range first 2 (where .Site.RegularPages "Section" "travel") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/travel/">view all travel posts →</a></p>
+
+<figure>
+  <img src="/milky-way.jpg" alt="milky-way">
+  <figcaption>Crater Lake, August 2020</figcaption>
+</figure>
+
+<p>Over the years, I have published many articles on different platforms, like <a href="https://madrasmedley.blogspot.com/">Blogspot</a>, <a href="https://abhidesi.medium.com/">Medium</a>, <a href="https://www.goodreads.com/review/list/33284960-abhishek?ref=nav_mybooks&shelf=read">Goodreads</a>, etc. I’ve also written a few articles for sports websites and Indic ones like Indica Today.</p>
+
+<p>I hope you enjoy my points of view and am looking forward to connecting with my readers.</p>
+
+<footer>
+  <a href="https://www.goodreads.com/review/list/33284960-abhishek">goodreads</a>
+  <a href="https://abhidesi.medium.com/">medium</a>
+  <a href="/index.xml">rss</a>
+  <p>© {{ now.Format "2006" }} Abhishek Desikan · Madras Medley</p>
+</footer>
+
 </body>
 </html>

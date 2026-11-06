@@ -1,5 +1,5 @@
 ---
-title: "The Difficulty of Being Good: On the Subtle Art of Dharma by Gurcharan Das - Review by Abhishek Desikan"
+title: "The Difficulty of Being Good: On the Subtle Art of Dharma by Gurcharan Das"
 date: 2019-02-10T18:13:17-08:00
 draft: false
 rating: 3

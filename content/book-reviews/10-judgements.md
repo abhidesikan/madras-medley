@@ -1,5 +1,5 @@
 ---
-title: "10 Judgements That Changed India by Zia Mody - Review by Abhishek Desikan"
+title: "10 Judgements That Changed India by Zia Mody"
 date: 2021-03-10T18:41:56-08:00
 draft: false
 rating: 4
