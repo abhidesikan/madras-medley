@@ -1,5 +1,5 @@
 ---
-title: "History Under Your Feet by Ratnakar Sadasyula - Review by Abhishek Desikan"
+title: "History Under Your Feet by Ratnakar Sadasyula"
 date: 2020-06-20T18:40:47-08:00
 draft: false
 rating: 4

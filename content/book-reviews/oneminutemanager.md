@@ -1,5 +1,5 @@
 ---
-title: "The New One Minute Manager by Ken Blanchard - Review by Abhishek Desikan"
+title: "The New One Minute Manager by Ken Blanchard"
 date: 2024-01-14T20:06:32-08:00
 draft: false
 rating: 3

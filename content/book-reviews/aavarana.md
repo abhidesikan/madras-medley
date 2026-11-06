@@ -1,5 +1,5 @@
 ---
-title: "Aavarana : The Veil by S.L.Bhyrappa - Review by Abhishek Desikan"
+title: "Aavarana : The Veil by S.L.Bhyrappa"
 date: 2018-12-04T22:40:03-08:00
 draft: false
 rating: 5

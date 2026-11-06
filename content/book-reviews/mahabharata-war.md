@@ -1,5 +1,5 @@
 ---
-title: "When Did The Mahabharata War Happen? : The Mystery of Arundhati by Nilesh Nilkanth Oak - Review by Abhishek Desikan"
+title: "When Did The Mahabharata War Happen? : The Mystery of Arundhati by Nilesh Nilkanth Oak"
 date: 2018-02-14T19:06:22-08:00
 draft: false
 rating: 4

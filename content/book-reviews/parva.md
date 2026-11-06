@@ -1,5 +1,5 @@
 ---
-title: "Parva by S.L.Bhyrappa - Review by Abhishek Desikan"
+title: "Parva by S.L.Bhyrappa"
 date: 2020-11-28T22:34:37-08:00
 draft: false
 rating: 5

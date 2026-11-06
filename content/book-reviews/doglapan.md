@@ -1,5 +1,5 @@
 ---
-title: "Doglapan: The Hard Truth about Life and Start-Ups - Review by Abhishek Desikan"
+title: "Doglapan: The Hard Truth about Life and Start-Ups"
 date: 2023-07-29T10:09:06-07:00
 draft: false
 rating: 4

@@ -1,5 +1,5 @@
 ---
-title: "Yuganta: The End of an Epoch by Irawati Karve - Review by Abhishek Desikan"
+title: "Yuganta: The End of an Epoch by Irawati Karve"
 date: 2016-02-15T18:13:17-08:00
 draft: false
 rating: 4

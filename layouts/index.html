@@ -6,25 +6,28 @@
 <title>{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
 <style>
-  :root { --text:#333; --muted:#888; --link:#3273dc; }
+  :root { --text:#333; --muted:#888; --link:#3273dc; --bg:#fff; --rule:#eee; color-scheme: light dark; }
+  @media (prefers-color-scheme: dark) {
+    :root { --text:#ddd; --muted:#999; --link:#8cc2dd; --bg:#1f1f1f; --rule:#3a3a3a; }
+  }
   * { box-sizing: border-box; }
   body {
-    margin: 0 auto; max-width: 680px; padding: 2.5rem 1.2rem 3rem;
+    margin: 0 auto; max-width: 680px; padding: 2rem 1.2rem 2.5rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-    font-size: 1.05rem; line-height: 1.65; color: var(--text); background: #fff;
+    font-size: 1.05rem; line-height: 1.6; color: var(--text); background: var(--bg);
   }
   a { color: var(--link); text-decoration: none; }
   a:hover { text-decoration: underline; }
   h1 { font-size: 1.9rem; margin: 0 0 .2rem; }
-  .tagline { color: var(--muted); margin: 0 0 2rem; font-size: .98rem; }
-  h2 { font-size: 1.15rem; margin: 2.2rem 0 .6rem; }
-  p { margin: .8rem 0; }
-  ul { margin: .4rem 0 1rem; padding-left: 1.3rem; }
-  li { margin: .35rem 0; }
+  .tagline { color: var(--muted); margin: 0 0 1.6rem; font-size: .98rem; }
+  h2 { font-size: 1.15rem; margin: 1.7rem 0 .5rem; }
+  p { margin: .7rem 0; }
+  ul { margin: .4rem 0 .8rem; padding-left: 1.3rem; }
+  li { margin: .25rem 0; }
   .date { color: var(--muted); font-size: .9rem; white-space: nowrap; }
-  nav.top { margin-bottom: 2rem; font-size: .98rem; }
+  nav.top { margin-bottom: 1.6rem; font-size: .98rem; }
   nav.top a { margin-right: 1rem; }
-  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eee; color: var(--muted); font-size: .92rem; }
+  footer { margin-top: 2.4rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .92rem; }
   footer a { margin-right: 1rem; }
 </style>
 </head>
@@ -44,7 +47,7 @@
 
 <p>Namaste! I am Abhishek :)</p>
 
-<p>I am from Chennai — Madras, as it was known when I grew up — and after a decade in the US, I have moved back home. I work as a Senior Software Engineer at Amazon. I have loved reading and writing since I was young, and this site is where I collate all of it in one place.</p>
+<p>I am from Chennai — Madras, as it was known when I grew up. I work as a Senior Software Engineer at Amazon. I have loved reading and writing since I was young, and this site is where I collate all of it in one place.</p>
 
 <p>Why <em>Madras Medley</em>? Fondness for my city, and because I dabble in many things that interest me — so this site is a medley of my thoughts.</p>
 
@@ -59,7 +62,7 @@
 
 <h2>recent book reviews</h2>
 <ul>
-{{ range first 8 (where .Site.RegularPages "Section" "book-reviews") }}
+{{ range first 5 (where .Site.RegularPages "Section" "book-reviews") }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
 {{ end }}
 </ul>
@@ -67,7 +70,7 @@
 
 <h2>the quest for 108</h2>
 <ul>
-{{ range first 4 (where .Site.RegularPages "Section" "divya-desams") }}
+{{ range first 3 (where .Site.RegularPages "Section" "divya-desams") }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
 {{ end }}
 </ul>
@@ -75,7 +78,7 @@
 
 <h2>essays &amp; reflections</h2>
 <ul>
-{{ range first 5 (where .Site.RegularPages "Section" "in" (slice "thoughts" "posts")) }}
+{{ range first 4 (where .Site.RegularPages "Section" "in" (slice "thoughts" "posts")) }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
 {{ end }}
 </ul>
@@ -83,7 +86,7 @@
 
 <h2>travel</h2>
 <ul>
-{{ range first 3 (where .Site.RegularPages "Section" "travel") }}
+{{ range first 2 (where .Site.RegularPages "Section" "travel") }}
   <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
 {{ end }}
 </ul>

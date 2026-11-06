@@ -1,5 +1,5 @@
 --- 
-title: “Raya by Srinivas Reddy - Review by Abhishek Desikan”
+title: “Raya by Srinivas Reddy”
 date: 2024-03-27T13:45:15-08:00
 draft: false
 rating: 3

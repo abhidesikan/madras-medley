@@ -1,5 +1,5 @@
 ---
-title: "Good News India: Ordinary Indians, Extraordinary Triumphs by D.V. Sridharan - Review by Abhishek Desikan"
+title: "Good News India: Ordinary Indians, Extraordinary Triumphs by D.V. Sridharan"
 date: 2021-12-25T18:43:45-08:00
 draft: false
 rating: 4

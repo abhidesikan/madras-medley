@@ -1,5 +1,5 @@
 ---
-title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance - Review by Abhishek Desikan"
+title: "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance"
 date: 2017-09-22T19:05:15-08:00
 draft: false
 rating: 4

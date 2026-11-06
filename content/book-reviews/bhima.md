@@ -1,5 +1,5 @@
 ---
-title: "Bhima Lone Warrior by M.T. Vasudevan Nair - Review by Abhishek Desikan"
+title: "Bhima Lone Warrior by M.T. Vasudevan Nair"
 date: 2018-05-08T19:06:57-08:00
 draft: false
 rating: 5

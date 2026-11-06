@@ -1,5 +1,5 @@
 ---
-title: "The Curse of Gandhari by Aditi Banerjee - Review by Abhishek Desikan"
+title: "The Curse of Gandhari by Aditi Banerjee"
 date: 2020-02-02T22:42:14-08:00
 draft: false
 rating: 5

@@ -1,5 +1,5 @@
 ---
-title: "The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them by Antony Lewis - Review by Abhishek Desikan"
+title: "The Basics of Bitcoins and Blockchains: An Introduction to Cryptocurrencies and the Technology that Powers Them by Antony Lewis"
 date: 2021-05-20T18:42:26-08:00
 draft: false
 rating: 5

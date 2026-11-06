@@ -1,5 +1,5 @@
 ---
-title: "City of Victory: The Rise and Fall of Vijayanagara - Review by Abhishek Desikan"
+title: "City of Victory: The Rise and Fall of Vijayanagara"
 date: 2022-01-23T20:03:21-08:00
 draft: false
 rating: 3

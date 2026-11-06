@@ -1,5 +1,5 @@
 ---
-title: "From Tryst to Tendulkar: The History of Independent India by Balaji Viswanathan - Review by Abhishek Desikan"
+title: "From Tryst to Tendulkar: The History of Independent India by Balaji Viswanathan"
 date: 2016-11-07T18:13:17-08:00
 draft: false
 rating: 3

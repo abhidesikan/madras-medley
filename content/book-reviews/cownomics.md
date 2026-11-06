@@ -1,5 +1,5 @@
 ---
-title: "Cownomics by Arti Agarwal - Review by Abhishek Desikan"
+title: "Cownomics by Arti Agarwal"
 date: 2021-12-29T18:43:56-08:00
 draft: false
 rating: 4

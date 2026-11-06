@@ -1,5 +1,5 @@
 ---
-title: "Suheldev & the Battle of Bahraich (Indic Chronicles #1) by Amish Tripathi - Review by Abhishek Desikan"
+title: "Suheldev & the Battle of Bahraich (Indic Chronicles #1) by Amish Tripathi"
 date: 2020-08-11T18:40:57-08:00
 draft: false
 rating: 4

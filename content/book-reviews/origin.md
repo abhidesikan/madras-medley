@@ -1,5 +1,5 @@
 ---
-title: "Origin by Dan Brown - Review by Abhishek Desikan"
+title: "Origin by Dan Brown"
 date: 2018-09-23T22:33:58-08:00
 draft: false
 rating: 2

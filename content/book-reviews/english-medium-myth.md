@@ -1,5 +1,5 @@
 ---
-title: "The English Medium Myth by Sankrant Sanu - Review by Abhishek Desikan"
+title: "The English Medium Myth by Sankrant Sanu"
 date: 2022-02-13T13:51:45-08:00
 draft: false
 rating: 4
