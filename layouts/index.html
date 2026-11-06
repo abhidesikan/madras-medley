@@ -1,83 +1,101 @@
 <!DOCTYPE html>
-<html {{- if (eq .Site.Params.mode "dark") -}}class="dark"{{ end }}>
-{{ partial "header.html" . }}
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Site.Title }}</title>
+<meta name="description" content="{{ .Site.Params.description }}">
+<style>
+  :root { --text:#333; --muted:#888; --link:#3273dc; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto; max-width: 680px; padding: 2.5rem 1.2rem 3rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.05rem; line-height: 1.65; color: var(--text); background: #fff;
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1 { font-size: 1.9rem; margin: 0 0 .2rem; }
+  .tagline { color: var(--muted); margin: 0 0 2rem; font-size: .98rem; }
+  h2 { font-size: 1.15rem; margin: 2.2rem 0 .6rem; }
+  p { margin: .8rem 0; }
+  ul { margin: .4rem 0 1rem; padding-left: 1.3rem; }
+  li { margin: .35rem 0; }
+  .date { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+  nav.top { margin-bottom: 2rem; font-size: .98rem; }
+  nav.top a { margin-right: 1rem; }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eee; color: var(--muted); font-size: .92rem; }
+  footer a { margin-right: 1rem; }
+</style>
+</head>
 <body>
-	<div class="container wrapper">
-		{{ partial "head.html" . }}
 
-		<!-- Recent Book Reviews Section -->
-		{{ $bookReviews := where .Site.RegularPages "Section" "book-reviews" }}
-		{{ if gt (len $bookReviews) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Recent Book Reviews</h2>
-			<div class="posts">
-				{{ range first 10 $bookReviews }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/book-reviews" style="font-weight: 500;">View all book reviews →</a>
-			</p>
-		</div>
-		{{ end }}
+<h1>Madras Medley</h1>
+<p class="tagline">धर्मो रक्षति रक्षितः | Books | History | Travel | Technology | Civilization</p>
 
-		<!-- Divya Desams Section -->
-		{{ $divyaDesams := where .Site.RegularPages "Section" "divya-desams" }}
-		{{ if gt (len $divyaDesams) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Divya Desams Journey</h2>
-			<div class="posts">
-				{{ range first 5 $divyaDesams }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/divya-desams" style="font-weight: 500;">Explore the pilgrimage →</a>
-			</p>
-		</div>
-		{{ end }}
+<nav class="top">
+  <a href="/about/">about</a>
+  <a href="/book-reviews/">book reviews</a>
+  <a href="/divya-desams/">divya desams</a>
+  <a href="/posts/">essays</a>
+  <a href="/travel/">travel</a>
+  <a href="/archive/">archive</a>
+</nav>
 
-		<!-- Essays & Thoughts Section -->
-		{{ $thoughts := where .Site.RegularPages "Section" "in" (slice "thoughts" "posts") }}
-		{{ if gt (len $thoughts) 0 }}
-		<div class="section" style="margin-bottom: 2.5em;">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Essays & Reflections</h2>
-			<div class="posts">
-				{{ range first 5 $thoughts }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/posts" style="font-weight: 500;">View all essays →</a>
-			</p>
-		</div>
-		{{ end }}
+<p>Namaste! I am Abhishek :)</p>
 
-		<!-- Travel Section -->
-		{{ $travel := where .Site.RegularPages "Section" "travel" }}
-		{{ if gt (len $travel) 0 }}
-		<div class="section">
-			<h2 style="font-size: 1.4rem; margin-bottom: 1em; color: #1a1a1a;">Travel</h2>
-			<div class="posts">
-				{{ range first 3 $travel }}
-					<div class="post">
-						{{ partial "post-preview.html" . }}
-					</div>
-				{{ end }}
-			</div>
-			<p style="margin-top: 1.2em;">
-				<a href="/travel" style="font-weight: 500;">View all travel posts →</a>
-			</p>
-		</div>
-		{{ end }}
+<p>I am from Chennai — Madras, as it was known when I grew up — and after a decade in the US, I have moved back home. I work as a Senior Software Engineer at Amazon. I have loved reading and writing since I was young, and this site is where I collate all of it in one place.</p>
 
-	</div>
-	{{ partial "footer.html" . }}
+<p>Why <em>Madras Medley</em>? Fondness for my city, and because I dabble in many things that interest me — so this site is a medley of my thoughts.</p>
+
+<p><strong>what you will find here:</strong></p>
+<ul>
+  <li><a href="/book-reviews/">book reviews</a> — mostly Indian history, culture and civilization, and the occasional novel</li>
+  <li>a slow pilgrimage to the <a href="/divya-desams/">108 Divya Desams</a> — 41 of 108 so far</li>
+  <li><a href="/posts/">essays and reflections</a> on work, family, genetics, mythology and more</li>
+  <li><a href="/travel/">travel writing</a>, from temple towns to a decade in America</li>
+  <li>articles I have <a href="/published-articles/">published elsewhere</a>, gathered back home</li>
+</ul>
+
+<h2>recent book reviews</h2>
+<ul>
+{{ range first 8 (where .Site.RegularPages "Section" "book-reviews") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/book-reviews/">view all book reviews →</a></p>
+
+<h2>the quest for 108</h2>
+<ul>
+{{ range first 4 (where .Site.RegularPages "Section" "divya-desams") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/divya-desams/">explore the pilgrimage →</a></p>
+
+<h2>essays &amp; reflections</h2>
+<ul>
+{{ range first 5 (where .Site.RegularPages "Section" "in" (slice "thoughts" "posts")) }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/posts/">view all essays →</a></p>
+
+<h2>travel</h2>
+<ul>
+{{ range first 3 (where .Site.RegularPages "Section" "travel") }}
+  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span></li>
+{{ end }}
+</ul>
+<p><a href="/travel/">view all travel posts →</a></p>
+
+<footer>
+  <a href="/about/">about</a>
+  <a href="https://www.goodreads.com/review/list/33284960-abhishek">goodreads</a>
+  <a href="https://abhidesi.medium.com/">medium</a>
+  <a href="/index.xml">rss</a>
+  <p>© {{ now.Format "2006" }} Abhishek Desikan · Madras Medley</p>
+</footer>
+
 </body>
 </html>
