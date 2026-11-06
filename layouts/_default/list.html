@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ .Title }} · {{ .Site.Title }}</title>
+<meta name="description" content="{{ .Site.Params.description }}">
+{{ partial "bear-css.html" . }}
+</head>
+<body>
+
+<div class="site-title"><a href="/">Madras Medley</a></div>
+<nav class="top">
+  <a href="/about/">about</a>
+  <a href="/book-reviews/">book reviews</a>
+  <a href="/divya-desams/">divya desams</a>
+  <a href="/posts/">essays</a>
+  <a href="/travel/">travel</a>
+  <a href="/archive/">archive</a>
+</nav>
+
+<h1>{{ .Title }}</h1>
+
+{{ with .Content }}<div class="content">{{ . }}</div>{{ end }}
+
+<ul class="postlist">
+{{ range .Paginator.Pages }}
+  <li>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ if .Params.rating }}<span class="stars">{{ $full := int .Params.rating }}{{ if gt $full 0 }}{{ range seq $full }}★{{ end }}{{ end }}{{ if lt $full 5 }}{{ range seq (sub 5 $full) }}☆{{ end }}{{ end }}</span>{{ end }}
+    <span class="date">· {{ .Date.Format "Jan 2, 2006" }}</span>
+  </li>
+{{ end }}
+</ul>
+
+{{ if gt .Paginator.TotalPages 1 }}
+<div class="pager">
+  <span>{{ if .Paginator.HasPrev }}<a href="{{ .Paginator.Prev.URL }}">← newer</a>{{ end }}</span>
+  <span class="date">page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+  <span>{{ if .Paginator.HasNext }}<a href="{{ .Paginator.Next.URL }}">older →</a>{{ end }}</span>
+</div>
+{{ end }}
+
+<footer>
+  <a href="/">home</a>
+  <a href="https://www.goodreads.com/review/list/33284960-abhishek">goodreads</a>
+  <a href="https://abhidesi.medium.com/">medium</a>
+  <a href="/index.xml">rss</a>
+  <p>© {{ now.Format "2006" }} Abhishek Desikan · Madras Medley</p>
+</footer>
+
+</body>
+</html>

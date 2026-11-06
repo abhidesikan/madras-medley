@@ -1,0 +1,44 @@
+<style>
+  :root { --text:#333; --muted:#888; --link:#3273dc; --bg:#fff; --rule:#eee; color-scheme: light dark; }
+  @media (prefers-color-scheme: dark) {
+    :root { --text:#ddd; --muted:#999; --link:#8cc2dd; --bg:#1f1f1f; --rule:#3a3a3a; }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0 auto; max-width: 680px; padding: 2rem 1.2rem 2.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.05rem; line-height: 1.6; color: var(--text); background: var(--bg);
+  }
+  a { color: var(--link); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  h1 { font-size: 1.9rem; margin: 0 0 .2rem; line-height: 1.25; }
+  h1.post-title { font-size: 1.7rem; margin-bottom: .4rem; }
+  h2 { font-size: 1.2rem; margin: 1.7rem 0 .5rem; }
+  .site-title { font-size: 1.25rem; font-weight: 700; }
+  .site-title a { color: var(--text); }
+  .tagline { color: var(--muted); margin: 0 0 1.6rem; font-size: .98rem; }
+  nav.top { margin: .4rem 0 1.8rem; font-size: .98rem; }
+  nav.top a { margin-right: 1rem; }
+  .meta { color: var(--muted); font-size: .93rem; margin-bottom: 1.4rem; }
+  .stars { color: #f59e0b; letter-spacing: .08em; }
+  @media (prefers-color-scheme: dark) { .stars { color: #f5b942; } }
+  p { margin: .7rem 0; }
+  ul.postlist { margin: .4rem 0 .8rem; padding-left: 1.3rem; }
+  ul.postlist li { margin: .3rem 0; }
+  .date { color: var(--muted); font-size: .9rem; white-space: nowrap; }
+  .content img { max-width: 100%; height: auto; border-radius: 4px; }
+  .content blockquote { margin: 1rem 0; padding-left: 1rem; border-left: 3px solid var(--rule); color: var(--muted); }
+  .content h2 { font-size: 1.3rem; margin-top: 1.8rem; }
+  .content h3 { font-size: 1.12rem; margin-top: 1.5rem; }
+  .content hr { border: none; border-top: 1px solid var(--rule); margin: 2rem 0; }
+  .content pre { overflow-x: auto; padding: .8rem; background: rgba(127,127,127,.12); border-radius: 4px; font-size: .9rem; }
+  .content code { font-size: .92em; }
+  .content table { display: block; overflow-x: auto; border-collapse: collapse; }
+  .content td, .content th { border: 1px solid var(--rule); padding: .35rem .6rem; }
+  .tags, .share, .prevnext { margin-top: 2rem; padding-top: 1rem; border-top: 1px solid var(--rule); font-size: .95rem; color: var(--muted); }
+  .tags a, .share a { margin-right: .8rem; }
+  .prevnext { display: flex; justify-content: space-between; gap: 1rem; }
+  .pager { margin-top: 2rem; font-size: .95rem; display: flex; justify-content: space-between; }
+  footer { margin-top: 2.4rem; padding-top: 1rem; border-top: 1px solid var(--rule); color: var(--muted); font-size: .92rem; }
+  footer a { margin-right: 1rem; }
+</style>
