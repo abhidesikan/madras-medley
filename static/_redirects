@@ -1,0 +1,2 @@
+# Redirect the Netlify subdomain to the custom domain
+https://madras-medley.netlify.app/* https://madrasmedley.com/:splat 301!
