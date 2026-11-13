@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
+{{ partial "og-meta.html" . }}
 <style>
   :root { --text:#333; --muted:#888; --link:#3273dc; --bg:#fff; --rule:#eee; color-scheme: light dark; }
   @media (prefers-color-scheme: dark) {
