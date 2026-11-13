@@ -1,6 +1,6 @@
 ---
 title: "Mind Master: Winning Lessons from a Champion's Life by Viswanathan Anand"
-date: 2026-11-13T22:40:00+05:30
+date: 2026-11-13T18:00:00+05:30
 draft: false
 rating: 4
 description: "Sports autobiographies are always exciting to read and Mind Master is no different even though chess isn't a traditional..."
