@@ -23,7 +23,7 @@ category = "categories"
    customCSS = "css/custom.css"  # Custom CSS applied to default styles.
    disqusShortname = ""
    # Default image for social sharing (when post doesn't have an image)
-   defaultOGImage = "https://madras-medley.netlify.app/home.png"
+   defaultOGImage = "https://madrasmedley.com/home.png"
 
 
 # Nav.   
