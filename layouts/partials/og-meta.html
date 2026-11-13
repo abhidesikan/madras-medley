@@ -4,6 +4,8 @@ against the site BaseURL. No width/height is declared — let crawlers read
 the real image rather than guessing. */ -}}
 {{- $desc := .Site.Params.description -}}
 {{- with .Description }}{{ $desc = . }}{{ end -}}
+{{- $ogTitle := .Title -}}
+{{- if .IsHome }}{{ $ogTitle = .Site.Title }}{{ end -}}
 {{- $ogImage := "" -}}
 {{- if .Params.featured_image -}}
 	{{- $ogImage = .Params.featured_image -}}
@@ -23,15 +25,15 @@ the real image rather than guessing. */ -}}
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:title" content="{{ .Title }}">
+<meta property="og:title" content="{{ $ogTitle }}">
 <meta property="og:description" content="{{ $desc }}">
 {{- if $ogImage }}
 <meta property="og:image" content="{{ $ogImage }}">
 <meta property="og:image:secure_url" content="{{ $ogImage }}">
-<meta property="og:image:alt" content="{{ .Title }}">
+<meta property="og:image:alt" content="{{ $ogTitle }}">
 {{- end }}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:title" content="{{ $ogTitle }}">
 <meta name="twitter:description" content="{{ $desc }}">
 {{- if $ogImage }}
 <meta name="twitter:image" content="{{ $ogImage }}">
